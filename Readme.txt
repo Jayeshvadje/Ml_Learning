@@ -1,10 +1,3 @@
-Got it — you want a **clean, professional GitHub README** based on your ML roadmap.
-This should look **recruiter-friendly + interview-ready**, not just notes.
-
-You can copy-paste this directly 👇
-
----
-
 # 🚀 Machine Learning 5-Week Learning Journey
 
 ## 📌 Overview
