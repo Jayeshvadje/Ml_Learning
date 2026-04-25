@@ -1,0 +1,51 @@
+
+
+
+underfitting - underfitting mean the model which we are creating is not able to understand the pattern and they gave very bad score on training
+data set only. which means the model is not able to understand what is going inside correctly and what it have to predict.which leads to high bias
+reason - 1. model is too simple
+2.model have many unwanted features
+
+how to sort it out -
+1.remove the unwanted features from the dataset
+3.remove the regulazations
+4.increase the compelxity of the model lize max_depth() nad for regrssion add polonomiyal
+
+
+overfitting - overfitting is exactly opposte of underfitting, in overfitting the model train with too muh accuracy e.g - 98,99,100, it includes outliers nd noice
+but rather than traning it self the model only do the learning on traning data set and when new data or test data comes then the
+accuracy gets reduce signeficalntly or it does not give you correct prediction on new data and it have high verience
+reason - 1 . highly unbalanced data
+2.data set have less dataset and  not correct features
+3.model is too complex
+
+
+how to sort it out -
+1.give it L1 L2 regulazation
+2.include correct features so it can have correct values to predict
+3.reduce the complexity
+4.pruning technique
+5.split the data into multiple folds
+
+
+Good Fit -
+good fit means model is correctly understanding data and its hidden patterns , the testing accuracy as well as the traning accuracy is
+mostly nearby or same to each other
+
+how to do the good fit
+
+use correct features
+use K fold methods to fold the data in multiple sets
+start with simple model
+
+
+Bias - bias means the model is lining towards one deasion only rather that giving correct output. if you are straigth line(liner regression )
+but the actaul data line is curved still the model will point to the strigth line as your model is bais.
+high bais means your model is underfitting
+to reduce bais - you have to make your model complex
+and also add more features which can make the model to think more based on those features
+
+verience - over fitting - high-variance model tries to learn every single detail of its specific training set (including the random noise), it is extremely sensitive.
+Change one tiny thing in the training data, and the model completely changes its logic. This is why it performs so well on training data but falls apart the moment it sees new, unseen data.
+
+
