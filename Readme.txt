@@ -4,7 +4,7 @@
 
 This repository documents my structured **5-week Machine Learning learning journey**, focused on building strong fundamentals, hands-on skills, and real-world project experience.
 
-**Duration:** 12 April 2026 – 15 May 2026
+**Duration:** 12 April 2026 – 30 May 2026
 **Goal:** Become industry-ready and interview-ready for Machine Learning roles
 
 ---
