@@ -1,0 +1,201 @@
+Employee_ID,Department,Seniority_Level,Remote_Work,Monthly_Hours
+101,Sales,Junior,Yes,188
+102,Management,Junior,Yes,178
+103,Management,Senior,No,164
+104,Management,Senior,Yes,192
+105,Management,Junior,No,157
+106,Sales,Senior,Yes,170
+107,Sales,Senior,No,188
+108,Data Science,Mid,No,168
+109,Management,Mid,No,172
+110,Marketing,Senior,No,160
+111,Marketing,Senior,Yes,160
+112,Sales,Junior,No,173
+113,Data Science,Mid,No,185
+114,Marketing,Mid,No,189
+115,Dev,Mid,No,173
+116,Data Science,Senior,Yes,152
+117,Marketing,Mid,Yes,171
+118,Marketing,Senior,Yes,151
+119,Data Science,Mid,No,173
+120,Data Science,Junior,No,193
+121,Dev,Junior,Yes,179
+122,Sales,Junior,No,187
+123,QA,Mid,Yes,151
+124,Sales,Junior,Yes,170
+125,Management,Senior,Yes,182
+126,Management,Junior,Yes,161
+127,Management,Senior,No,171
+128,Data Science,Senior,Yes,193
+129,Marketing,Senior,Yes,174
+130,Sales,Mid,No,198
+131,Data Science,Mid,No,176
+132,Sales,Senior,No,191
+133,Dev,Senior,No,177
+134,Marketing,Junior,Yes,165
+135,Sales,Senior,Yes,164
+136,Sales,Junior,Yes,196
+137,Marketing,Mid,No,200
+138,Dev,Senior,No,193
+139,Data Science,Senior,No,152
+140,QA,Junior,No,186
+141,Marketing,Junior,No,200
+142,Management,Junior,No,156
+143,Dev,Senior,Yes,170
+144,Sales,Mid,Yes,158
+145,Management,Mid,Yes,188
+146,QA,Junior,Yes,167
+147,Dev,Senior,No,153
+148,Data Science,Mid,Yes,174
+149,Management,Senior,Yes,163
+150,QA,Senior,No,199
+151,Management,Senior,No,158
+152,Data Science,Senior,Yes,175
+153,QA,Mid,Yes,151
+154,Sales,Mid,No,169
+155,QA,Senior,Yes,177
+156,Management,Senior,Yes,196
+157,Management,Senior,No,156
+158,QA,Mid,No,193
+159,QA,Senior,Yes,157
+160,QA,Mid,No,196
+161,Marketing,Senior,No,184
+162,Data Science,Junior,Yes,163
+163,Marketing,Mid,No,166
+164,Sales,Senior,Yes,185
+165,Dev,Senior,Yes,199
+166,QA,Junior,Yes,189
+167,Marketing,Mid,No,153
+168,Dev,Senior,No,151
+169,Dev,Junior,No,155
+170,Sales,Junior,Yes,191
+171,Sales,Senior,Yes,153
+172,Marketing,Senior,No,178
+173,Dev,Senior,No,167
+174,Management,Senior,Yes,175
+175,Marketing,Mid,No,193
+176,Management,Junior,No,183
+177,QA,Mid,Yes,159
+178,Dev,Mid,Yes,185
+179,Data Science,Junior,Yes,163
+180,Marketing,Senior,Yes,180
+181,QA,Mid,No,197
+182,Sales,Senior,Yes,164
+183,Management,Senior,No,157
+184,Data Science,Junior,Yes,163
+185,QA,Junior,Yes,172
+186,Marketing,Senior,No,189
+187,QA,Senior,Yes,170
+188,Marketing,Senior,Yes,165
+189,QA,Junior,No,194
+190,Data Science,Mid,No,167
+191,Data Science,Mid,Yes,196
+192,Marketing,Senior,No,173
+193,Marketing,Senior,Yes,175
+194,Marketing,Senior,No,174
+195,Dev,Junior,Yes,194
+196,Marketing,Senior,Yes,190
+197,Marketing,Senior,No,178
+198,Management,Senior,No,164
+199,Marketing,Senior,Yes,194
+200,Marketing,Mid,Yes,150
+201,QA,Senior,No,174
+202,Management,Mid,Yes,156
+203,Management,Senior,Yes,158
+204,QA,Junior,Yes,173
+205,Dev,Mid,Yes,150
+206,Dev,Junior,Yes,193
+207,Data Science,Senior,No,157
+208,Management,Junior,Yes,173
+209,QA,Senior,Yes,160
+210,Data Science,Mid,Yes,200
+211,Data Science,Senior,Yes,166
+212,Data Science,Senior,Yes,157
+213,Data Science,Mid,No,184
+214,Data Science,Mid,No,184
+215,QA,Mid,No,182
+216,Data Science,Senior,Yes,154
+217,Marketing,Junior,Yes,191
+218,Marketing,Mid,Yes,188
+219,QA,Senior,Yes,190
+220,Dev,Junior,No,177
+221,Dev,Mid,No,156
+222,Data Science,Junior,No,158
+223,Management,Junior,No,157
+224,Data Science,Junior,Yes,161
+225,Data Science,Mid,No,183
+226,Sales,Senior,No,182
+227,Sales,Senior,Yes,197
+228,Data Science,Junior,No,172
+229,Marketing,Junior,No,173
+230,QA,Junior,No,186
+231,Dev,Mid,Yes,184
+232,Sales,Mid,No,193
+233,QA,Senior,Yes,189
+234,Dev,Senior,No,171
+235,Marketing,Mid,Yes,176
+236,Sales,Mid,No,184
+237,Management,Senior,No,150
+238,QA,Junior,No,184
+239,Dev,Senior,No,186
+240,Sales,Mid,No,196
+241,Management,Senior,No,163
+242,Dev,Junior,No,152
+243,Sales,Mid,No,150
+244,QA,Senior,Yes,154
+245,QA,Mid,Yes,175
+246,Management,Senior,Yes,163
+247,Dev,Junior,No,188
+248,QA,Junior,No,176
+249,Marketing,Senior,No,158
+250,Marketing,Mid,No,164
+251,Marketing,Junior,Yes,164
+252,QA,Mid,Yes,175
+253,Management,Mid,No,191
+254,Marketing,Senior,Yes,162
+255,Management,Senior,No,200
+256,Data Science,Senior,No,181
+257,Dev,Junior,Yes,188
+258,Data Science,Senior,Yes,198
+259,Management,Senior,Yes,181
+260,Management,Senior,No,153
+261,QA,Senior,Yes,179
+262,Dev,Junior,No,186
+263,Dev,Junior,Yes,172
+264,Sales,Mid,No,188
+265,Data Science,Junior,Yes,194
+266,Management,Mid,Yes,164
+267,Data Science,Mid,Yes,192
+268,Dev,Junior,No,178
+269,Sales,Senior,No,185
+270,Data Science,Senior,Yes,162
+271,Dev,Senior,Yes,181
+272,Dev,Mid,No,156
+273,QA,Senior,No,200
+274,QA,Junior,No,171
+275,Data Science,Mid,Yes,177
+276,Dev,Mid,No,151
+277,Data Science,Mid,No,191
+278,Data Science,Senior,No,194
+279,Marketing,Junior,No,155
+280,Management,Junior,No,177
+281,Data Science,Junior,Yes,177
+282,Sales,Mid,Yes,193
+283,Sales,Junior,No,193
+284,Dev,Senior,Yes,169
+285,Sales,Senior,Yes,179
+286,Management,Senior,No,160
+287,Management,Mid,No,177
+288,Sales,Junior,No,174
+289,Sales,Mid,Yes,188
+290,Management,Mid,Yes,182
+291,Dev,Mid,No,150
+292,Dev,Junior,No,176
+293,Data Science,Junior,No,162
+294,Management,Mid,No,190
+295,Management,Mid,No,152
+296,Management,Junior,No,188
+297,QA,Junior,No,155
+298,Dev,Mid,No,157
+299,QA,Senior,Yes,176
+300,Dev,Junior,Yes,158
