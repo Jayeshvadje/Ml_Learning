@@ -1,0 +1,2001 @@
+CustomerID,Age,Gender,Tenure_Months,Monthly_Bill_GBP,Data_Usage_GB,Call_Duration_Mins,Support_Calls,Contract_Type,Payment_Method
+TEL-1608,73,Non-binary,34,39.26,6.78,686.0,3,One year,Credit card
+TEL-1848,79,Non-binary,63,51.47,4.56,821.0,1,Two year,Electronic check
+TEL-2397,79,Male,60,19.16,1.89,147.0,0,One year,Bank transfer
+TEL-2186,49,Non-binary,7,27.78,0.73,126.0,0,One year,Credit card
+TEL-2086,43,Male,53,31.88,2.84,133.0,0,Two year,Bank transfer
+TEL-2961,49,Non-binary,72,60.38,15.51,596.0,8,Two year,Mailed check
+TEL-2494,22,Male,10,28.31,2.3,140.0,1,One year,Electronic check
+TEL-1413,79,Male,40,37.74,8.94,763.0,3,Two year,Credit card
+TEL-2092,76,Female,29,31.8,1.07,144.0,0,One year,Mailed check
+TEL-1300,83,Female,20,70.3,458.98,24.0,0,Two year,Mailed check
+TEL-1846,29,Non-binary,63,58.11,4.76,1106.0,1,One year,Mailed check
+TEL-2187,30,Female,22,34.93,1.79,61.0,1,Month-to-month,Electronic check
+TEL-1390,61,Male,31,98.63,481.32,73.0,1,One year,Bank transfer
+TEL-2193,26,Non-binary,52,24.85,2.21,91.0,0,Month-to-month,Electronic check
+TEL-2894,81,Female,40,69.2,28.65,98.0,6,Two year,Mailed check
+TEL-1564,40,Female,36,53.85,7.37,724.0,1,Two year,Mailed check
+TEL-1069,58,Male,29,95.71,438.91,39.0,0,Month-to-month,Mailed check
+TEL-2949,53,Male,46,59.91,21.6,148.0,5,Month-to-month,Mailed check
+TEL-1258,70,Male,24,88.08,410.87,21.0,2,Month-to-month,Credit card
+TEL-1317,25,Non-binary,36,75.82,397.64,33.0,0,Two year,Bank transfer
+TEL-1810,46,Female,47,65.06,1.55,505.0,4,One year,Credit card
+TEL-1911,68,Female,5,37.42,0.82,801.0,0,One year,Electronic check
+TEL-1951,25,Male,47,45.29,3.69,546.0,0,Month-to-month,Credit card
+TEL-2051,78,Non-binary,41,27.83,1.4,111.0,0,Month-to-month,Mailed check
+TEL-2161,79,Non-binary,7,25.47,2.76,15.0,0,Two year,Mailed check
+TEL-2705,20,Male,33,31.23,2.2,64.0,0,Two year,Electronic check
+TEL-1968,53,Male,49,54.69,5.59,700.0,2,One year,Bank transfer
+TEL-2806,71,Non-binary,68,54.48,28.04,271.0,4,One year,Mailed check
+TEL-1762,26,Male,66,50.79,6.36,866.0,3,Two year,Bank transfer
+TEL-1957,54,Non-binary,19,56.76,6.44,788.0,0,Two year,Electronic check
+TEL-1783,57,Non-binary,40,36.19,8.48,803.0,3,Two year,Credit card
+TEL-2316,51,Male,8,24.68,0.23,55.0,0,Two year,Bank transfer
+TEL-1279,26,Male,27,73.66,409.71,80.0,1,One year,Mailed check
+TEL-2993,46,Female,48,57.32,0.0,213.0,5,Month-to-month,Mailed check
+TEL-1096,82,Male,66,91.1,431.33,57.0,1,Month-to-month,Bank transfer
+TEL-2909,25,Non-binary,24,68.53,34.24,301.0,9,Month-to-month,Credit card
+TEL-1601,55,Non-binary,27,41.94,6.01,810.0,1,Month-to-month,Bank transfer
+TEL-2241,59,Male,1,23.74,2.74,69.0,0,One year,Electronic check
+TEL-1061,65,Male,49,78.13,509.2,79.0,1,Month-to-month,Electronic check
+TEL-1987,47,Male,41,52.16,5.44,762.0,4,Month-to-month,Bank transfer
+TEL-1834,53,Male,57,58.92,6.64,922.0,0,One year,Bank transfer
+TEL-2764,82,Non-binary,42,25.67,0.75,69.0,2,One year,Bank transfer
+TEL-1695,73,Male,27,57.87,6.25,893.0,0,Month-to-month,Electronic check
+TEL-1062,32,Female,53,101.24,467.09,25.0,2,Two year,Mailed check
+TEL-1918,62,Female,34,44.82,5.6,776.0,4,Month-to-month,Mailed check
+TEL-1268,84,Male,12,94.72,488.03,52.0,2,Month-to-month,Electronic check
+TEL-2384,32,Non-binary,35,25.59,0.78,37.0,0,One year,Electronic check
+TEL-2315,32,Female,8,21.9,2.4,41.0,0,Two year,Electronic check
+TEL-2492,27,Non-binary,39,26.91,1.28,105.0,0,Two year,Bank transfer
+TEL-2886,69,Non-binary,22,61.79,28.47,301.0,5,Two year,Electronic check
+TEL-2023,71,Female,36,17.5,0.57,85.0,0,One year,Credit card
+TEL-1805,32,Non-binary,14,41.44,5.08,945.0,2,Month-to-month,Mailed check
+TEL-2807,69,Female,16,69.43,20.71,98.0,6,Two year,Mailed check
+TEL-2352,28,Male,13,22.45,2.52,146.0,0,One year,Bank transfer
+TEL-1191,24,Non-binary,33,83.49,484.58,74.0,0,One year,Bank transfer
+TEL-2052,60,Male,54,26.31,0.18,71.0,1,Month-to-month,Electronic check
+TEL-2765,84,Non-binary,65,34.85,1.51,149.0,0,Two year,Mailed check
+TEL-2454,59,Male,58,22.77,1.34,40.0,1,One year,Mailed check
+TEL-2612,32,Non-binary,35,29.46,1.46,134.0,0,Month-to-month,Credit card
+TEL-2302,44,Non-binary,39,19.63,2.49,146.0,1,Two year,Credit card
+TEL-2857,80,Non-binary,61,81.78,3.88,319.0,7,Month-to-month,Electronic check
+TEL-1368,75,Female,72,81.71,361.55,62.0,1,Two year,Bank transfer
+TEL-1922,36,Non-binary,68,43.75,6.05,984.0,2,One year,Bank transfer
+TEL-2559,48,Male,55,21.37,1.78,52.0,0,Month-to-month,Mailed check
+TEL-1221,38,Female,61,81.63,436.17,26.0,3,One year,Electronic check
+TEL-1900,39,Non-binary,52,43.71,3.0,761.0,1,One year,Mailed check
+TEL-2069,64,Male,22,23.94,2.21,73.0,0,Two year,Bank transfer
+TEL-2929,48,Male,46,68.05,29.0,253.0,6,One year,Electronic check
+TEL-2222,57,Non-binary,31,20.79,1.52,86.0,0,Month-to-month,Credit card
+TEL-2253,63,Male,12,32.08,0.61,98.0,0,Month-to-month,Bank transfer
+TEL-2925,22,Female,52,62.82,14.26,313.0,8,One year,Bank transfer
+TEL-2071,79,Female,45,27.73,2.65,74.0,0,Two year,Credit card
+TEL-1614,83,Male,1,48.13,5.23,860.0,1,Month-to-month,Bank transfer
+TEL-2553,25,Male,59,25.76,0.85,69.0,1,Two year,Electronic check
+TEL-1859,28,Male,47,37.54,1.48,599.0,0,One year,Mailed check
+TEL-1669,35,Non-binary,22,51.91,0.86,717.0,0,One year,Bank transfer
+TEL-2829,19,Female,27,62.22,25.3,229.0,7,Two year,Electronic check
+TEL-1442,59,Non-binary,4,40.57,3.27,1023.0,6,Month-to-month,Bank transfer
+TEL-2172,23,Male,36,25.13,2.06,103.0,1,Month-to-month,Credit card
+TEL-1167,55,Female,2,80.93,440.12,19.0,1,One year,Mailed check
+TEL-2817,77,Male,1,72.07,27.21,364.0,5,One year,Electronic check
+TEL-2444,41,Female,21,19.12,2.38,72.0,0,One year,Mailed check
+TEL-2100,77,Female,39,25.24,4.17,28.0,0,Two year,Bank transfer
+TEL-2243,49,Non-binary,6,20.81,4.57,99.0,0,Two year,Mailed check
+TEL-1237,44,Male,31,88.99,454.66,72.0,2,Month-to-month,Electronic check
+TEL-1603,68,Male,35,39.45,4.26,1053.0,3,One year,Credit card
+TEL-2447,68,Male,49,18.97,1.24,127.0,3,Two year,Mailed check
+TEL-1804,81,Female,60,38.93,6.51,791.0,2,One year,Credit card
+TEL-2142,35,Male,47,23.48,3.48,107.0,1,Two year,Mailed check
+TEL-1997,75,Female,60,56.99,2.36,1176.0,1,Two year,Mailed check
+TEL-1149,56,Male,36,78.16,419.42,33.0,0,Two year,Mailed check
+TEL-1820,30,Male,11,44.28,6.44,923.0,0,One year,Mailed check
+TEL-1431,69,Female,16,26.39,0.52,378.0,5,Month-to-month,Mailed check
+TEL-2967,57,Non-binary,43,50.73,22.06,202.0,7,Month-to-month,Credit card
+TEL-2709,66,Non-binary,70,24.7,2.57,63.0,0,Two year,Electronic check
+TEL-1882,80,Male,70,61.84,4.87,794.0,3,Two year,Credit card
+TEL-2457,20,Male,38,24.51,0.67,146.0,0,One year,Bank transfer
+TEL-1630,68,Female,68,42.77,4.91,729.0,2,Two year,Electronic check
+TEL-2355,35,Female,18,25.28,2.3,127.0,0,One year,Bank transfer
+TEL-1347,81,Male,12,87.1,419.81,54.0,2,Month-to-month,Electronic check
+TEL-2503,64,Female,9,24.61,2.31,67.0,1,Month-to-month,Bank transfer
+TEL-1600,69,Non-binary,58,42.67,3.78,704.0,2,Month-to-month,Electronic check
+TEL-2834,51,Non-binary,57,63.29,28.19,228.0,6,Month-to-month,Bank transfer
+TEL-1711,41,Female,70,56.85,8.31,711.0,0,Month-to-month,Mailed check
+TEL-1240,47,Male,32,87.91,441.58,94.0,3,One year,Mailed check
+TEL-2571,48,Male,17,24.87,2.78,46.0,0,Month-to-month,Electronic check
+TEL-1106,68,Non-binary,45,85.84,454.14,63.0,0,One year,Mailed check
+TEL-2692,84,Male,55,31.78,2.34,102.0,0,Two year,Electronic check
+TEL-1842,23,Female,27,36.03,5.56,616.0,0,Two year,Bank transfer
+TEL-2596,45,Female,21,24.49,3.38,110.0,0,Two year,Electronic check
+TEL-2041,73,Non-binary,12,22.68,2.63,119.0,1,One year,Credit card
+TEL-2375,19,Female,69,17.63,0.05,81.0,0,Two year,Mailed check
+TEL-2982,64,Male,12,48.92,15.84,352.0,0,Two year,Electronic check
+TEL-1529,81,Male,12,37.16,2.56,1104.0,3,Two year,Electronic check
+TEL-1080,52,Male,71,92.09,418.57,6.0,3,One year,Credit card
+TEL-2232,44,Non-binary,30,27.3,-0.53,144.0,0,One year,Mailed check
+TEL-1996,43,Non-binary,39,38.71,6.22,851.0,1,Two year,Mailed check
+TEL-1645,44,Male,37,61.68,3.67,865.0,0,Two year,Mailed check
+TEL-2300,64,Non-binary,53,23.72,0.64,133.0,1,One year,Bank transfer
+TEL-1901,43,Male,36,50.66,3.97,471.0,2,One year,Electronic check
+TEL-1004,41,Male,13,73.02,420.68,25.0,0,Month-to-month,Credit card
+TEL-1441,70,Non-binary,54,49.02,1.47,708.0,3,Month-to-month,Mailed check
+TEL-1758,66,Non-binary,15,55.69,4.31,610.0,1,Month-to-month,Electronic check
+TEL-1445,31,Non-binary,25,35.99,4.01,797.0,1,One year,Bank transfer
+TEL-2064,66,Female,35,29.0,2.29,22.0,0,Two year,Mailed check
+TEL-1647,64,Female,59,47.6,1.92,1030.0,0,One year,Bank transfer
+TEL-1119,83,Non-binary,30,81.54,386.22,70.0,1,Two year,Mailed check
+TEL-2992,39,Male,23,80.23,1200.0,273.0,5,Two year,Electronic check
+TEL-2093,56,Male,51,20.6,0.98,136.0,2,Month-to-month,Mailed check
+TEL-2540,25,Female,69,17.33,3.99,50.0,0,One year,Credit card
+TEL-1049,21,Female,29,72.65,482.79,17.0,1,One year,Bank transfer
+TEL-1993,42,Male,10,52.54,7.66,894.0,1,Month-to-month,Electronic check
+TEL-2757,33,Male,55,12.0,1.57,161.0,1,Month-to-month,Mailed check
+TEL-1537,52,Female,40,39.21,8.57,773.0,0,One year,Bank transfer
+TEL-2766,69,Non-binary,31,35.91,2.02,23.0,1,Month-to-month,Mailed check
+TEL-1729,29,Female,32,49.96,5.27,520.0,0,One year,Mailed check
+TEL-1510,32,Male,53,45.2,4.75,475.0,1,Month-to-month,Credit card
+TEL-1504,37,Non-binary,43,44.62,4.28,972.0,2,Month-to-month,Electronic check
+TEL-1970,77,Male,2,58.39,7.68,1065.0,2,Month-to-month,Bank transfer
+TEL-1129,79,Non-binary,8,87.02,492.09,42.0,0,Month-to-month,Mailed check
+TEL-2548,72,Non-binary,70,30.87,3.33,155.0,1,Month-to-month,Bank transfer
+TEL-2401,75,Male,28,29.05,4.17,78.0,0,Month-to-month,Bank transfer
+TEL-1425,66,Female,44,40.32,2.88,770.0,4,One year,Bank transfer
+TEL-1466,82,Non-binary,59,38.66,4.54,683.0,4,Month-to-month,Credit card
+TEL-2701,49,Female,27,25.12,0.55,120.0,0,Month-to-month,Credit card
+TEL-2421,61,Male,6,28.55,1.2,135.0,0,One year,Electronic check
+TEL-1183,56,Non-binary,13,73.7,488.76,91.0,0,Month-to-month,Electronic check
+TEL-1857,57,Female,36,38.8,2.63,901.0,0,Two year,Bank transfer
+TEL-2405,58,Female,26,24.67,2.66,124.0,0,Month-to-month,Electronic check
+TEL-1039,26,Female,29,79.88,482.23,64.0,1,One year,Electronic check
+TEL-1544,47,Male,54,41.04,6.96,835.0,0,One year,Electronic check
+TEL-2534,61,Female,23,29.69,2.55,137.0,0,One year,Bank transfer
+TEL-2842,38,Male,35,66.93,0.97,142.0,10,Two year,Electronic check
+TEL-2723,20,Female,54,30.0,1.66,137.0,0,Two year,Mailed check
+TEL-2371,37,Non-binary,24,19.09,1.76,86.0,0,Two year,Mailed check
+TEL-1672,81,Non-binary,65,53.03,1.47,607.0,1,One year,Electronic check
+TEL-1667,20,Non-binary,1,46.94,3.46,696.0,3,One year,Credit card
+TEL-2510,78,Non-binary,5,34.93,0.79,83.0,1,Two year,Electronic check
+TEL-1403,53,Non-binary,65,50.71,5.29,808.0,0,Month-to-month,Bank transfer
+TEL-1928,68,Male,31,35.82,2.33,992.0,1,Two year,Credit card
+TEL-1222,65,Female,31,76.54,455.67,59.0,0,One year,Electronic check
+TEL-2628,53,Non-binary,48,23.22,3.55,104.0,3,One year,Electronic check
+TEL-1241,45,Male,55,79.93,433.7,54.0,0,One year,Electronic check
+TEL-2629,47,Male,3,14.73,1.93,37.0,0,Month-to-month,Mailed check
+TEL-2502,54,Non-binary,9,24.7,2.41,144.0,1,Two year,Electronic check
+TEL-2197,26,Male,60,24.5,3.5,118.0,0,Two year,Electronic check
+TEL-1509,31,Female,52,29.74,0.44,670.0,3,Two year,Credit card
+TEL-1175,53,Non-binary,67,76.48,470.33,51.0,0,Month-to-month,Electronic check
+TEL-1937,27,Male,17,48.95,8.06,828.0,3,Month-to-month,Credit card
+TEL-1491,50,Non-binary,8,50.69,2.2,541.0,6,One year,Credit card
+TEL-2234,77,Male,22,20.01,1.82,139.0,0,Month-to-month,Credit card
+TEL-2747,33,Female,27,26.51,2.47,79.0,0,One year,Bank transfer
+TEL-1143,49,Male,58,93.17,374.86,28.0,0,Month-to-month,Mailed check
+TEL-2549,60,Non-binary,67,24.61,1.11,129.0,1,Two year,Bank transfer
+TEL-1763,51,Female,8,30.81,6.65,1075.0,2,Two year,Electronic check
+TEL-2192,46,Male,50,19.92,2.05,157.0,0,Month-to-month,Bank transfer
+TEL-1190,59,Non-binary,70,79.96,504.39,67.0,1,Month-to-month,Credit card
+TEL-2083,33,Female,67,22.78,0.64,44.0,0,Two year,Credit card
+TEL-2696,41,Male,71,18.8,3.31,136.0,0,Two year,Bank transfer
+TEL-2420,68,Non-binary,65,26.09,1.87,121.0,2,Two year,Mailed check
+TEL-2796,37,Non-binary,43,26.94,1.04,88.0,1,One year,Bank transfer
+TEL-2400,23,Female,19,29.45,4.6,187.0,0,Two year,Credit card
+TEL-1110,40,Non-binary,3,84.83,456.71,35.0,1,Month-to-month,Mailed check
+TEL-1873,38,Male,19,52.49,10.43,736.0,3,One year,Bank transfer
+TEL-2712,77,Non-binary,56,37.59,1.41,160.0,0,One year,Mailed check
+TEL-1280,60,Non-binary,55,80.88,500.51,51.0,2,One year,Bank transfer
+TEL-1836,43,Female,48,30.84,7.17,832.0,2,Two year,Mailed check
+TEL-1245,36,Non-binary,10,85.13,361.03,58.0,0,Two year,Electronic check
+TEL-2719,67,Female,61,27.26,2.78,78.0,1,One year,Bank transfer
+TEL-1890,76,Male,54,51.67,4.58,683.0,3,Two year,Bank transfer
+TEL-1489,42,Female,46,44.64,4.41,726.0,1,One year,Mailed check
+TEL-1558,38,Female,66,43.92,4.93,528.0,0,Two year,Credit card
+TEL-1921,57,Non-binary,7,43.16,4.4,540.0,3,One year,Bank transfer
+TEL-1678,42,Female,38,31.96,4.52,630.0,0,Two year,Credit card
+TEL-1225,24,Male,35,79.9,444.82,37.0,1,Two year,Mailed check
+TEL-2379,43,Non-binary,45,28.88,3.86,97.0,0,One year,Credit card
+TEL-1732,31,Female,24,34.94,6.1,655.0,2,Two year,Electronic check
+TEL-2323,35,Female,16,33.4,0.72,159.0,2,One year,Credit card
+TEL-1037,77,Non-binary,47,82.62,493.81,33.0,1,One year,Electronic check
+TEL-2156,56,Male,13,24.17,1.72,87.0,1,One year,Bank transfer
+TEL-2003,55,Female,27,30.61,0.74,44.0,0,Month-to-month,Mailed check
+TEL-2313,75,Female,19,21.72,1.43,74.0,1,Two year,Electronic check
+TEL-1791,32,Non-binary,63,60.91,4.41,819.0,5,Two year,Credit card
+TEL-2301,39,Non-binary,59,30.89,0.16,46.0,0,Two year,Bank transfer
+TEL-1849,77,Non-binary,12,43.45,4.36,650.0,2,One year,Credit card
+TEL-1162,49,Male,59,78.08,388.38,75.0,2,Month-to-month,Bank transfer
+TEL-1423,76,Male,20,41.12,5.82,1151.0,3,Month-to-month,Electronic check
+TEL-2101,62,Male,4,25.39,1.83,47.0,0,One year,Credit card
+TEL-1108,69,Male,64,94.56,330.78,20.0,0,Two year,Electronic check
+TEL-1289,77,Male,65,76.81,378.19,45.0,4,Month-to-month,Credit card
+TEL-1633,22,Male,23,38.28,4.16,837.0,2,Two year,Bank transfer
+TEL-1943,25,Male,1,36.07,4.16,690.0,6,One year,Bank transfer
+TEL-1180,69,Female,45,86.37,453.78,48.0,0,One year,Bank transfer
+TEL-2477,83,Non-binary,25,21.94,1.09,99.0,0,Two year,Mailed check
+TEL-1019,76,Male,36,84.51,490.16,48.0,0,Month-to-month,Credit card
+TEL-1999,54,Non-binary,65,35.21,4.9,821.0,3,Month-to-month,Bank transfer
+TEL-1286,42,Non-binary,59,87.72,450.37,43.0,2,Month-to-month,Bank transfer
+TEL-2124,56,Female,12,17.06,3.73,92.0,0,Two year,Bank transfer
+TEL-2792,52,Non-binary,40,14.74,2.8,93.0,1,Two year,Mailed check
+TEL-1746,19,Non-binary,40,40.46,4.54,749.0,1,One year,Credit card
+TEL-1877,69,Male,27,41.66,6.04,1014.0,3,Two year,Mailed check
+TEL-1736,28,Male,50,46.4,7.72,918.0,3,One year,Credit card
+TEL-1157,18,Female,16,89.54,460.52,4.0,2,Month-to-month,Mailed check
+TEL-2013,29,Female,21,20.42,1.92,94.0,0,Two year,Bank transfer
+TEL-2577,71,Non-binary,34,18.38,1.78,157.0,1,One year,Credit card
+TEL-2374,49,Female,13,21.02,2.79,141.0,1,Month-to-month,Bank transfer
+TEL-1385,84,Female,4,86.14,475.83,67.0,2,One year,Credit card
+TEL-2349,77,Male,25,29.78,0.99,85.0,0,Month-to-month,Electronic check
+TEL-1881,52,Non-binary,25,45.8,3.62,962.0,1,Two year,Mailed check
+TEL-2256,77,Non-binary,9,23.41,1.82,60.0,0,One year,Credit card
+TEL-1457,26,Non-binary,72,44.03,1.57,563.0,2,Month-to-month,Credit card
+TEL-1137,79,Male,29,70.96,462.94,58.0,2,One year,Bank transfer
+TEL-2443,77,Female,31,29.72,2.2,130.0,0,Two year,Bank transfer
+TEL-2385,61,Male,53,19.34,4.5,203.0,0,Two year,Mailed check
+TEL-2164,21,Male,45,14.7,2.09,116.0,1,One year,Electronic check
+TEL-2476,45,Male,23,25.85,0.55,77.0,0,One year,Bank transfer
+TEL-1526,67,Non-binary,72,49.58,1.94,811.0,1,Two year,Electronic check
+TEL-1586,74,Non-binary,31,51.16,1.53,815.0,4,Month-to-month,Bank transfer
+TEL-1722,68,Female,19,60.98,4.96,883.0,4,Month-to-month,Credit card
+TEL-1802,68,Non-binary,3,39.41,5.39,874.0,1,One year,Credit card
+TEL-2608,60,Non-binary,63,31.05,2.6,39.0,0,Month-to-month,Credit card
+TEL-1994,39,Non-binary,48,42.31,5.64,771.0,3,Two year,Bank transfer
+TEL-1220,31,Male,43,95.29,470.47,73.0,1,Month-to-month,Bank transfer
+TEL-1309,75,Male,3,89.16,375.3,43.0,0,Two year,Bank transfer
+TEL-2096,34,Female,60,22.07,2.33,60.0,0,One year,Bank transfer
+TEL-1130,79,Female,58,74.7,397.44,46.0,3,One year,Bank transfer
+TEL-2939,25,Female,56,65.98,20.15,297.0,2,Two year,Mailed check
+TEL-2795,52,Male,64,29.91,2.39,109.0,0,One year,Mailed check
+TEL-2107,56,Male,60,26.67,0.38,118.0,1,Two year,Electronic check
+TEL-1165,73,Male,44,90.36,533.5,65.0,1,Two year,Electronic check
+TEL-1961,65,Female,43,32.78,6.56,741.0,4,Two year,Credit card
+TEL-2110,42,Non-binary,53,27.45,2.41,2.0,0,Two year,Mailed check
+TEL-1038,31,Non-binary,65,85.77,414.53,1.0,1,Month-to-month,Bank transfer
+TEL-1249,66,Female,29,74.27,445.12,52.0,1,Month-to-month,Bank transfer
+TEL-2732,75,Male,70,24.36,2.49,113.0,1,Two year,Bank transfer
+TEL-1768,39,Non-binary,69,45.81,6.59,892.0,1,One year,Credit card
+TEL-1830,64,Male,18,43.29,6.87,735.0,2,Month-to-month,Credit card
+TEL-1085,45,Non-binary,45,95.47,482.98,75.0,0,Two year,Electronic check
+TEL-2869,75,Non-binary,64,63.72,29.95,171.0,7,Two year,Credit card
+TEL-2545,64,Female,2,26.97,2.99,79.0,1,Month-to-month,Electronic check
+TEL-2725,61,Non-binary,58,21.19,2.41,107.0,0,Two year,Electronic check
+TEL-1056,35,Non-binary,26,92.31,455.35,28.0,1,One year,Bank transfer
+TEL-2843,45,Non-binary,67,73.0,25.4,469.0,9,One year,Credit card
+TEL-1866,74,Non-binary,37,44.91,7.55,562.0,1,Two year,Electronic check
+TEL-1460,83,Male,6,35.01,9.42,664.0,2,Two year,Electronic check
+TEL-1329,36,Male,55,95.82,345.71,71.0,0,Month-to-month,Bank transfer
+TEL-1024,79,Male,47,80.76,390.61,56.0,1,Month-to-month,Mailed check
+TEL-2108,32,Male,57,18.12,-0.38,114.0,0,Month-to-month,Electronic check
+TEL-1184,18,Male,27,87.73,397.72,34.0,2,Two year,Mailed check
+TEL-2307,76,Female,10,25.17,3.01,63.0,0,Two year,Mailed check
+TEL-2340,20,Female,60,19.75,2.33,88.0,0,Month-to-month,Credit card
+TEL-1480,30,Non-binary,54,52.79,4.07,814.0,6,Month-to-month,Credit card
+TEL-2672,72,Male,58,26.92,3.41,64.0,0,Month-to-month,Bank transfer
+TEL-1438,33,Male,6,68.83,3.21,937.0,2,One year,Mailed check
+TEL-2089,24,Male,29,28.85,1.87,131.0,0,Month-to-month,Credit card
+TEL-2158,80,Non-binary,57,25.86,2.24,64.0,0,Two year,Bank transfer
+TEL-2779,59,Male,35,26.22,0.09,91.0,1,Two year,Bank transfer
+TEL-1254,23,Male,43,103.08,412.98,17.0,0,Month-to-month,Mailed check
+TEL-1343,65,Non-binary,57,90.4,354.75,43.0,1,One year,Mailed check
+TEL-2407,31,Female,38,18.15,0.23,151.0,0,Two year,Electronic check
+TEL-2305,38,Male,29,25.22,2.62,66.0,1,One year,Credit card
+TEL-1260,80,Female,55,71.02,554.24,67.0,1,Month-to-month,Credit card
+TEL-1047,53,Female,64,69.01,445.45,74.0,1,Two year,Electronic check
+TEL-1919,47,Non-binary,42,51.9,6.48,773.0,2,Month-to-month,Bank transfer
+TEL-2274,67,Non-binary,59,26.32,1.97,74.0,0,Two year,Bank transfer
+TEL-1418,40,Non-binary,39,47.1,11.55,847.0,0,One year,Mailed check
+TEL-2322,29,Male,8,20.37,3.46,-2.0,1,One year,Credit card
+TEL-2951,79,Male,24,66.06,24.23,345.0,3,One year,Credit card
+TEL-2849,57,Male,71,74.4,12.87,314.0,13,One year,Credit card
+TEL-1171,76,Female,18,82.89,473.45,73.0,0,One year,Credit card
+TEL-2580,32,Non-binary,6,20.97,2.86,118.0,0,One year,Mailed check
+TEL-1169,28,Female,12,86.23,366.44,67.0,0,One year,Electronic check
+TEL-2805,82,Male,46,58.41,19.21,240.0,5,One year,Mailed check
+TEL-2855,67,Male,7,62.82,7.02,446.0,4,Month-to-month,Credit card
+TEL-2565,81,Female,30,19.23,2.3,112.0,1,Two year,Electronic check
+TEL-1320,22,Female,72,85.8,430.01,27.0,2,Two year,Electronic check
+TEL-1952,51,Male,53,43.79,3.67,811.0,1,Two year,Electronic check
+TEL-1992,83,Male,40,49.77,4.94,773.0,4,One year,Bank transfer
+TEL-1386,82,Male,64,85.62,400.93,25.0,2,One year,Credit card
+TEL-2395,67,Non-binary,19,34.56,1.35,79.0,1,Month-to-month,Bank transfer
+TEL-1799,23,Non-binary,65,29.87,4.93,883.0,1,Two year,Electronic check
+TEL-1693,81,Female,15,58.83,5.47,745.0,2,One year,Electronic check
+TEL-2354,38,Male,28,20.54,3.02,185.0,0,One year,Bank transfer
+TEL-1494,75,Non-binary,13,39.66,7.58,629.0,2,Two year,Electronic check
+TEL-2913,77,Female,45,68.76,32.82,219.0,6,Two year,Bank transfer
+TEL-1160,70,Female,57,89.8,397.22,75.0,1,One year,Mailed check
+TEL-2217,57,Non-binary,28,25.1,2.22,124.0,1,One year,Credit card
+TEL-2350,80,Non-binary,18,18.45,1.76,68.0,0,Two year,Mailed check
+TEL-2560,31,Male,35,16.83,5.1,120.0,0,Month-to-month,Credit card
+TEL-2149,32,Non-binary,26,26.17,1.25,105.0,1,Two year,Electronic check
+TEL-1153,76,Male,61,85.98,444.5,58.0,1,Two year,Electronic check
+TEL-2892,59,Female,41,61.68,22.25,383.0,7,Two year,Credit card
+TEL-1747,30,Male,59,47.54,5.3,982.0,3,Month-to-month,Mailed check
+TEL-1007,70,Male,23,83.53,534.23,92.0,0,Month-to-month,Bank transfer
+TEL-2495,37,Male,30,35.79,1.96,160.0,1,One year,Mailed check
+TEL-2520,50,Non-binary,63,28.16,2.07,132.0,0,Month-to-month,Credit card
+TEL-2782,52,Non-binary,70,28.1,1.74,77.0,0,One year,Bank transfer
+TEL-1517,29,Female,54,38.9,4.82,959.0,1,Month-to-month,Electronic check
+TEL-2298,49,Male,69,27.16,2.59,51.0,1,Two year,Credit card
+TEL-2061,36,Female,32,24.06,1.98,103.0,0,Two year,Mailed check
+TEL-2428,45,Female,21,15.36,0.78,38.0,1,One year,Bank transfer
+TEL-1284,43,Non-binary,5,97.53,447.26,51.0,1,One year,Mailed check
+TEL-1621,21,Male,38,44.51,7.87,934.0,4,One year,Mailed check
+TEL-1727,36,Male,20,66.78,3.38,622.0,3,Two year,Credit card
+TEL-2441,21,Non-binary,9,23.72,3.96,114.0,1,One year,Mailed check
+TEL-2626,25,Female,48,17.61,3.33,72.0,1,Two year,Electronic check
+TEL-1986,41,Male,27,47.16,3.4,871.0,1,Month-to-month,Bank transfer
+TEL-2684,27,Female,69,23.81,2.4,139.0,0,Two year,Credit card
+TEL-2306,64,Non-binary,3,28.94,1.1,62.0,1,Month-to-month,Electronic check
+TEL-2956,19,Non-binary,49,65.13,10.02,344.0,4,Two year,Bank transfer
+TEL-1605,46,Male,44,63.97,6.12,1131.0,0,One year,Credit card
+TEL-1884,55,Male,36,51.04,2.17,971.0,2,Two year,Electronic check
+TEL-2699,36,Male,4,25.96,1.98,67.0,0,Month-to-month,Electronic check
+TEL-2304,73,Male,71,26.72,2.31,50.0,0,One year,Mailed check
+TEL-1654,18,Male,30,45.86,3.28,907.0,3,One year,Electronic check
+TEL-2632,66,Non-binary,14,27.05,2.53,142.0,0,Month-to-month,Electronic check
+TEL-1250,34,Non-binary,19,80.71,466.39,71.0,0,One year,Credit card
+TEL-1981,54,Non-binary,42,28.5,5.27,1045.0,0,One year,Credit card
+TEL-1815,50,Female,58,40.4,3.36,1049.0,0,Two year,Bank transfer
+TEL-2686,42,Non-binary,57,29.05,2.24,93.0,1,Month-to-month,Bank transfer
+TEL-1915,47,Female,58,53.58,3.89,706.0,0,Month-to-month,Electronic check
+TEL-2592,20,Male,38,24.19,1.19,105.0,0,One year,Bank transfer
+TEL-1602,47,Female,15,45.95,5.25,805.0,2,One year,Credit card
+TEL-2775,32,Non-binary,56,34.51,1.39,78.0,0,Two year,Electronic check
+TEL-1632,38,Male,21,41.68,4.97,762.0,3,One year,Credit card
+TEL-1610,34,Non-binary,12,60.51,5.74,729.0,0,Two year,Mailed check
+TEL-2498,18,Non-binary,15,18.28,2.62,134.0,2,One year,Bank transfer
+TEL-1380,50,Male,49,68.68,478.52,47.0,0,Month-to-month,Electronic check
+TEL-2166,37,Female,28,28.01,2.8,138.0,4,One year,Mailed check
+TEL-2688,81,Female,9,30.59,1.2,117.0,3,Month-to-month,Credit card
+TEL-1023,79,Female,39,76.52,465.57,37.0,3,Two year,Credit card
+TEL-1479,62,Female,20,49.97,4.24,885.0,2,Two year,Electronic check
+TEL-1111,32,Male,54,90.05,471.42,33.0,0,Month-to-month,Electronic check
+TEL-2365,68,Non-binary,68,25.62,1.35,105.0,2,One year,Credit card
+TEL-2897,58,Male,2,60.88,10.86,383.0,5,Two year,Electronic check
+TEL-2590,63,Male,28,21.38,2.82,74.0,0,One year,Mailed check
+TEL-2880,80,Non-binary,2,76.65,33.82,317.0,7,One year,Bank transfer
+TEL-1743,40,Female,14,56.17,3.27,922.0,2,Month-to-month,Mailed check
+TEL-1962,24,Non-binary,67,59.27,7.98,840.0,0,One year,Credit card
+TEL-1453,63,Male,3,53.48,3.02,852.0,0,One year,Bank transfer
+TEL-1821,48,Female,21,48.96,5.64,647.0,1,One year,Bank transfer
+TEL-2176,64,Female,17,21.7,2.56,90.0,0,Month-to-month,Credit card
+TEL-1721,43,Male,15,46.6,6.09,828.0,1,Month-to-month,Bank transfer
+TEL-2364,28,Male,9,20.28,3.21,146.0,0,Month-to-month,Bank transfer
+TEL-1651,78,Non-binary,65,55.02,2.71,760.0,4,One year,Mailed check
+TEL-1785,31,Male,63,42.1,3.18,640.0,3,One year,Credit card
+TEL-2183,79,Male,64,29.4,2.62,99.0,0,Month-to-month,Bank transfer
+TEL-1595,55,Female,10,60.55,0.28,929.0,2,One year,Electronic check
+TEL-2575,40,Non-binary,27,23.91,2.85,151.0,0,Month-to-month,Credit card
+TEL-1716,68,Female,17,30.0,2.74,655.0,4,Two year,Mailed check
+TEL-2609,38,Female,72,26.39,2.18,170.0,1,Month-to-month,Credit card
+TEL-2653,38,Male,34,27.31,2.43,132.0,0,Two year,Bank transfer
+TEL-2918,25,Female,4,49.19,26.69,441.0,6,Two year,Electronic check
+TEL-1210,55,Male,71,81.31,417.78,34.0,0,Two year,Electronic check
+TEL-2103,54,Male,45,23.96,1.92,130.0,1,Month-to-month,Bank transfer
+TEL-1333,75,Non-binary,7,75.21,544.94,35.0,2,One year,Bank transfer
+TEL-2116,72,Non-binary,23,33.85,1.4,64.0,0,Month-to-month,Electronic check
+TEL-1760,77,Female,31,40.5,6.28,892.0,8,One year,Electronic check
+TEL-2067,74,Female,70,38.23,2.66,121.0,0,One year,Electronic check
+TEL-2445,67,Male,40,31.25,2.49,99.0,0,One year,Credit card
+TEL-2292,21,Male,9,27.13,0.69,120.0,1,One year,Credit card
+TEL-2518,52,Male,8,23.79,0.69,180.0,0,Month-to-month,Electronic check
+TEL-1217,58,Non-binary,27,79.09,469.13,60.0,1,Two year,Electronic check
+TEL-2132,27,Female,43,19.11,0.33,37.0,0,Two year,Mailed check
+TEL-1831,62,Non-binary,59,28.83,6.02,1049.0,3,Month-to-month,Mailed check
+TEL-1801,24,Female,11,53.49,6.38,924.0,2,Two year,Mailed check
+TEL-1224,25,Male,67,81.69,440.59,28.0,1,Month-to-month,Bank transfer
+TEL-2999,67,Non-binary,55,600.0,6.68,331.0,4,One year,Bank transfer
+TEL-1519,41,Male,44,49.33,2.01,578.0,1,Month-to-month,Credit card
+TEL-2225,65,Female,17,26.68,1.64,186.0,0,Month-to-month,Mailed check
+TEL-2403,43,Male,49,21.63,4.85,77.0,0,One year,Bank transfer
+TEL-1813,44,Non-binary,28,41.45,2.35,906.0,2,Two year,Mailed check
+TEL-2010,48,Female,12,28.91,3.0,102.0,1,Month-to-month,Bank transfer
+TEL-1235,71,Non-binary,35,74.21,538.33,59.0,0,Two year,Electronic check
+TEL-2647,18,Male,62,24.05,1.5,73.0,3,Two year,Mailed check
+TEL-1482,37,Non-binary,1,52.59,3.07,929.0,2,One year,Credit card
+TEL-2104,60,Male,43,26.39,3.55,88.0,0,Two year,Credit card
+TEL-2332,63,Male,24,24.81,3.85,109.0,0,Two year,Credit card
+TEL-2389,23,Male,44,21.74,2.5,74.0,0,Two year,Bank transfer
+TEL-1925,64,Female,35,50.63,4.0,690.0,3,Month-to-month,Credit card
+TEL-1011,19,Non-binary,6,85.69,374.37,89.0,1,One year,Bank transfer
+TEL-2381,83,Female,63,29.37,1.28,70.0,1,One year,Bank transfer
+TEL-1312,69,Male,13,78.95,386.59,55.0,1,One year,Electronic check
+TEL-2205,65,Female,71,20.1,2.23,33.0,1,One year,Credit card
+TEL-1635,78,Male,67,46.11,5.02,699.0,3,Month-to-month,Electronic check
+TEL-1663,31,Non-binary,56,40.94,2.76,930.0,1,One year,Electronic check
+TEL-1959,31,Female,40,54.72,4.99,787.0,2,One year,Credit card
+TEL-2824,77,Female,23,57.82,0.71,252.0,5,Two year,Credit card
+TEL-1124,23,Male,31,95.29,485.16,49.0,1,Two year,Bank transfer
+TEL-1624,84,Male,46,53.91,2.83,602.0,2,Month-to-month,Bank transfer
+TEL-1942,24,Male,31,36.94,3.9,859.0,0,One year,Credit card
+TEL-1643,66,Male,53,55.72,3.19,643.0,1,One year,Credit card
+TEL-1638,18,Male,52,45.42,7.19,592.0,5,Month-to-month,Credit card
+TEL-1033,38,Female,62,83.58,505.93,45.0,2,Month-to-month,Bank transfer
+TEL-2310,74,Non-binary,6,17.04,2.55,168.0,0,Month-to-month,Bank transfer
+TEL-1706,26,Female,26,55.33,3.72,509.0,0,Month-to-month,Credit card
+TEL-1933,46,Non-binary,10,36.41,0.01,848.0,4,Two year,Electronic check
+TEL-2338,41,Female,50,18.7,0.08,121.0,0,Month-to-month,Electronic check
+TEL-2958,70,Non-binary,10,74.14,3.82,302.0,5,Two year,Credit card
+TEL-1861,18,Non-binary,23,42.18,-0.68,773.0,4,Month-to-month,Electronic check
+TEL-1340,75,Non-binary,35,69.9,472.52,66.0,2,One year,Mailed check
+TEL-2356,81,Non-binary,59,34.91,2.27,-7.0,0,Month-to-month,Mailed check
+TEL-2567,50,Non-binary,16,21.41,1.5,76.0,0,One year,Bank transfer
+TEL-1697,50,Female,31,50.33,1.91,683.0,0,Month-to-month,Credit card
+TEL-2432,80,Male,44,20.02,1.44,107.0,1,Two year,Electronic check
+TEL-2599,29,Non-binary,59,26.97,1.29,101.0,1,Two year,Mailed check
+TEL-2497,60,Non-binary,60,25.63,1.64,92.0,0,Two year,Mailed check
+TEL-1304,42,Female,43,78.59,402.44,81.0,0,Two year,Credit card
+TEL-2073,38,Non-binary,72,24.61,2.33,114.0,1,One year,Electronic check
+TEL-2616,32,Female,1,22.57,2.6,98.0,1,Month-to-month,Credit card
+TEL-1699,39,Non-binary,60,38.69,4.99,783.0,1,Month-to-month,Credit card
+TEL-2797,27,Female,17,24.19,1.82,104.0,0,Month-to-month,Credit card
+TEL-1819,55,Male,10,51.91,6.93,601.0,0,Two year,Bank transfer
+TEL-2343,32,Non-binary,36,22.97,-1.1,172.0,0,One year,Credit card
+TEL-1954,49,Female,2,45.7,5.12,846.0,0,Month-to-month,Mailed check
+TEL-2585,66,Male,25,26.96,1.85,64.0,0,One year,Bank transfer
+TEL-1784,56,Male,6,28.72,6.64,730.0,2,Two year,Credit card
+TEL-2000,35,Male,51,30.01,3.48,62.0,0,One year,Credit card
+TEL-2881,38,Non-binary,36,51.23,24.76,324.0,7,Month-to-month,Electronic check
+TEL-2203,55,Male,4,26.02,-0.48,87.0,0,Month-to-month,Electronic check
+TEL-2255,34,Non-binary,39,16.97,0.74,91.0,0,Two year,Bank transfer
+TEL-1540,42,Non-binary,6,41.55,6.22,528.0,0,Two year,Mailed check
+TEL-1001,32,Non-binary,57,86.16,337.53,43.0,1,One year,Credit card
+TEL-1681,42,Non-binary,47,51.16,5.59,649.0,0,One year,Bank transfer
+TEL-1028,72,Non-binary,24,92.33,407.42,74.0,1,One year,Electronic check
+TEL-2737,79,Female,29,19.87,3.09,103.0,0,Month-to-month,Bank transfer
+TEL-1973,64,Male,30,40.19,6.61,756.0,1,One year,Bank transfer
+TEL-2267,34,Male,3,25.17,0.97,76.0,2,One year,Mailed check
+TEL-1427,78,Non-binary,60,41.35,4.53,649.0,2,Month-to-month,Electronic check
+TEL-1230,76,Non-binary,59,96.6,386.45,44.0,2,Month-to-month,Mailed check
+TEL-1561,22,Non-binary,68,54.2,7.63,831.0,3,One year,Electronic check
+TEL-2791,38,Non-binary,54,25.83,3.96,46.0,2,Two year,Electronic check
+TEL-1151,20,Male,42,84.86,450.65,53.0,2,Month-to-month,Bank transfer
+TEL-1114,53,Female,59,66.79,429.45,45.0,0,One year,Bank transfer
+TEL-2415,62,Female,46,25.57,3.16,6.0,0,Two year,Electronic check
+TEL-2637,48,Non-binary,24,26.23,2.38,83.0,0,Two year,Electronic check
+TEL-1896,50,Female,43,51.98,4.74,903.0,2,Month-to-month,Credit card
+TEL-2363,25,Female,32,19.34,2.14,115.0,0,One year,Electronic check
+TEL-1887,51,Non-binary,16,38.5,6.77,864.0,1,Month-to-month,Mailed check
+TEL-2749,40,Male,72,24.76,3.43,104.0,1,Two year,Electronic check
+TEL-2588,28,Female,24,21.3,1.55,89.0,0,Two year,Mailed check
+TEL-1336,40,Female,56,76.95,492.84,60.0,4,Two year,Mailed check
+TEL-2735,64,Female,49,24.97,2.68,82.0,0,Two year,Mailed check
+TEL-2847,21,Non-binary,41,51.93,31.58,342.0,5,One year,Bank transfer
+TEL-1168,41,Male,50,94.08,431.74,60.0,1,Month-to-month,Credit card
+TEL-1331,80,Male,46,76.48,464.94,33.0,0,One year,Mailed check
+TEL-2928,75,Male,26,67.05,8.54,515.0,11,Two year,Mailed check
+TEL-2078,43,Non-binary,29,22.98,2.2,146.0,1,Month-to-month,Credit card
+TEL-1720,25,Male,44,59.15,4.61,843.0,2,Two year,Bank transfer
+TEL-2344,42,Female,23,17.86,3.42,40.0,1,Two year,Credit card
+TEL-1578,51,Non-binary,63,38.39,7.5,974.0,4,One year,Mailed check
+TEL-1648,73,Non-binary,69,62.95,6.29,759.0,2,One year,Bank transfer
+TEL-1944,82,Male,11,61.69,7.63,731.0,1,One year,Electronic check
+TEL-1058,51,Non-binary,67,92.16,484.4,54.0,1,One year,Electronic check
+TEL-1751,80,Female,45,41.98,5.02,1180.0,1,Two year,Electronic check
+TEL-1002,78,Non-binary,29,88.9,480.44,51.0,1,Two year,Mailed check
+TEL-1238,44,Male,24,88.6,424.45,60.0,0,Month-to-month,Electronic check
+TEL-2094,35,Female,33,19.14,2.22,104.0,0,Two year,Mailed check
+TEL-1410,53,Male,13,49.3,5.43,973.0,2,One year,Bank transfer
+TEL-1141,41,Female,6,79.11,481.33,13.0,2,One year,Bank transfer
+TEL-2246,56,Male,72,21.79,1.25,97.0,2,Two year,Electronic check
+TEL-1588,64,Male,25,45.77,5.1,601.0,2,Two year,Bank transfer
+TEL-1067,43,Non-binary,25,76.87,422.95,8.0,1,Two year,Bank transfer
+TEL-2346,26,Female,6,20.21,1.26,115.0,1,Month-to-month,Mailed check
+TEL-1665,73,Male,31,57.82,5.22,859.0,1,One year,Bank transfer
+TEL-2102,20,Female,19,35.03,1.93,134.0,1,One year,Electronic check
+TEL-2523,37,Male,42,17.07,2.05,112.0,1,One year,Electronic check
+TEL-2743,33,Female,56,28.66,2.72,62.0,1,One year,Mailed check
+TEL-2417,70,Non-binary,55,27.39,2.44,143.0,1,Two year,Mailed check
+TEL-2272,82,Male,58,23.31,0.6,53.0,2,One year,Mailed check
+TEL-1287,41,Non-binary,54,89.17,376.07,98.0,1,Two year,Electronic check
+TEL-2767,79,Non-binary,30,23.17,1.71,43.0,0,Two year,Electronic check
+TEL-2109,21,Non-binary,52,20.33,1.27,47.0,0,Month-to-month,Bank transfer
+TEL-1712,23,Non-binary,59,32.91,6.41,524.0,0,Month-to-month,Credit card
+TEL-2634,24,Non-binary,61,25.63,0.81,140.0,1,Month-to-month,Credit card
+TEL-2423,39,Female,64,26.02,3.29,148.0,1,Month-to-month,Mailed check
+TEL-1214,71,Non-binary,54,78.65,422.34,61.0,1,One year,Credit card
+TEL-2916,61,Female,49,64.52,4.79,429.0,6,Two year,Electronic check
+TEL-2171,20,Male,29,19.39,3.18,145.0,0,One year,Electronic check
+TEL-2500,81,Female,63,25.01,2.27,61.0,2,Month-to-month,Bank transfer
+TEL-2001,59,Female,36,22.71,2.06,105.0,1,Two year,Credit card
+TEL-2418,72,Male,26,25.09,1.76,113.0,1,Month-to-month,Bank transfer
+TEL-2220,23,Female,47,24.45,1.77,88.0,0,Month-to-month,Electronic check
+TEL-2479,22,Non-binary,54,17.35,0.94,118.0,0,Month-to-month,Electronic check
+TEL-2603,61,Male,59,26.0,2.03,83.0,0,Month-to-month,Bank transfer
+TEL-2544,22,Non-binary,55,19.54,2.76,134.0,0,Month-to-month,Bank transfer
+TEL-1707,20,Male,47,56.17,5.84,574.0,1,Month-to-month,Electronic check
+TEL-1012,81,Female,18,86.93,383.46,15.0,0,One year,Electronic check
+TEL-1946,84,Non-binary,71,56.73,5.05,567.0,3,One year,Mailed check
+TEL-2947,84,Male,7,45.83,33.68,430.0,7,One year,Mailed check
+TEL-1274,83,Male,14,75.34,441.19,78.0,0,One year,Electronic check
+TEL-1075,18,Female,28,88.51,455.54,41.0,0,One year,Credit card
+TEL-1874,64,Non-binary,21,48.49,4.02,694.0,2,One year,Mailed check
+TEL-1562,20,Non-binary,49,43.0,8.86,883.0,4,One year,Credit card
+TEL-2770,72,Female,38,32.48,5.09,86.0,0,Two year,Bank transfer
+TEL-1334,72,Female,45,82.28,454.35,71.0,3,Month-to-month,Bank transfer
+TEL-1929,80,Female,53,38.85,6.19,711.0,1,Month-to-month,Credit card
+TEL-1978,29,Female,60,55.6,3.54,670.0,1,Month-to-month,Credit card
+TEL-1194,19,Female,1,88.1,449.86,70.0,0,Two year,Bank transfer
+TEL-2837,28,Male,2,71.92,13.76,353.0,6,Two year,Electronic check
+TEL-1867,18,Male,29,44.39,3.41,994.0,3,Two year,Mailed check
+TEL-1040,70,Male,50,63.95,430.88,34.0,2,Month-to-month,Mailed check
+TEL-2776,77,Non-binary,19,35.3,2.07,79.0,0,Month-to-month,Credit card
+TEL-2372,50,Female,48,33.84,2.76,141.0,0,Month-to-month,Credit card
+TEL-1430,45,Male,18,58.54,6.26,988.0,2,One year,Electronic check
+TEL-1204,37,Female,50,87.19,545.01,30.0,2,One year,Mailed check
+TEL-1044,25,Female,48,84.42,451.7,51.0,1,One year,Mailed check
+TEL-2014,70,Male,10,21.98,2.15,76.0,0,One year,Credit card
+TEL-1936,49,Non-binary,60,54.2,5.3,941.0,1,Two year,Electronic check
+TEL-1522,53,Non-binary,15,41.81,4.63,774.0,1,Month-to-month,Bank transfer
+TEL-2179,37,Non-binary,45,18.82,0.93,158.0,0,Month-to-month,Credit card
+TEL-2112,50,Non-binary,72,24.49,2.4,94.0,0,Two year,Bank transfer
+TEL-1733,81,Male,61,52.03,3.68,804.0,1,Two year,Mailed check
+TEL-2846,33,Male,41,36.44,20.75,472.0,6,Month-to-month,Mailed check
+TEL-1381,78,Male,36,75.95,433.43,32.0,0,Two year,Electronic check
+TEL-2460,38,Non-binary,14,30.91,1.48,189.0,1,One year,Credit card
+TEL-1060,31,Non-binary,58,106.85,447.15,12.0,1,Month-to-month,Mailed check
+TEL-2611,64,Non-binary,68,21.96,2.26,96.0,0,Month-to-month,Credit card
+TEL-2351,19,Male,62,32.84,3.0,67.0,0,One year,Credit card
+TEL-1051,23,Male,26,80.6,449.0,51.0,3,One year,Credit card
+TEL-2280,69,Female,44,13.31,3.62,176.0,1,One year,Mailed check
+TEL-1015,50,Male,30,91.83,458.08,-0.0,0,Two year,Bank transfer
+TEL-2561,70,Non-binary,55,14.62,1.76,49.0,0,Two year,Credit card
+TEL-2196,59,Male,53,26.21,1.6,41.0,1,One year,Credit card
+TEL-1353,68,Female,19,67.53,447.37,21.0,1,One year,Electronic check
+TEL-2113,33,Female,72,27.7,2.11,138.0,1,Month-to-month,Electronic check
+TEL-1193,77,Female,8,73.72,400.09,38.0,1,One year,Bank transfer
+TEL-1956,33,Non-binary,4,50.62,8.95,975.0,3,One year,Credit card
+TEL-2790,32,Male,61,24.22,2.46,72.0,0,Month-to-month,Bank transfer
+TEL-1065,70,Female,17,68.08,418.34,26.0,1,Two year,Bank transfer
+TEL-2724,19,Non-binary,30,21.16,3.16,132.0,0,Two year,Credit card
+TEL-2411,42,Female,28,24.0,1.6,85.0,0,One year,Bank transfer
+TEL-2074,42,Male,1,23.97,1.03,77.0,1,Two year,Mailed check
+TEL-1892,71,Non-binary,45,42.4,4.34,785.0,1,Two year,Bank transfer
+TEL-1590,31,Non-binary,67,41.56,5.76,1004.0,2,Two year,Bank transfer
+TEL-1949,84,Non-binary,12,37.18,7.31,668.0,3,Two year,Mailed check
+TEL-2927,38,Female,26,39.39,13.82,328.0,8,One year,Credit card
+TEL-1215,52,Non-binary,38,84.59,437.3,56.0,2,Two year,Bank transfer
+TEL-2635,56,Male,31,24.09,0.79,108.0,1,One year,Electronic check
+TEL-1920,33,Non-binary,9,33.89,6.52,650.0,2,Month-to-month,Credit card
+TEL-1417,30,Female,63,40.62,3.24,734.0,2,One year,Bank transfer
+TEL-1530,44,Female,65,40.77,3.4,736.0,2,One year,Electronic check
+TEL-1426,29,Non-binary,38,33.61,6.97,767.0,3,One year,Electronic check
+TEL-2738,47,Male,21,19.62,0.88,135.0,0,Two year,Credit card
+TEL-2311,20,Non-binary,12,28.06,0.23,72.0,0,Two year,Bank transfer
+TEL-1308,39,Female,38,101.19,421.79,48.0,0,Month-to-month,Bank transfer
+TEL-1668,40,Female,55,43.06,5.2,537.0,3,Two year,Credit card
+TEL-2464,59,Male,24,24.11,3.64,121.0,0,Month-to-month,Bank transfer
+TEL-2614,53,Non-binary,7,23.53,1.98,146.0,0,Month-to-month,Credit card
+TEL-1408,81,Female,9,32.03,6.06,902.0,0,Two year,Mailed check
+TEL-2645,24,Female,8,22.74,3.05,105.0,1,One year,Bank transfer
+TEL-1186,74,Female,22,84.08,418.77,51.0,0,Month-to-month,Mailed check
+TEL-1350,84,Male,64,79.82,339.59,73.0,0,Two year,Mailed check
+TEL-2899,19,Female,9,46.16,23.82,369.0,7,One year,Mailed check
+TEL-2646,71,Female,3,28.27,2.35,63.0,0,Month-to-month,Bank transfer
+TEL-2248,19,Female,19,23.48,2.31,75.0,1,Two year,Bank transfer
+TEL-1767,81,Male,18,49.22,6.41,782.0,1,Month-to-month,Bank transfer
+TEL-1990,26,Male,66,40.06,4.28,661.0,2,Two year,Electronic check
+TEL-2097,31,Female,35,13.7,0.79,91.0,0,Month-to-month,Bank transfer
+TEL-1780,21,Non-binary,32,51.3,8.08,625.0,2,Two year,Credit card
+TEL-1471,48,Female,41,52.62,3.16,991.0,2,One year,Credit card
+TEL-1401,75,Female,62,34.31,4.11,1089.0,1,Two year,Mailed check
+TEL-2802,50,Non-binary,53,73.62,23.15,167.0,8,Two year,Credit card
+TEL-1731,18,Male,44,43.21,2.54,876.0,5,Two year,Credit card
+TEL-1598,68,Female,5,43.5,4.49,1115.0,1,Two year,Mailed check
+TEL-1450,75,Non-binary,53,41.12,7.32,761.0,1,Month-to-month,Mailed check
+TEL-1714,21,Female,18,40.23,8.22,820.0,1,One year,Mailed check
+TEL-1192,33,Non-binary,28,77.34,463.66,57.0,2,Two year,Bank transfer
+TEL-1318,70,Male,54,98.23,535.55,51.0,2,One year,Mailed check
+TEL-2572,21,Female,63,18.95,0.72,32.0,0,Month-to-month,Credit card
+TEL-2801,71,Non-binary,44,68.75,16.89,225.0,6,Two year,Credit card
+TEL-2895,34,Female,17,54.92,13.04,387.0,6,Two year,Electronic check
+TEL-1282,56,Non-binary,21,68.73,518.92,103.0,0,Month-to-month,Bank transfer
+TEL-2873,30,Non-binary,15,71.64,32.13,337.0,3,Two year,Mailed check
+TEL-1027,68,Male,28,81.7,454.55,86.0,1,Two year,Bank transfer
+TEL-1615,60,Female,66,38.32,5.46,729.0,2,One year,Credit card
+TEL-2835,27,Male,69,53.56,27.9,283.0,7,One year,Bank transfer
+TEL-2216,73,Non-binary,18,30.46,2.16,64.0,0,Month-to-month,Electronic check
+TEL-1181,50,Female,28,114.18,502.44,62.0,1,One year,Credit card
+TEL-1854,26,Female,36,47.55,2.47,808.0,5,One year,Credit card
+TEL-1597,47,Male,24,44.76,3.52,761.0,2,One year,Electronic check
+TEL-2844,79,Female,29,62.28,17.27,262.0,7,One year,Bank transfer
+TEL-1436,70,Female,62,41.27,3.46,1089.0,5,One year,Credit card
+TEL-1941,67,Male,39,41.4,4.02,382.0,1,One year,Bank transfer
+TEL-1435,69,Non-binary,59,53.01,5.14,714.0,0,One year,Electronic check
+TEL-1822,64,Male,45,57.6,3.95,704.0,1,One year,Mailed check
+TEL-2750,22,Non-binary,65,24.9,2.07,72.0,0,One year,Credit card
+TEL-1132,44,Female,62,74.26,438.64,83.0,2,Month-to-month,Mailed check
+TEL-2959,49,Male,16,81.28,18.21,192.0,3,Month-to-month,Credit card
+TEL-1473,78,Female,22,38.03,2.89,512.0,0,Two year,Mailed check
+TEL-1187,67,Female,53,85.16,487.35,22.0,0,One year,Credit card
+TEL-1283,59,Female,44,105.23,416.42,62.0,1,One year,Credit card
+TEL-2717,38,Male,43,24.9,4.18,85.0,1,One year,Mailed check
+TEL-2224,76,Female,37,36.37,1.37,93.0,0,One year,Electronic check
+TEL-1982,55,Female,47,56.6,3.95,710.0,1,Two year,Bank transfer
+TEL-2564,83,Male,7,27.33,1.92,114.0,1,Month-to-month,Electronic check
+TEL-1147,69,Female,21,84.3,419.27,52.0,1,Month-to-month,Bank transfer
+TEL-2530,73,Male,71,32.31,3.77,83.0,0,Month-to-month,Bank transfer
+TEL-2860,44,Male,6,62.59,43.62,416.0,5,One year,Electronic check
+TEL-1926,83,Male,57,53.23,8.06,762.0,2,One year,Electronic check
+TEL-2037,71,Non-binary,69,25.85,2.88,133.0,0,Two year,Mailed check
+TEL-1566,54,Non-binary,13,55.34,5.42,806.0,1,Month-to-month,Electronic check
+TEL-1208,41,Male,59,95.4,508.38,82.0,0,Two year,Bank transfer
+TEL-1266,71,Female,51,92.51,308.35,94.0,1,Two year,Bank transfer
+TEL-1251,61,Male,43,89.16,497.62,20.0,1,Month-to-month,Electronic check
+TEL-2988,63,Male,28,50.32,21.43,356.0,3,One year,Mailed check
+TEL-2952,27,Female,61,71.74,27.54,270.0,12,Two year,Electronic check
+TEL-1975,28,Non-binary,28,49.11,5.09,819.0,1,One year,Electronic check
+TEL-2618,30,Male,44,28.81,3.42,75.0,1,One year,Bank transfer
+TEL-2114,59,Female,42,35.18,1.86,109.0,0,Month-to-month,Credit card
+TEL-2741,29,Female,42,14.7,2.13,98.0,0,Two year,Electronic check
+TEL-1206,71,Non-binary,6,82.99,532.18,90.0,1,One year,Mailed check
+TEL-1395,19,Male,64,73.74,441.79,53.0,2,Month-to-month,Electronic check
+TEL-1272,64,Female,38,93.19,522.39,23.0,0,One year,Credit card
+TEL-2879,28,Female,58,55.05,3.71,405.0,7,One year,Electronic check
+TEL-2697,77,Female,65,23.0,1.44,94.0,1,Two year,Mailed check
+TEL-2178,26,Male,30,26.63,2.24,86.0,0,Month-to-month,Mailed check
+TEL-2787,24,Male,21,30.17,3.11,55.0,1,Month-to-month,Electronic check
+TEL-2636,30,Male,17,25.08,0.77,81.0,0,Month-to-month,Credit card
+TEL-1358,33,Male,34,77.28,421.3,34.0,3,One year,Bank transfer
+TEL-2838,67,Non-binary,55,56.55,28.33,375.0,5,Two year,Credit card
+TEL-1105,59,Male,66,86.36,472.53,78.0,2,One year,Mailed check
+TEL-1392,30,Female,46,80.11,460.25,47.0,1,Month-to-month,Bank transfer
+TEL-2471,79,Male,25,15.31,1.8,100.0,1,Two year,Bank transfer
+TEL-2105,57,Male,13,16.87,0.39,103.0,0,Month-to-month,Electronic check
+TEL-1372,41,Female,11,65.01,449.11,20.0,3,Two year,Electronic check
+TEL-2727,52,Male,67,24.28,2.24,78.0,0,Two year,Bank transfer
+TEL-1924,18,Non-binary,31,34.4,4.23,760.0,0,One year,Bank transfer
+TEL-1551,43,Male,63,58.71,3.21,902.0,3,Month-to-month,Credit card
+TEL-1207,50,Male,56,88.68,469.56,58.0,1,Month-to-month,Bank transfer
+TEL-1281,65,Female,54,77.61,447.78,71.0,0,Two year,Credit card
+TEL-1596,67,Male,67,41.16,2.57,753.0,0,Two year,Bank transfer
+TEL-1580,20,Female,4,57.78,3.55,989.0,2,Two year,Mailed check
+TEL-1886,24,Female,22,45.02,1.78,654.0,4,Month-to-month,Mailed check
+TEL-2136,82,Male,46,28.23,2.34,154.0,1,One year,Bank transfer
+TEL-1947,76,Non-binary,26,38.65,8.31,821.0,3,One year,Mailed check
+TEL-1316,77,Non-binary,66,70.04,466.58,47.0,1,Month-to-month,Bank transfer
+TEL-2028,43,Male,45,19.73,1.19,65.0,2,One year,Bank transfer
+TEL-1307,79,Non-binary,20,91.0,452.39,53.0,1,Month-to-month,Bank transfer
+TEL-2859,24,Non-binary,52,70.34,30.57,367.0,9,Month-to-month,Credit card
+TEL-2199,42,Female,4,30.7,1.73,78.0,0,One year,Electronic check
+TEL-2440,54,Male,6,31.21,1.41,90.0,1,Two year,Mailed check
+TEL-2463,25,Male,3,33.22,1.27,129.0,0,One year,Bank transfer
+TEL-1121,62,Male,62,73.78,417.42,72.0,1,One year,Bank transfer
+TEL-2871,22,Female,41,86.31,22.78,215.0,10,Two year,Bank transfer
+TEL-2336,61,Female,72,20.0,2.17,108.0,2,Month-to-month,Mailed check
+TEL-2858,79,Non-binary,14,60.65,13.67,392.0,10,Month-to-month,Electronic check
+TEL-2648,61,Female,47,23.78,1.55,64.0,0,Two year,Mailed check
+TEL-1211,42,Non-binary,18,87.14,313.04,51.0,1,One year,Mailed check
+TEL-1709,57,Non-binary,20,45.23,3.94,1020.0,1,Two year,Credit card
+TEL-2798,42,Male,59,25.99,0.53,55.0,1,Two year,Mailed check
+TEL-2731,61,Female,40,14.36,3.91,83.0,1,Two year,Electronic check
+TEL-1444,56,Male,72,44.94,2.15,980.0,3,Two year,Bank transfer
+TEL-2946,67,Male,52,60.23,15.57,210.0,10,Two year,Bank transfer
+TEL-2867,38,Male,42,63.67,27.19,319.0,6,Month-to-month,Mailed check
+TEL-1752,34,Female,28,42.61,5.21,721.0,2,Two year,Credit card
+TEL-1293,62,Non-binary,65,92.24,516.69,40.0,0,One year,Bank transfer
+TEL-1807,50,Female,23,50.09,6.92,827.0,1,One year,Bank transfer
+TEL-2414,72,Non-binary,45,14.19,1.93,167.0,0,One year,Mailed check
+TEL-2681,52,Female,16,27.19,1.79,117.0,2,One year,Electronic check
+TEL-1794,83,Female,5,45.99,9.44,676.0,3,Month-to-month,Bank transfer
+TEL-1692,43,Non-binary,61,52.87,2.34,709.0,2,Month-to-month,Mailed check
+TEL-1934,72,Non-binary,2,60.83,-0.4,878.0,2,Month-to-month,Electronic check
+TEL-2054,42,Male,5,19.93,1.54,101.0,0,One year,Credit card
+TEL-2128,79,Male,42,25.62,1.72,96.0,0,One year,Credit card
+TEL-2337,70,Female,56,28.7,1.61,26.0,0,One year,Bank transfer
+TEL-1872,32,Male,52,52.74,3.79,730.0,0,One year,Mailed check
+TEL-1330,34,Non-binary,16,83.71,498.69,97.0,0,Two year,Electronic check
+TEL-1296,25,Non-binary,47,73.0,417.94,54.0,2,Month-to-month,Bank transfer
+TEL-2376,50,Female,25,25.43,0.57,129.0,0,One year,Electronic check
+TEL-1415,29,Non-binary,15,47.98,7.41,658.0,4,Month-to-month,Credit card
+TEL-2328,34,Male,15,30.76,2.32,78.0,2,Two year,Bank transfer
+TEL-1582,29,Non-binary,27,50.53,2.71,556.0,1,Month-to-month,Credit card
+TEL-2814,38,Male,70,64.61,21.69,328.0,5,Month-to-month,Mailed check
+TEL-2915,49,Non-binary,14,57.77,12.87,293.0,9,Two year,Mailed check
+TEL-1703,79,Female,49,55.74,6.52,1077.0,3,Two year,Mailed check
+TEL-2570,30,Female,42,21.92,1.27,109.0,0,One year,Bank transfer
+TEL-2079,43,Non-binary,54,30.36,1.65,86.0,0,One year,Credit card
+TEL-2657,32,Male,64,30.4,3.27,84.0,0,One year,Credit card
+TEL-1646,43,Non-binary,56,48.5,5.22,687.0,0,One year,Bank transfer
+TEL-2989,24,Non-binary,48,57.14,7.94,417.0,3,Two year,Mailed check
+TEL-1787,68,Male,11,54.29,5.59,574.0,3,One year,Mailed check
+TEL-1404,38,Female,57,41.62,5.75,920.0,1,Two year,Electronic check
+TEL-2228,62,Non-binary,46,25.71,2.94,108.0,4,One year,Credit card
+TEL-2134,42,Non-binary,64,19.3,0.95,111.0,0,Month-to-month,Mailed check
+TEL-1463,54,Non-binary,3,42.54,4.75,706.0,2,Month-to-month,Bank transfer
+TEL-2531,60,Male,2,13.34,-0.02,17.0,0,Month-to-month,Credit card
+TEL-2286,49,Non-binary,16,22.27,1.5,169.0,1,One year,Bank transfer
+TEL-1806,46,Non-binary,18,40.46,6.21,866.0,5,Month-to-month,Bank transfer
+TEL-1389,60,Male,2,70.03,434.06,38.0,0,Month-to-month,Mailed check
+TEL-1156,71,Non-binary,54,88.93,515.78,52.0,0,Two year,Credit card
+TEL-1841,55,Male,59,61.48,4.0,730.0,1,Month-to-month,Mailed check
+TEL-1696,76,Male,13,32.57,4.78,1100.0,0,One year,Electronic check
+TEL-2254,44,Male,27,25.1,3.31,86.0,0,Two year,Mailed check
+TEL-1226,84,Female,15,86.49,439.31,31.0,2,One year,Electronic check
+TEL-1276,19,Female,11,80.33,443.45,43.0,1,Month-to-month,Electronic check
+TEL-1560,23,Male,37,42.7,7.78,634.0,2,Month-to-month,Bank transfer
+TEL-1101,31,Male,36,95.37,449.01,58.0,0,One year,Bank transfer
+TEL-2191,84,Male,7,31.85,3.13,74.0,0,One year,Credit card
+TEL-2184,34,Non-binary,38,35.0,2.29,167.0,0,Two year,Electronic check
+TEL-1359,65,Non-binary,20,80.02,435.94,27.0,2,Two year,Credit card
+TEL-2910,76,Male,17,47.14,22.56,230.0,5,One year,Mailed check
+TEL-1549,66,Non-binary,21,47.43,7.29,563.0,2,Month-to-month,Bank transfer
+TEL-1983,26,Non-binary,37,34.84,3.53,773.0,2,One year,Mailed check
+TEL-1528,58,Male,62,42.87,5.32,773.0,3,One year,Credit card
+TEL-2433,24,Non-binary,47,15.48,1.47,71.0,0,Month-to-month,Electronic check
+TEL-2901,65,Male,17,72.09,13.58,246.0,3,Two year,Bank transfer
+TEL-2850,34,Female,3,63.5,24.41,229.0,5,One year,Mailed check
+TEL-2044,37,Male,61,19.84,1.29,113.0,0,Two year,Mailed check
+TEL-2777,29,Female,57,31.82,1.36,137.0,0,Month-to-month,Mailed check
+TEL-2244,70,Male,70,26.74,1.79,97.0,0,Month-to-month,Electronic check
+TEL-1599,80,Female,67,60.64,4.89,890.0,3,Two year,Electronic check
+TEL-2685,74,Non-binary,42,26.64,2.51,36.0,0,Two year,Mailed check
+TEL-1154,19,Non-binary,13,89.36,514.6,31.0,2,Month-to-month,Electronic check
+TEL-1379,50,Non-binary,28,93.95,397.89,59.0,1,One year,Bank transfer
+TEL-1777,22,Non-binary,4,47.42,2.16,963.0,6,Two year,Bank transfer
+TEL-1524,75,Female,57,47.21,3.26,836.0,1,One year,Mailed check
+TEL-1781,59,Non-binary,18,52.45,5.42,560.0,4,One year,Bank transfer
+TEL-1135,44,Male,64,110.39,486.43,48.0,0,Month-to-month,Credit card
+TEL-2175,71,Female,30,12.66,1.8,113.0,1,One year,Bank transfer
+TEL-1744,27,Non-binary,37,43.63,5.14,909.0,2,Month-to-month,Bank transfer
+TEL-1018,66,Non-binary,10,78.43,379.45,44.0,1,Two year,Bank transfer
+TEL-2416,25,Male,72,39.59,2.42,135.0,1,One year,Mailed check
+TEL-2425,73,Female,23,29.33,2.77,106.0,1,Two year,Electronic check
+TEL-1754,32,Non-binary,31,44.33,6.51,811.0,1,One year,Credit card
+TEL-1057,61,Non-binary,49,90.38,432.74,66.0,2,Month-to-month,Credit card
+TEL-2004,51,Female,2,25.87,1.95,5.0,0,Two year,Electronic check
+TEL-1855,68,Male,8,47.31,6.94,564.0,0,Month-to-month,Mailed check
+TEL-2639,73,Non-binary,50,28.82,0.36,196.0,0,One year,Bank transfer
+TEL-1726,43,Non-binary,19,44.48,3.19,766.0,1,One year,Mailed check
+TEL-1521,25,Male,32,39.87,8.31,771.0,2,Month-to-month,Mailed check
+TEL-1913,79,Non-binary,37,55.0,4.52,944.0,3,Two year,Credit card
+TEL-2586,52,Non-binary,55,22.09,1.51,112.0,0,Two year,Electronic check
+TEL-2382,55,Male,55,18.78,2.78,37.0,1,One year,Mailed check
+TEL-1864,53,Non-binary,71,47.34,3.63,865.0,2,One year,Electronic check
+TEL-1871,57,Non-binary,46,53.3,2.11,789.0,3,Two year,Credit card
+TEL-2194,84,Non-binary,33,23.78,2.56,129.0,0,Two year,Bank transfer
+TEL-1123,74,Male,9,85.68,529.97,72.0,3,Month-to-month,Credit card
+TEL-1875,70,Female,64,48.21,10.97,908.0,1,Two year,Credit card
+TEL-2941,27,Female,3,64.68,33.11,169.0,5,Month-to-month,Bank transfer
+TEL-1484,56,Male,17,45.71,3.92,1013.0,2,One year,Mailed check
+TEL-1910,30,Female,50,44.93,5.08,928.0,1,Two year,Bank transfer
+TEL-2809,58,Female,19,56.07,20.78,187.0,4,One year,Credit card
+TEL-1117,76,Non-binary,4,102.04,554.13,20.0,1,One year,Electronic check
+TEL-2587,61,Female,46,30.64,1.9,109.0,0,Month-to-month,Bank transfer
+TEL-2851,69,Female,58,91.41,-5.59,65.0,8,One year,Mailed check
+TEL-2659,59,Non-binary,38,37.96,2.38,127.0,1,Two year,Credit card
+TEL-1966,36,Female,54,42.83,4.2,1017.0,4,Two year,Credit card
+TEL-2875,62,Female,27,71.95,35.56,512.0,4,One year,Mailed check
+TEL-2987,25,Non-binary,21,79.41,19.52,326.0,7,One year,Electronic check
+TEL-1691,69,Male,72,42.94,3.64,817.0,4,Two year,Credit card
+TEL-1832,19,Non-binary,16,33.98,2.97,740.0,2,Two year,Electronic check
+TEL-2935,68,Non-binary,19,67.54,10.57,274.0,6,Two year,Electronic check
+TEL-2819,49,Male,58,56.28,27.41,115.0,4,Month-to-month,Bank transfer
+TEL-2698,63,Male,1,23.49,3.0,60.0,0,Two year,Credit card
+TEL-2718,25,Male,39,20.46,2.75,106.0,0,One year,Credit card
+TEL-1572,79,Male,56,39.89,4.98,762.0,4,Month-to-month,Mailed check
+TEL-2780,55,Female,1,18.63,3.14,119.0,1,Two year,Bank transfer
+TEL-2683,28,Non-binary,37,15.5,1.23,169.0,0,One year,Electronic check
+TEL-2237,62,Non-binary,36,29.45,1.32,135.0,1,One year,Mailed check
+TEL-2261,45,Non-binary,15,25.13,0.47,101.0,1,One year,Bank transfer
+TEL-2207,54,Male,61,34.4,0.86,164.0,0,Two year,Credit card
+TEL-2148,70,Non-binary,12,28.13,2.03,216.0,1,Two year,Bank transfer
+TEL-2848,21,Male,23,59.32,6.93,523.0,6,Two year,Credit card
+TEL-2480,82,Non-binary,1,16.97,2.09,132.0,0,Month-to-month,Bank transfer
+TEL-2127,79,Male,26,28.74,2.04,100.0,0,Month-to-month,Bank transfer
+TEL-1492,55,Female,59,52.93,5.74,781.0,2,Month-to-month,Credit card
+TEL-1131,18,Non-binary,45,85.46,323.41,-8.0,0,Month-to-month,Credit card
+TEL-1354,74,Female,11,79.61,442.76,56.0,0,Two year,Mailed check
+TEL-2247,48,Non-binary,24,16.59,2.87,139.0,0,Two year,Bank transfer
+TEL-2948,66,Male,46,61.0,19.6,339.0,12,Month-to-month,Credit card
+TEL-2008,44,Non-binary,29,20.88,1.03,160.0,0,Month-to-month,Bank transfer
+TEL-2514,37,Male,13,19.88,2.27,58.0,1,Two year,Credit card
+TEL-1971,19,Non-binary,60,45.28,1.48,872.0,2,One year,Credit card
+TEL-2811,42,Male,10,41.88,9.21,289.0,4,Two year,Bank transfer
+TEL-2917,82,Female,29,38.35,12.62,230.0,10,One year,Bank transfer
+TEL-1297,33,Male,46,91.99,591.22,59.0,1,Two year,Bank transfer
+TEL-2529,56,Male,52,34.22,2.45,191.0,0,Month-to-month,Credit card
+TEL-2461,32,Non-binary,66,18.87,1.44,93.0,0,Two year,Mailed check
+TEL-1653,53,Male,51,65.53,7.6,794.0,2,Two year,Electronic check
+TEL-2019,79,Female,22,28.27,1.5,102.0,2,Two year,Mailed check
+TEL-2748,47,Male,38,23.46,1.49,68.0,1,Two year,Bank transfer
+TEL-2833,22,Non-binary,64,52.27,1.1,353.0,11,One year,Mailed check
+TEL-1174,76,Female,38,107.76,401.36,53.0,1,One year,Bank transfer
+TEL-1025,64,Male,19,80.47,430.13,45.0,1,Two year,Mailed check
+TEL-2038,72,Non-binary,68,23.98,1.64,85.0,1,Month-to-month,Electronic check
+TEL-1148,29,Female,64,91.89,407.18,15.0,1,Two year,Mailed check
+TEL-1803,59,Female,9,48.32,4.62,558.0,2,One year,Credit card
+TEL-1102,44,Female,57,88.34,425.88,34.0,1,Month-to-month,Electronic check
+TEL-1469,21,Non-binary,62,46.02,5.82,822.0,4,Two year,Bank transfer
+TEL-1288,30,Non-binary,22,96.91,425.62,54.0,1,One year,Credit card
+TEL-2536,40,Male,64,28.03,3.39,44.0,1,Month-to-month,Electronic check
+TEL-1512,18,Male,30,35.46,5.98,854.0,1,Month-to-month,Credit card
+TEL-2429,52,Non-binary,57,23.06,1.71,95.0,1,Month-to-month,Bank transfer
+TEL-1753,26,Non-binary,66,31.78,1.54,767.0,0,Month-to-month,Mailed check
+TEL-1567,34,Male,52,34.72,4.07,918.0,3,One year,Credit card
+TEL-2031,28,Female,18,19.35,2.51,131.0,0,One year,Mailed check
+TEL-2189,28,Female,10,21.23,0.88,135.0,1,Month-to-month,Bank transfer
+TEL-1043,61,Female,34,88.98,391.04,45.0,0,Two year,Electronic check
+TEL-2610,40,Male,56,27.78,1.6,92.0,0,Month-to-month,Bank transfer
+TEL-1808,44,Non-binary,47,46.61,3.9,849.0,0,Two year,Bank transfer
+TEL-1649,80,Non-binary,59,23.19,5.18,1102.0,5,Two year,Credit card
+TEL-2652,39,Non-binary,1,20.04,4.07,161.0,0,One year,Bank transfer
+TEL-1138,54,Male,59,83.66,509.78,45.0,0,Month-to-month,Bank transfer
+TEL-1685,51,Non-binary,17,53.46,6.26,910.0,2,Month-to-month,Electronic check
+TEL-1837,60,Male,42,36.3,4.32,774.0,2,One year,Bank transfer
+TEL-1421,79,Female,9,30.91,6.19,985.0,1,Two year,Electronic check
+TEL-2521,68,Male,9,27.16,4.31,40.0,2,Two year,Bank transfer
+TEL-2347,55,Female,69,21.82,1.57,102.0,0,Two year,Electronic check
+TEL-1823,69,Non-binary,7,51.07,6.01,707.0,2,Month-to-month,Bank transfer
+TEL-2278,46,Non-binary,22,30.01,2.02,23.0,0,One year,Electronic check
+TEL-1770,81,Male,60,31.78,0.68,772.0,2,Month-to-month,Electronic check
+TEL-2424,54,Male,43,27.13,2.54,108.0,1,Month-to-month,Bank transfer
+TEL-2145,42,Female,61,19.44,0.62,95.0,1,One year,Credit card
+TEL-1118,45,Non-binary,60,83.85,471.54,59.0,1,One year,Mailed check
+TEL-2219,50,Male,16,17.98,0.73,137.0,0,One year,Bank transfer
+TEL-2507,73,Male,15,28.35,2.04,56.0,0,One year,Mailed check
+TEL-1516,74,Male,9,40.01,6.12,733.0,5,Two year,Bank transfer
+TEL-2378,50,Male,66,32.57,0.83,62.0,0,One year,Mailed check
+TEL-2204,22,Female,1,24.92,1.54,100.0,0,One year,Bank transfer
+TEL-1591,83,Female,24,49.71,3.82,809.0,1,One year,Credit card
+TEL-1719,83,Female,7,45.45,6.3,903.0,5,Month-to-month,Mailed check
+TEL-1931,18,Female,66,40.23,4.82,971.0,3,Two year,Electronic check
+TEL-1728,37,Non-binary,35,31.7,6.51,1016.0,0,Two year,Bank transfer
+TEL-2287,68,Female,14,22.4,0.94,32.0,1,Month-to-month,Mailed check
+TEL-2009,74,Non-binary,15,30.07,1.26,129.0,0,Month-to-month,Bank transfer
+TEL-1216,78,Female,48,90.56,412.31,30.0,1,One year,Credit card
+TEL-1679,34,Female,8,49.45,7.3,681.0,4,One year,Mailed check
+TEL-2091,65,Male,8,26.86,1.03,108.0,0,Two year,Mailed check
+TEL-2130,33,Male,11,24.59,2.07,167.0,0,Month-to-month,Electronic check
+TEL-1912,73,Non-binary,20,36.3,4.26,955.0,3,Month-to-month,Electronic check
+TEL-1243,78,Female,3,73.01,442.3,69.0,1,One year,Bank transfer
+TEL-1142,76,Non-binary,29,69.18,388.02,63.0,2,One year,Mailed check
+TEL-1977,84,Non-binary,10,38.45,2.98,754.0,3,Two year,Mailed check
+TEL-2980,56,Non-binary,30,49.48,26.35,226.0,3,One year,Credit card
+TEL-2303,84,Non-binary,15,27.4,3.7,96.0,1,Month-to-month,Electronic check
+TEL-2906,38,Male,18,62.78,12.65,217.0,5,Month-to-month,Credit card
+TEL-1862,63,Non-binary,16,40.03,2.94,590.0,4,Two year,Electronic check
+TEL-1909,18,Non-binary,4,44.82,5.33,899.0,3,Month-to-month,Bank transfer
+TEL-2169,74,Non-binary,25,36.29,1.45,113.0,1,Month-to-month,Mailed check
+TEL-2668,56,Non-binary,16,25.91,1.9,145.0,1,Month-to-month,Bank transfer
+TEL-1493,23,Non-binary,59,42.58,6.68,577.0,6,Month-to-month,Mailed check
+TEL-2121,30,Non-binary,56,28.29,0.82,91.0,2,One year,Mailed check
+TEL-1005,20,Female,32,93.87,419.01,36.0,2,One year,Bank transfer
+TEL-2099,41,Non-binary,20,23.44,1.13,86.0,1,Month-to-month,Credit card
+TEL-2076,32,Non-binary,39,25.79,2.73,101.0,1,One year,Mailed check
+TEL-2856,80,Non-binary,1,81.02,7.5,298.0,2,Two year,Credit card
+TEL-2252,30,Non-binary,33,28.82,2.42,87.0,0,One year,Credit card
+TEL-2206,35,Male,50,32.27,3.7,116.0,0,One year,Credit card
+TEL-1112,60,Non-binary,64,85.85,414.43,5.0,0,One year,Bank transfer
+TEL-1263,84,Female,63,93.38,461.58,66.0,0,Two year,Electronic check
+TEL-1031,68,Non-binary,47,89.88,507.51,43.0,1,Month-to-month,Mailed check
+TEL-2398,24,Non-binary,59,22.77,1.97,111.0,0,Month-to-month,Bank transfer
+TEL-1496,62,Non-binary,28,40.17,7.73,899.0,1,Month-to-month,Electronic check
+TEL-1198,54,Male,70,90.5,401.0,59.0,0,One year,Mailed check
+TEL-2140,31,Male,59,24.69,2.69,140.0,0,One year,Credit card
+TEL-2854,55,Male,43,54.65,14.39,332.0,3,Month-to-month,Electronic check
+TEL-2943,25,Male,55,70.49,18.7,382.0,5,One year,Bank transfer
+TEL-1228,50,Female,13,108.82,470.94,46.0,0,Two year,Mailed check
+TEL-1042,77,Male,1,86.55,421.48,25.0,0,Month-to-month,Bank transfer
+TEL-2426,76,Non-binary,30,22.84,2.0,123.0,0,Two year,Bank transfer
+TEL-1066,41,Female,43,83.3,407.47,20.0,0,Month-to-month,Mailed check
+TEL-2125,63,Non-binary,55,28.61,-0.43,154.0,2,Two year,Mailed check
+TEL-2062,61,Female,40,28.73,3.46,169.0,0,Month-to-month,Bank transfer
+TEL-1797,56,Non-binary,35,50.5,5.44,594.0,1,One year,Bank transfer
+TEL-2754,39,Non-binary,71,19.97,1.53,99.0,0,Two year,Credit card
+TEL-2950,58,Female,16,75.61,9.67,258.0,6,One year,Mailed check
+TEL-1205,41,Female,48,80.54,501.15,82.0,0,One year,Credit card
+TEL-2739,72,Female,9,28.64,2.11,159.0,1,Month-to-month,Credit card
+TEL-1360,56,Female,50,79.87,478.97,72.0,0,One year,Mailed check
+TEL-2861,31,Male,10,47.1,20.36,298.0,8,One year,Bank transfer
+TEL-2068,72,Female,25,23.27,2.27,54.0,0,Two year,Mailed check
+TEL-2706,25,Female,28,17.68,2.89,76.0,0,One year,Bank transfer
+TEL-2715,44,Non-binary,18,30.25,1.25,153.0,1,Month-to-month,Bank transfer
+TEL-1764,52,Male,71,39.28,3.0,682.0,1,Two year,Mailed check
+TEL-2329,70,Female,71,27.28,1.21,119.0,1,Month-to-month,Mailed check
+TEL-1774,47,Male,69,41.24,6.61,856.0,3,One year,Electronic check
+TEL-2554,64,Non-binary,60,25.41,0.89,108.0,0,One year,Mailed check
+TEL-2865,79,Female,60,49.77,38.52,212.0,3,One year,Mailed check
+TEL-2317,78,Female,47,26.08,2.34,132.0,0,Two year,Bank transfer
+TEL-2264,39,Female,44,24.93,2.66,165.0,1,Two year,Credit card
+TEL-1090,65,Female,46,85.31,464.68,37.0,1,One year,Electronic check
+TEL-2605,60,Female,9,28.69,1.92,121.0,0,Month-to-month,Mailed check
+TEL-1613,70,Male,55,43.12,6.62,1013.0,3,Two year,Bank transfer
+TEL-1619,25,Female,49,33.97,3.65,778.0,2,One year,Credit card
+TEL-2481,57,Male,42,21.32,2.51,121.0,0,Month-to-month,Credit card
+TEL-2335,81,Female,10,18.58,0.86,148.0,0,One year,Electronic check
+TEL-2898,18,Male,62,51.45,8.58,236.0,15,One year,Bank transfer
+TEL-2832,48,Female,55,55.8,27.51,210.0,6,One year,Electronic check
+TEL-1070,46,Female,32,64.26,382.51,109.0,0,One year,Electronic check
+TEL-1611,51,Male,4,51.82,4.53,693.0,4,Two year,Credit card
+TEL-2393,58,Female,23,18.39,2.96,151.0,0,Month-to-month,Credit card
+TEL-2327,63,Non-binary,71,25.31,3.11,47.0,0,Month-to-month,Electronic check
+TEL-1093,54,Non-binary,18,87.89,456.24,42.0,2,Month-to-month,Bank transfer
+TEL-2043,53,Non-binary,14,20.06,1.38,139.0,0,Two year,Electronic check
+TEL-1639,22,Non-binary,72,45.62,6.34,666.0,1,Two year,Bank transfer
+TEL-2180,78,Male,51,31.21,1.93,63.0,1,Month-to-month,Credit card
+TEL-2075,29,Non-binary,44,23.86,1.1,149.0,0,One year,Mailed check
+TEL-1498,62,Male,16,38.34,5.05,805.0,2,Two year,Mailed check
+TEL-1126,45,Female,48,87.48,458.27,47.0,0,One year,Credit card
+TEL-2893,30,Non-binary,45,60.66,33.72,172.0,8,Two year,Mailed check
+TEL-1584,71,Female,16,45.03,3.97,801.0,4,Month-to-month,Electronic check
+TEL-1259,77,Non-binary,11,105.68,485.35,51.0,3,Month-to-month,Electronic check
+TEL-2290,63,Male,51,19.74,1.65,117.0,0,Two year,Electronic check
+TEL-2273,39,Non-binary,33,29.66,2.45,73.0,0,One year,Mailed check
+TEL-2198,57,Female,34,28.22,1.51,157.0,0,Two year,Electronic check
+TEL-2638,80,Female,23,19.52,1.36,53.0,1,Two year,Credit card
+TEL-2090,26,Non-binary,70,24.14,1.73,60.0,1,Month-to-month,Credit card
+TEL-1064,57,Male,62,89.99,419.9,57.0,0,Two year,Mailed check
+TEL-1765,18,Non-binary,57,39.45,5.17,832.0,1,Month-to-month,Bank transfer
+TEL-1446,22,Female,32,38.09,2.19,791.0,1,Month-to-month,Electronic check
+TEL-1053,21,Male,71,85.15,361.3,77.0,0,One year,Electronic check
+TEL-1013,77,Non-binary,22,108.92,341.1,52.0,0,Month-to-month,Credit card
+TEL-2431,71,Male,45,27.32,1.48,53.0,1,Two year,Mailed check
+TEL-1311,66,Non-binary,56,98.63,425.12,19.0,2,Two year,Bank transfer
+TEL-1680,30,Male,62,29.73,1.95,847.0,2,One year,Bank transfer
+TEL-2341,37,Female,26,22.71,3.84,100.0,2,One year,Bank transfer
+TEL-1879,43,Non-binary,29,46.72,4.07,832.0,3,Two year,Electronic check
+TEL-1428,36,Non-binary,71,30.44,6.34,796.0,1,Two year,Electronic check
+TEL-1671,32,Male,1,29.59,7.59,703.0,1,Two year,Electronic check
+TEL-2024,82,Female,22,25.55,1.33,42.0,1,Month-to-month,Bank transfer
+TEL-2853,53,Non-binary,31,61.46,23.47,76.0,3,One year,Credit card
+TEL-2702,56,Male,43,30.89,1.91,130.0,0,One year,Electronic check
+TEL-1505,74,Male,21,46.68,6.25,984.0,2,Two year,Credit card
+TEL-2404,20,Male,37,20.5,1.06,46.0,0,Month-to-month,Mailed check
+TEL-2357,55,Non-binary,60,17.3,1.49,135.0,0,Two year,Mailed check
+TEL-1865,71,Male,52,56.02,3.98,890.0,2,One year,Credit card
+TEL-2974,61,Male,67,53.55,-5.24,374.0,3,Two year,Electronic check
+TEL-1991,57,Male,12,36.12,5.37,815.0,4,Month-to-month,Electronic check
+TEL-2968,35,Female,26,53.06,14.4,482.0,9,One year,Mailed check
+TEL-1984,70,Non-binary,22,37.99,3.17,989.0,1,Month-to-month,Electronic check
+TEL-1923,35,Male,19,44.48,1.51,695.0,2,Two year,Bank transfer
+TEL-1932,25,Non-binary,59,43.93,6.38,729.0,1,Two year,Bank transfer
+TEL-2602,54,Male,20,26.66,1.48,90.0,2,One year,Mailed check
+TEL-1688,59,Female,6,22.72,3.85,572.0,0,Month-to-month,Credit card
+TEL-1538,23,Male,23,37.79,1.75,815.0,2,Two year,Mailed check
+TEL-2613,42,Female,3,26.09,0.62,134.0,0,Two year,Electronic check
+TEL-2669,35,Non-binary,50,30.61,0.48,146.0,0,One year,Electronic check
+TEL-1082,50,Non-binary,19,83.61,398.18,44.0,0,One year,Bank transfer
+TEL-1656,69,Male,39,42.34,6.42,868.0,3,Two year,Electronic check
+TEL-2506,61,Male,16,34.16,2.81,144.0,0,Month-to-month,Credit card
+TEL-1078,28,Male,41,72.83,498.8,22.0,1,One year,Credit card
+TEL-2734,48,Female,68,23.07,0.95,91.0,1,Two year,Electronic check
+TEL-2144,54,Male,11,22.84,3.03,57.0,0,Two year,Bank transfer
+TEL-2390,26,Female,65,24.35,1.38,44.0,0,Two year,Electronic check
+TEL-2312,18,Male,38,29.34,2.72,114.0,0,Month-to-month,Bank transfer
+TEL-2803,53,Female,71,67.3,30.01,487.0,3,One year,Electronic check
+TEL-2011,23,Male,28,29.19,2.88,84.0,0,Two year,Mailed check
+TEL-2594,65,Male,51,12.93,2.18,111.0,1,Month-to-month,Mailed check
+TEL-2122,35,Male,39,23.93,2.4,126.0,0,One year,Mailed check
+TEL-2583,77,Female,6,22.66,2.04,7.0,2,Month-to-month,Electronic check
+TEL-2334,20,Female,1,24.69,0.9,61.0,2,Two year,Credit card
+TEL-2537,62,Female,23,23.03,2.76,100.0,0,One year,Credit card
+TEL-1113,46,Male,40,77.86,430.78,43.0,3,One year,Mailed check
+TEL-2644,53,Non-binary,36,33.8,0.69,61.0,0,One year,Mailed check
+TEL-1625,84,Male,25,52.51,4.27,838.0,3,One year,Mailed check
+TEL-1411,41,Non-binary,48,49.42,4.59,809.0,0,Month-to-month,Electronic check
+TEL-2516,46,Non-binary,42,25.52,2.39,113.0,0,Two year,Electronic check
+TEL-2945,83,Female,72,44.33,11.96,331.0,9,Month-to-month,Credit card
+TEL-1326,33,Female,29,93.58,452.92,27.0,2,Two year,Bank transfer
+TEL-1439,74,Non-binary,60,44.11,-1.06,974.0,2,Two year,Electronic check
+TEL-1467,34,Non-binary,31,64.69,7.34,748.0,4,One year,Electronic check
+TEL-2891,38,Non-binary,38,39.89,15.05,416.0,3,Two year,Bank transfer
+TEL-2249,29,Non-binary,18,28.78,1.66,117.0,0,Month-to-month,Mailed check
+TEL-2885,51,Female,60,63.35,37.86,203.0,6,Two year,Electronic check
+TEL-1972,18,Female,54,41.7,3.11,837.0,4,Month-to-month,Bank transfer
+TEL-2462,43,Male,40,28.08,1.24,92.0,0,Two year,Bank transfer
+TEL-2818,29,Non-binary,54,63.21,27.68,257.0,1,One year,Electronic check
+TEL-2221,36,Male,59,28.36,1.82,108.0,1,Two year,Electronic check
+TEL-1448,35,Non-binary,63,47.35,2.54,851.0,5,Month-to-month,Mailed check
+TEL-1814,72,Male,25,64.41,7.84,454.0,0,One year,Bank transfer
+TEL-1387,50,Non-binary,38,75.72,379.76,19.0,1,Two year,Credit card
+TEL-1384,29,Female,26,84.54,451.47,53.0,1,Two year,Electronic check
+TEL-1511,48,Male,52,39.61,4.25,663.0,3,One year,Electronic check
+TEL-2084,34,Non-binary,65,18.84,2.48,101.0,0,Two year,Electronic check
+TEL-1769,77,Male,39,25.17,8.27,633.0,2,One year,Bank transfer
+TEL-2878,77,Female,59,53.3,26.29,466.0,4,One year,Electronic check
+TEL-1424,36,Non-binary,63,40.04,6.63,913.0,2,Two year,Credit card
+TEL-1779,79,Non-binary,6,50.61,7.92,862.0,0,Month-to-month,Electronic check
+TEL-2095,76,Female,3,27.03,1.73,89.0,1,Two year,Credit card
+TEL-2165,76,Male,23,26.71,2.75,80.0,0,One year,Credit card
+TEL-1364,51,Male,15,74.46,466.92,40.0,1,Two year,Mailed check
+TEL-2413,36,Non-binary,60,34.95,3.53,154.0,0,Two year,Bank transfer
+TEL-1133,79,Non-binary,39,85.81,442.91,32.0,2,One year,Bank transfer
+TEL-2238,75,Female,18,26.42,3.47,56.0,3,One year,Bank transfer
+TEL-2508,45,Non-binary,52,29.14,2.34,75.0,1,Two year,Electronic check
+TEL-2964,27,Male,16,53.25,27.93,402.0,7,Month-to-month,Bank transfer
+TEL-1686,25,Male,38,41.41,6.4,954.0,2,Month-to-month,Mailed check
+TEL-2434,66,Male,40,24.29,3.44,66.0,0,One year,Bank transfer
+TEL-1433,29,Non-binary,39,41.77,1.59,628.0,1,Two year,Bank transfer
+TEL-1609,34,Female,50,58.67,7.11,726.0,1,One year,Credit card
+TEL-1328,47,Male,30,82.43,432.84,32.0,0,Two year,Bank transfer
+TEL-1545,22,Non-binary,72,18.22,4.8,598.0,2,Month-to-month,Mailed check
+TEL-2839,48,Non-binary,38,37.58,17.63,307.0,6,Two year,Credit card
+TEL-1788,55,Female,43,42.7,3.73,949.0,1,One year,Electronic check
+TEL-2721,61,Non-binary,18,23.1,2.52,125.0,2,One year,Credit card
+TEL-1029,81,Female,72,72.26,450.31,53.0,1,Month-to-month,Bank transfer
+TEL-2227,30,Male,48,31.95,2.38,48.0,0,Two year,Mailed check
+TEL-1905,37,Female,57,58.71,6.37,1066.0,2,One year,Bank transfer
+TEL-1826,46,Female,2,52.01,6.95,620.0,1,Month-to-month,Electronic check
+TEL-1048,67,Male,61,107.77,441.12,38.0,0,Two year,Mailed check
+TEL-2522,29,Non-binary,11,20.52,2.79,102.0,1,Two year,Mailed check
+TEL-1481,75,Female,36,35.0,0.35,542.0,1,Two year,Mailed check
+TEL-1420,34,Non-binary,32,28.41,6.14,830.0,2,Month-to-month,Credit card
+TEL-2475,34,Non-binary,19,27.68,2.94,142.0,1,Month-to-month,Credit card
+TEL-1338,29,Female,27,78.43,469.73,46.0,0,One year,Bank transfer
+TEL-2018,43,Female,58,26.08,2.41,150.0,0,Month-to-month,Credit card
+TEL-1628,67,Female,70,42.73,2.51,965.0,2,One year,Mailed check
+TEL-2574,30,Male,7,16.39,2.18,85.0,0,Two year,Credit card
+TEL-2812,30,Male,50,57.21,21.22,333.0,6,Two year,Mailed check
+TEL-1476,36,Female,45,38.89,3.36,1072.0,2,Month-to-month,Electronic check
+TEL-1218,50,Non-binary,20,66.53,506.25,67.0,5,One year,Electronic check
+TEL-1917,66,Male,44,60.14,6.54,722.0,1,One year,Electronic check
+TEL-1128,47,Non-binary,36,89.0,425.82,32.0,0,One year,Bank transfer
+TEL-2663,54,Non-binary,2,26.11,2.7,117.0,0,Two year,Credit card
+TEL-2786,84,Female,1,24.23,2.25,119.0,0,Month-to-month,Mailed check
+TEL-2877,53,Female,64,38.14,20.77,257.0,5,One year,Credit card
+TEL-1955,63,Male,24,46.4,5.65,918.0,1,Two year,Mailed check
+TEL-2419,49,Male,25,31.56,2.5,124.0,0,Two year,Electronic check
+TEL-1713,83,Male,64,49.28,6.62,682.0,3,One year,Electronic check
+TEL-2181,52,Male,47,29.82,3.0,30.0,1,One year,Bank transfer
+TEL-1321,23,Non-binary,40,92.59,412.74,52.0,1,Month-to-month,Mailed check
+TEL-2630,35,Non-binary,47,21.57,2.34,64.0,0,Two year,Electronic check
+TEL-2412,62,Female,35,33.48,1.55,48.0,1,Two year,Electronic check
+TEL-1525,77,Male,8,61.34,4.85,679.0,3,Two year,Mailed check
+TEL-1579,71,Non-binary,72,34.99,3.13,735.0,2,Two year,Credit card
+TEL-2188,31,Male,41,28.27,2.18,65.0,2,Two year,Mailed check
+TEL-1170,33,Female,23,83.76,551.79,38.0,1,One year,Credit card
+TEL-1869,71,Female,15,43.22,7.35,698.0,2,Month-to-month,Mailed check
+TEL-1559,72,Male,38,31.43,3.97,649.0,4,One year,Electronic check
+TEL-2370,71,Non-binary,6,27.11,1.59,91.0,0,One year,Credit card
+TEL-2451,53,Female,41,21.47,1.81,31.0,1,One year,Bank transfer
+TEL-1291,74,Male,71,79.52,485.83,72.0,2,One year,Electronic check
+TEL-1239,38,Male,49,90.04,322.32,33.0,0,Month-to-month,Bank transfer
+TEL-1960,72,Male,50,45.53,8.01,695.0,1,One year,Electronic check
+TEL-1140,61,Female,9,101.73,475.23,66.0,1,Two year,Bank transfer
+TEL-2716,49,Non-binary,54,27.53,2.51,104.0,1,Two year,Bank transfer
+TEL-2245,47,Male,44,30.25,2.35,102.0,0,Two year,Electronic check
+TEL-1698,70,Female,35,43.94,2.0,1158.0,0,Two year,Credit card
+TEL-1342,51,Non-binary,37,83.06,477.8,61.0,0,One year,Electronic check
+TEL-2862,22,Female,71,60.17,27.68,75.0,3,Two year,Mailed check
+TEL-1158,36,Non-binary,8,69.18,441.98,83.0,1,Month-to-month,Credit card
+TEL-1759,79,Non-binary,43,45.56,4.44,1063.0,0,One year,Credit card
+TEL-2840,73,Male,29,70.17,14.44,570.0,6,Month-to-month,Credit card
+TEL-2883,72,Non-binary,13,70.08,40.81,316.0,5,One year,Mailed check
+TEL-2150,66,Male,12,18.72,3.31,78.0,0,One year,Credit card
+TEL-1209,53,Female,29,65.45,413.8,39.0,1,Month-to-month,Mailed check
+TEL-1824,73,Non-binary,64,46.13,7.1,867.0,0,Month-to-month,Mailed check
+TEL-2439,37,Non-binary,48,26.63,3.02,117.0,0,Month-to-month,Credit card
+TEL-1422,30,Male,40,47.07,7.81,722.0,1,Month-to-month,Bank transfer
+TEL-2358,49,Female,63,14.72,1.99,98.0,0,Month-to-month,Mailed check
+TEL-1705,72,Non-binary,34,38.83,4.37,856.0,2,Two year,Mailed check
+TEL-1098,20,Female,22,87.01,441.51,75.0,0,Month-to-month,Mailed check
+TEL-2066,34,Female,29,23.07,2.57,73.0,0,Two year,Mailed check
+TEL-1120,59,Non-binary,2,93.89,443.57,19.0,1,One year,Credit card
+TEL-1045,64,Female,48,77.65,390.48,55.0,0,One year,Bank transfer
+TEL-2486,64,Female,34,20.7,0.71,91.0,1,Two year,Mailed check
+TEL-2488,28,Male,6,25.19,1.09,78.0,0,Month-to-month,Electronic check
+TEL-1073,82,Non-binary,25,83.13,379.65,39.0,2,One year,Electronic check
+TEL-2751,82,Male,54,22.38,3.08,152.0,2,Two year,Bank transfer
+TEL-1616,40,Male,30,35.99,4.5,698.0,4,Two year,Credit card
+TEL-2369,49,Non-binary,8,19.63,2.15,105.0,0,One year,Electronic check
+TEL-1508,66,Female,15,32.19,5.05,558.0,3,Month-to-month,Mailed check
+TEL-1432,33,Female,55,41.25,4.45,806.0,4,Month-to-month,Credit card
+TEL-1655,25,Non-binary,11,41.55,3.22,1310.0,2,Month-to-month,Electronic check
+TEL-2296,46,Non-binary,32,23.64,3.63,101.0,0,One year,Credit card
+TEL-1953,52,Non-binary,71,38.81,4.83,871.0,1,One year,Electronic check
+TEL-1223,37,Female,61,94.26,472.95,27.0,1,Two year,Credit card
+TEL-1352,33,Male,29,89.76,456.79,34.0,3,One year,Credit card
+TEL-2934,45,Female,42,71.43,28.1,-20.0,9,One year,Mailed check
+TEL-2788,69,Male,53,27.83,2.77,138.0,3,One year,Electronic check
+TEL-2314,55,Female,67,20.53,0.77,101.0,0,Two year,Bank transfer
+TEL-2032,57,Non-binary,38,29.33,1.37,154.0,0,Month-to-month,Mailed check
+TEL-2282,46,Non-binary,42,25.3,3.04,99.0,1,One year,Electronic check
+TEL-1750,82,Female,4,41.28,4.31,1010.0,2,Month-to-month,Bank transfer
+TEL-1574,49,Female,1,53.08,4.28,679.0,0,Month-to-month,Electronic check
+TEL-1675,74,Non-binary,42,48.48,1.98,912.0,2,Month-to-month,Mailed check
+TEL-2524,70,Male,13,30.21,1.31,83.0,0,Two year,Bank transfer
+TEL-2359,28,Male,57,26.34,1.23,44.0,1,One year,Mailed check
+TEL-2525,60,Non-binary,36,22.76,1.89,168.0,1,Month-to-month,Bank transfer
+TEL-2088,31,Non-binary,66,35.76,3.43,80.0,0,One year,Electronic check
+TEL-1434,42,Non-binary,68,43.6,6.27,695.0,0,Month-to-month,Mailed check
+TEL-2679,54,Male,20,18.16,4.83,31.0,1,Month-to-month,Credit card
+TEL-1543,73,Female,64,60.24,5.44,653.0,1,Two year,Electronic check
+TEL-2971,76,Non-binary,26,51.41,22.31,228.0,9,One year,Credit card
+TEL-2620,51,Non-binary,42,29.58,1.98,93.0,1,One year,Credit card
+TEL-1265,42,Female,5,76.58,422.02,74.0,1,Two year,Mailed check
+TEL-1662,43,Female,58,40.11,4.33,1191.0,2,One year,Bank transfer
+TEL-2876,49,Non-binary,28,68.61,12.92,324.0,2,Month-to-month,Credit card
+TEL-2046,43,Male,46,29.34,3.16,120.0,0,Two year,Bank transfer
+TEL-1197,29,Female,22,75.05,431.27,7.0,0,Month-to-month,Electronic check
+TEL-1488,80,Non-binary,23,29.13,5.68,946.0,1,Month-to-month,Credit card
+TEL-1050,19,Female,39,74.68,498.2,48.0,3,Two year,Bank transfer
+TEL-2111,30,Male,43,22.27,1.2,59.0,0,One year,Mailed check
+TEL-1620,21,Non-binary,62,41.0,3.65,881.0,3,Month-to-month,Bank transfer
+TEL-2293,30,Female,58,34.94,2.26,139.0,2,One year,Mailed check
+TEL-1164,72,Male,10,79.26,534.46,24.0,1,One year,Mailed check
+TEL-1637,38,Male,10,49.22,3.09,791.0,2,Two year,Electronic check
+TEL-2606,65,Non-binary,1,23.72,2.59,119.0,0,One year,Bank transfer
+TEL-2896,26,Male,57,60.5,29.25,166.0,4,Month-to-month,Credit card
+TEL-2601,65,Non-binary,51,19.69,1.68,110.0,0,One year,Credit card
+TEL-2326,77,Female,60,28.14,2.92,114.0,1,Month-to-month,Mailed check
+TEL-1723,62,Non-binary,63,37.14,3.04,783.0,4,One year,Bank transfer
+TEL-2155,60,Non-binary,53,36.29,1.54,164.0,0,Month-to-month,Electronic check
+TEL-1201,36,Male,5,66.47,459.67,62.0,1,One year,Credit card
+TEL-1454,30,Female,22,31.23,5.32,692.0,4,Month-to-month,Electronic check
+TEL-1374,49,Non-binary,8,91.14,447.74,88.0,0,Two year,Mailed check
+TEL-2539,67,Non-binary,51,20.66,2.09,97.0,0,One year,Credit card
+TEL-2233,55,Female,30,33.63,1.95,97.0,0,Month-to-month,Electronic check
+TEL-1737,20,Non-binary,65,29.55,4.27,869.0,0,Month-to-month,Bank transfer
+TEL-1725,22,Male,35,36.78,6.41,911.0,3,Month-to-month,Bank transfer
+TEL-2923,41,Female,15,77.08,19.84,309.0,4,Two year,Mailed check
+TEL-1405,53,Female,55,50.65,6.8,791.0,2,Two year,Credit card
+TEL-2210,45,Female,24,25.66,2.7,107.0,1,Month-to-month,Credit card
+TEL-1644,62,Non-binary,55,51.96,4.01,888.0,2,One year,Mailed check
+TEL-1294,37,Female,15,97.91,574.87,62.0,0,One year,Credit card
+TEL-2129,74,Non-binary,27,24.15,1.47,92.0,1,One year,Mailed check
+TEL-1541,83,Non-binary,50,51.45,5.31,1195.0,5,Month-to-month,Credit card
+TEL-1195,18,Female,37,72.26,423.35,50.0,0,Two year,Credit card
+TEL-2600,22,Male,72,14.96,3.62,127.0,0,Two year,Mailed check
+TEL-2621,69,Male,33,37.43,0.53,79.0,0,Two year,Mailed check
+TEL-2123,49,Male,51,14.88,1.26,64.0,0,Month-to-month,Credit card
+TEL-2226,58,Female,39,23.89,0.74,157.0,0,One year,Credit card
+TEL-1775,52,Female,6,57.25,7.27,884.0,1,Month-to-month,Electronic check
+TEL-1412,40,Female,18,63.0,5.42,934.0,2,Month-to-month,Bank transfer
+TEL-2998,44,Non-binary,3,2.0,25.83,118.0,10,Two year,Bank transfer
+TEL-2330,25,Male,41,29.94,0.48,112.0,0,Two year,Electronic check
+TEL-2159,63,Female,4,24.57,2.59,85.0,0,One year,Mailed check
+TEL-1125,45,Male,61,90.02,476.66,-0.0,1,One year,Electronic check
+TEL-1674,56,Male,54,43.4,3.25,955.0,1,One year,Credit card
+TEL-1738,50,Male,32,53.77,9.4,912.0,2,Two year,Bank transfer
+TEL-2676,38,Female,6,23.13,2.24,118.0,0,Two year,Electronic check
+TEL-2223,76,Male,4,14.98,2.69,128.0,1,Month-to-month,Bank transfer
+TEL-1173,37,Non-binary,62,88.26,516.4,20.0,0,Month-to-month,Mailed check
+TEL-2528,74,Female,37,28.36,3.23,60.0,1,Month-to-month,Electronic check
+TEL-2713,22,Female,13,33.9,1.18,63.0,1,Month-to-month,Electronic check
+TEL-2185,20,Female,64,19.73,2.16,188.0,1,One year,Electronic check
+TEL-1166,34,Male,11,95.34,511.2,50.0,1,Two year,Mailed check
+TEL-2808,20,Female,71,67.0,23.82,141.0,6,Month-to-month,Mailed check
+TEL-1940,49,Male,46,39.2,5.18,765.0,3,Two year,Bank transfer
+TEL-1253,63,Male,61,94.58,468.34,38.0,3,One year,Electronic check
+TEL-1677,61,Female,22,48.65,2.64,888.0,2,Two year,Electronic check
+TEL-1652,43,Female,60,52.84,5.49,777.0,1,Month-to-month,Electronic check
+TEL-2504,54,Non-binary,26,30.03,3.0,140.0,2,Two year,Mailed check
+TEL-1429,26,Male,48,54.5,1.57,476.0,1,One year,Bank transfer
+TEL-1739,23,Female,36,28.9,0.88,783.0,0,Two year,Mailed check
+TEL-2957,30,Non-binary,25,38.32,19.74,295.0,4,One year,Bank transfer
+TEL-1179,37,Male,1,84.89,377.45,67.0,0,Two year,Credit card
+TEL-1199,49,Male,21,103.01,352.13,37.0,1,Month-to-month,Credit card
+TEL-1771,28,Male,43,43.09,3.74,920.0,0,Two year,Credit card
+TEL-1305,75,Female,12,91.59,432.91,56.0,0,One year,Mailed check
+TEL-2922,41,Female,27,59.11,20.25,361.0,5,Month-to-month,Mailed check
+TEL-2318,52,Male,4,33.08,0.87,41.0,0,One year,Bank transfer
+TEL-2615,68,Male,27,18.91,0.71,155.0,1,Two year,Electronic check
+TEL-1163,49,Male,2,78.41,497.62,95.0,2,Month-to-month,Electronic check
+TEL-2284,50,Male,57,27.7,2.23,143.0,0,One year,Credit card
+TEL-2331,44,Female,22,27.24,0.05,82.0,0,Month-to-month,Electronic check
+TEL-2852,69,Male,32,42.1,14.66,330.0,6,One year,Credit card
+TEL-2966,34,Male,71,72.95,26.78,318.0,9,Month-to-month,Credit card
+TEL-2230,59,Male,39,31.23,2.81,82.0,0,Month-to-month,Credit card
+TEL-1267,75,Female,21,91.54,517.96,43.0,1,One year,Bank transfer
+TEL-1899,80,Non-binary,52,42.75,2.47,1068.0,2,Month-to-month,Bank transfer
+TEL-1071,32,Male,26,84.78,538.41,30.0,3,One year,Bank transfer
+TEL-2048,57,Male,15,25.46,1.06,25.0,0,One year,Electronic check
+TEL-2489,27,Female,21,20.48,1.67,134.0,0,Two year,Mailed check
+TEL-2740,33,Female,47,32.67,0.84,24.0,0,One year,Electronic check
+TEL-2065,78,Female,5,30.96,0.68,38.0,1,Month-to-month,Credit card
+TEL-2733,53,Male,65,17.95,2.92,179.0,1,Two year,Bank transfer
+TEL-2995,19,Female,20,500.0,18.4,443.0,5,One year,Credit card
+TEL-2643,73,Non-binary,50,21.29,3.99,82.0,1,Month-to-month,Mailed check
+TEL-2208,77,Female,35,27.73,0.69,71.0,0,One year,Electronic check
+TEL-2152,76,Male,51,28.46,1.98,84.0,1,Month-to-month,Electronic check
+TEL-2291,46,Female,49,15.74,1.23,110.0,0,One year,Mailed check
+TEL-2693,59,Non-binary,29,25.83,3.88,83.0,0,One year,Mailed check
+TEL-1202,65,Male,60,83.75,382.59,55.0,0,Month-to-month,Bank transfer
+TEL-2864,19,Non-binary,21,59.25,-0.92,276.0,6,Two year,Mailed check
+TEL-1634,59,Male,64,38.99,0.94,834.0,4,Two year,Electronic check
+TEL-2135,22,Male,6,25.82,0.9,85.0,2,Two year,Credit card
+TEL-2926,37,Non-binary,26,49.44,13.53,299.0,9,Month-to-month,Mailed check
+TEL-2482,73,Non-binary,19,25.96,0.04,109.0,0,Two year,Electronic check
+TEL-2465,61,Female,19,25.97,0.88,157.0,1,Two year,Electronic check
+TEL-2965,32,Male,20,79.91,-3.37,401.0,4,One year,Mailed check
+TEL-2271,27,Female,37,26.82,0.96,59.0,0,Two year,Bank transfer
+TEL-2262,77,Male,2,23.86,1.24,76.0,0,One year,Credit card
+TEL-2265,37,Non-binary,54,24.02,-0.5,59.0,1,Two year,Mailed check
+TEL-1068,77,Female,3,93.28,487.78,64.0,0,One year,Credit card
+TEL-2720,84,Non-binary,42,23.47,3.28,60.0,2,Two year,Mailed check
+TEL-1295,82,Female,22,110.88,452.3,20.0,1,Month-to-month,Credit card
+TEL-2410,30,Male,16,21.86,3.53,-2.0,0,Two year,Credit card
+TEL-1335,79,Female,59,97.34,398.19,25.0,0,Month-to-month,Credit card
+TEL-1155,19,Male,11,93.44,412.54,34.0,0,Two year,Credit card
+TEL-1104,32,Female,45,75.06,547.99,2.0,1,Month-to-month,Bank transfer
+TEL-2963,28,Non-binary,6,40.42,28.27,305.0,10,Two year,Electronic check
+TEL-2200,22,Female,17,18.64,1.33,58.0,0,One year,Bank transfer
+TEL-2695,58,Non-binary,18,22.05,2.5,165.0,0,One year,Credit card
+TEL-1828,22,Male,54,60.84,5.59,769.0,1,Month-to-month,Electronic check
+TEL-1845,63,Male,7,44.88,9.62,987.0,2,Two year,Bank transfer
+TEL-2785,23,Non-binary,51,34.72,1.82,28.0,2,Two year,Mailed check
+TEL-1965,40,Female,27,45.72,3.61,699.0,2,Month-to-month,Mailed check
+TEL-1034,56,Male,19,100.98,423.67,72.0,1,Two year,Credit card
+TEL-2584,50,Male,29,28.82,1.27,76.0,0,Two year,Bank transfer
+TEL-2555,63,Female,62,26.45,1.76,86.0,0,Month-to-month,Credit card
+TEL-1700,38,Non-binary,6,29.57,3.46,1050.0,2,Two year,Bank transfer
+TEL-2623,46,Male,63,27.98,0.32,136.0,1,Two year,Bank transfer
+TEL-2954,53,Non-binary,62,78.36,7.89,298.0,12,One year,Bank transfer
+TEL-1242,81,Male,58,79.86,469.52,47.0,2,Two year,Credit card
+TEL-2077,76,Female,54,22.75,1.04,105.0,0,Two year,Mailed check
+TEL-1766,57,Female,30,48.29,3.94,592.0,4,Two year,Credit card
+TEL-1398,43,Non-binary,24,89.32,465.4,57.0,2,Two year,Electronic check
+TEL-1550,28,Male,66,41.03,9.05,858.0,2,Two year,Electronic check
+TEL-2320,42,Non-binary,67,29.16,2.06,73.0,2,One year,Mailed check
+TEL-2666,36,Female,22,22.36,0.86,126.0,1,One year,Bank transfer
+TEL-1087,29,Female,3,71.59,412.6,14.0,2,Month-to-month,Mailed check
+TEL-1796,68,Female,70,41.88,7.15,588.0,3,Month-to-month,Mailed check
+TEL-1988,76,Male,34,34.77,5.92,729.0,0,Month-to-month,Bank transfer
+TEL-1958,71,Female,26,42.09,3.97,964.0,0,Month-to-month,Mailed check
+TEL-1666,24,Male,52,39.42,5.03,861.0,3,Month-to-month,Bank transfer
+TEL-1844,64,Female,72,34.72,6.29,1065.0,5,Month-to-month,Mailed check
+TEL-2700,59,Male,4,21.31,0.77,81.0,0,One year,Credit card
+TEL-2972,39,Female,45,54.85,23.78,306.0,1,Month-to-month,Electronic check
+TEL-1091,40,Female,30,101.08,462.47,36.0,2,One year,Credit card
+TEL-1745,61,Male,68,54.98,6.42,761.0,7,Month-to-month,Electronic check
+TEL-2251,83,Female,42,17.51,0.69,130.0,0,Month-to-month,Bank transfer
+TEL-2800,42,Male,7,44.99,10.32,294.0,6,Month-to-month,Mailed check
+TEL-2211,57,Male,36,29.85,2.13,214.0,1,One year,Credit card
+TEL-1396,52,Non-binary,10,74.04,484.88,42.0,2,Two year,Credit card
+TEL-2050,18,Male,17,26.38,1.31,17.0,1,One year,Credit card
+TEL-1456,59,Male,72,44.35,5.4,819.0,1,Two year,Electronic check
+TEL-1402,46,Female,17,32.81,7.41,727.0,3,One year,Bank transfer
+TEL-1556,50,Non-binary,56,57.71,0.9,697.0,2,Month-to-month,Electronic check
+TEL-2366,58,Male,46,33.79,1.63,102.0,1,One year,Credit card
+TEL-2984,38,Male,33,63.86,-0.21,244.0,5,Two year,Bank transfer
+TEL-1458,67,Male,62,42.6,6.61,720.0,0,One year,Electronic check
+TEL-2990,40,Non-binary,40,81.18,2000.0,330.0,6,Two year,Electronic check
+TEL-1022,32,Female,11,93.08,355.36,60.0,1,Two year,Mailed check
+TEL-1323,72,Male,22,87.79,480.64,36.0,1,Month-to-month,Mailed check
+TEL-2484,62,Non-binary,55,25.64,1.68,52.0,0,Two year,Bank transfer
+TEL-2914,62,Non-binary,17,50.86,15.2,241.0,4,Two year,Bank transfer
+TEL-2953,38,Non-binary,54,54.12,27.23,315.0,6,Month-to-month,Credit card
+TEL-2826,23,Female,26,67.6,20.33,338.0,9,Month-to-month,Mailed check
+TEL-2581,38,Female,24,24.61,2.05,124.0,1,Two year,Electronic check
+TEL-2387,78,Female,14,36.4,2.4,79.0,0,One year,Bank transfer
+TEL-1856,46,Male,69,40.67,3.38,851.0,2,One year,Bank transfer
+TEL-2994,30,Male,2,66.18,500.0,257.0,7,One year,Credit card
+TEL-2656,26,Male,31,21.95,1.81,72.0,1,Two year,Electronic check
+TEL-2442,37,Non-binary,57,30.27,1.55,181.0,0,Two year,Credit card
+TEL-2703,53,Female,59,16.64,2.99,71.0,0,One year,Electronic check
+TEL-2597,43,Male,54,26.43,1.43,174.0,0,One year,Mailed check
+TEL-2903,27,Male,40,57.39,26.58,358.0,4,Month-to-month,Credit card
+TEL-2760,53,Female,30,27.29,0.92,105.0,0,One year,Bank transfer
+TEL-2422,35,Male,23,23.95,1.9,56.0,0,Two year,Mailed check
+TEL-1576,56,Male,48,36.85,4.72,931.0,0,Month-to-month,Mailed check
+TEL-2168,71,Male,26,22.1,1.65,124.0,0,Month-to-month,Bank transfer
+TEL-1095,52,Non-binary,48,82.8,469.09,54.0,3,Month-to-month,Electronic check
+TEL-2469,55,Female,62,28.74,2.38,87.0,0,Month-to-month,Bank transfer
+TEL-1818,22,Female,48,43.13,1.05,1118.0,2,One year,Credit card
+TEL-1341,18,Male,51,82.79,436.91,33.0,3,Month-to-month,Credit card
+TEL-1081,52,Non-binary,29,85.19,436.12,40.0,0,One year,Bank transfer
+TEL-1773,77,Non-binary,23,45.04,2.2,626.0,1,One year,Credit card
+TEL-2511,37,Non-binary,20,21.72,3.07,0.0,0,One year,Credit card
+TEL-1077,80,Female,65,82.29,394.59,30.0,1,Two year,Electronic check
+TEL-1127,61,Non-binary,25,85.78,380.9,71.0,0,Two year,Mailed check
+TEL-2269,39,Male,43,20.65,1.77,80.0,0,One year,Electronic check
+TEL-2202,76,Non-binary,43,24.73,3.11,105.0,3,One year,Electronic check
+TEL-1116,49,Male,62,71.08,431.06,22.0,1,Month-to-month,Bank transfer
+TEL-2563,79,Female,49,17.09,0.72,139.0,0,Two year,Credit card
+TEL-1362,40,Male,32,81.53,418.59,51.0,2,Two year,Credit card
+TEL-1833,44,Female,6,58.6,4.27,525.0,3,One year,Credit card
+TEL-2642,59,Non-binary,15,22.38,3.33,48.0,1,One year,Electronic check
+TEL-1985,61,Male,57,50.44,4.96,1071.0,4,Month-to-month,Bank transfer
+TEL-1532,34,Male,62,48.14,6.85,770.0,1,Two year,Mailed check
+TEL-1003,38,Non-binary,37,62.8,422.14,64.0,2,One year,Electronic check
+TEL-1687,57,Male,45,50.39,3.15,705.0,0,Two year,Credit card
+TEL-1757,52,Non-binary,24,45.73,8.6,726.0,2,Two year,Electronic check
+TEL-1014,38,Non-binary,33,64.01,415.03,17.0,0,Two year,Mailed check
+TEL-2730,39,Non-binary,7,31.57,1.77,88.0,0,One year,Mailed check
+TEL-2437,78,Female,7,17.78,2.16,68.0,1,One year,Bank transfer
+TEL-2816,62,Male,32,75.23,34.77,332.0,8,One year,Bank transfer
+TEL-1369,18,Male,40,101.75,468.34,46.0,1,One year,Electronic check
+TEL-2823,35,Female,45,58.53,15.2,507.0,3,One year,Bank transfer
+TEL-1594,81,Male,64,38.97,4.92,648.0,0,One year,Bank transfer
+TEL-1776,54,Female,56,26.65,4.94,816.0,2,Two year,Bank transfer
+TEL-1612,23,Male,48,50.23,5.84,1060.0,1,Month-to-month,Credit card
+TEL-2932,32,Male,3,61.0,25.29,337.0,8,Month-to-month,Mailed check
+TEL-1684,35,Non-binary,13,47.63,6.14,553.0,2,Month-to-month,Bank transfer
+TEL-1536,63,Male,32,50.87,5.48,842.0,0,Two year,Bank transfer
+TEL-2342,63,Male,41,24.22,3.14,68.0,0,Month-to-month,Electronic check
+TEL-1863,38,Male,14,39.44,8.15,1007.0,1,Month-to-month,Mailed check
+TEL-2361,50,Non-binary,56,25.26,1.72,83.0,3,Month-to-month,Electronic check
+TEL-1008,19,Male,45,90.65,492.11,47.0,0,One year,Mailed check
+TEL-1290,24,Non-binary,64,95.92,484.7,33.0,3,One year,Credit card
+TEL-2908,51,Female,29,66.38,29.67,261.0,9,One year,Credit card
+TEL-2472,77,Male,45,21.42,2.22,50.0,0,One year,Credit card
+TEL-2768,40,Male,18,35.05,2.82,118.0,1,Two year,Mailed check
+TEL-2973,47,Non-binary,63,43.7,18.03,119.0,7,Two year,Bank transfer
+TEL-1115,30,Non-binary,55,77.94,501.08,64.0,0,One year,Bank transfer
+TEL-2496,25,Male,18,15.31,2.79,108.0,1,One year,Bank transfer
+TEL-2458,35,Non-binary,6,27.94,1.07,41.0,0,Two year,Credit card
+TEL-1789,40,Female,17,36.76,5.7,868.0,3,One year,Bank transfer
+TEL-1552,80,Male,28,36.73,2.5,676.0,2,One year,Mailed check
+TEL-2771,23,Non-binary,14,28.85,2.42,182.0,1,Month-to-month,Credit card
+TEL-2467,19,Male,64,22.44,1.67,128.0,0,One year,Credit card
+TEL-2163,69,Non-binary,54,23.84,2.81,30.0,0,Month-to-month,Credit card
+TEL-1322,64,Non-binary,43,91.96,444.75,55.0,1,Month-to-month,Electronic check
+TEL-1704,41,Female,23,54.41,8.6,917.0,2,Two year,Electronic check
+TEL-1623,42,Non-binary,52,40.37,1.61,682.0,1,Two year,Mailed check
+TEL-1339,18,Non-binary,53,82.4,428.71,29.0,1,Two year,Electronic check
+TEL-1735,54,Non-binary,71,53.7,3.99,921.0,1,Two year,Electronic check
+TEL-2276,81,Female,68,31.69,1.65,162.0,2,Month-to-month,Bank transfer
+TEL-1939,72,Non-binary,16,44.25,3.29,896.0,0,One year,Bank transfer
+TEL-1252,47,Male,66,91.0,409.46,11.0,0,Two year,Credit card
+TEL-1363,27,Non-binary,52,92.71,454.95,69.0,2,Month-to-month,Mailed check
+TEL-2827,49,Male,7,57.91,4.52,280.0,7,One year,Bank transfer
+TEL-1009,47,Male,17,101.36,451.16,62.0,2,One year,Credit card
+TEL-1055,80,Non-binary,69,97.54,419.14,48.0,0,One year,Credit card
+TEL-1366,27,Male,37,67.98,451.02,50.0,1,One year,Credit card
+TEL-2641,78,Male,27,24.02,-0.17,124.0,0,Month-to-month,Bank transfer
+TEL-2499,74,Female,4,24.13,3.12,64.0,0,Month-to-month,Mailed check
+TEL-2406,77,Male,40,25.09,2.08,36.0,1,One year,Electronic check
+TEL-2435,48,Non-binary,51,29.62,1.95,120.0,0,Month-to-month,Electronic check
+TEL-2080,64,Female,16,23.53,0.93,137.0,0,One year,Electronic check
+TEL-2820,30,Female,70,68.6,8.74,418.0,5,One year,Credit card
+TEL-1474,71,Female,4,58.55,7.09,841.0,4,One year,Mailed check
+TEL-1499,78,Non-binary,2,40.56,6.79,774.0,2,One year,Electronic check
+TEL-2030,38,Non-binary,20,24.82,1.48,97.0,0,One year,Credit card
+TEL-2799,83,Female,23,26.0,-0.29,133.0,1,Month-to-month,Mailed check
+TEL-1348,80,Male,49,86.98,427.6,81.0,0,Two year,Bank transfer
+TEL-1513,71,Female,33,45.13,2.85,792.0,2,Two year,Mailed check
+TEL-2541,18,Male,31,18.68,2.44,107.0,0,Month-to-month,Mailed check
+TEL-1006,39,Non-binary,46,87.87,404.56,59.0,2,One year,Electronic check
+TEL-2120,30,Female,20,22.34,1.74,57.0,1,One year,Mailed check
+TEL-1618,33,Male,21,48.29,4.65,845.0,4,Two year,Bank transfer
+TEL-1306,80,Male,40,95.27,399.65,74.0,0,Two year,Mailed check
+TEL-1314,32,Non-binary,37,100.74,453.42,65.0,0,Two year,Bank transfer
+TEL-1682,27,Female,17,53.95,5.44,816.0,2,Two year,Bank transfer
+TEL-1761,67,Non-binary,45,45.46,8.77,737.0,1,One year,Mailed check
+TEL-2177,66,Male,67,30.76,1.57,66.0,1,One year,Credit card
+TEL-2231,80,Female,4,18.63,1.85,148.0,1,Two year,Electronic check
+TEL-1310,75,Female,28,72.83,512.76,44.0,1,One year,Bank transfer
+TEL-1935,20,Non-binary,66,45.59,2.64,926.0,1,Two year,Bank transfer
+TEL-2631,19,Male,62,33.97,0.94,82.0,0,One year,Bank transfer
+TEL-2680,32,Non-binary,64,27.44,1.65,116.0,0,Month-to-month,Credit card
+TEL-2143,79,Non-binary,7,21.0,1.79,96.0,0,Month-to-month,Credit card
+TEL-2781,62,Female,52,22.74,0.42,139.0,0,Two year,Credit card
+TEL-2763,19,Female,41,20.19,1.6,70.0,0,One year,Electronic check
+TEL-2557,18,Female,68,25.64,3.02,102.0,0,One year,Credit card
+TEL-2744,29,Male,51,24.84,1.97,23.0,0,Two year,Bank transfer
+TEL-1074,26,Male,54,92.29,427.91,55.0,3,Month-to-month,Bank transfer
+TEL-1020,59,Male,34,92.11,461.98,112.0,0,Two year,Bank transfer
+TEL-2474,19,Non-binary,16,27.05,1.78,160.0,2,One year,Mailed check
+TEL-2277,64,Male,68,28.83,3.21,33.0,0,Two year,Bank transfer
+TEL-1177,84,Male,67,79.71,481.93,66.0,0,Two year,Credit card
+TEL-2386,66,Female,26,30.32,2.28,121.0,1,Two year,Credit card
+TEL-1817,27,Male,25,41.59,7.99,1181.0,4,One year,Mailed check
+TEL-1035,35,Female,67,92.34,423.82,79.0,2,Two year,Bank transfer
+TEL-2828,60,Female,44,64.41,26.05,318.0,4,One year,Bank transfer
+TEL-2509,23,Non-binary,69,15.66,2.32,118.0,0,Month-to-month,Mailed check
+TEL-2978,38,Female,2,46.0,20.59,345.0,4,Month-to-month,Bank transfer
+TEL-1054,71,Male,13,72.64,415.7,45.0,1,Two year,Credit card
+TEL-1030,20,Female,9,95.48,373.42,4.0,1,Two year,Bank transfer
+TEL-2146,65,Male,68,16.53,1.76,59.0,1,Two year,Mailed check
+TEL-2373,57,Female,45,19.94,1.63,90.0,1,One year,Mailed check
+TEL-1462,46,Female,10,45.1,6.13,892.0,0,One year,Credit card
+TEL-1902,45,Male,19,42.93,3.95,697.0,2,One year,Credit card
+TEL-1046,52,Female,49,83.14,496.3,28.0,1,Month-to-month,Electronic check
+TEL-2449,83,Male,17,24.37,2.58,176.0,1,Two year,Electronic check
+TEL-2392,49,Non-binary,43,26.31,1.71,128.0,0,One year,Bank transfer
+TEL-2147,82,Male,25,21.5,2.94,93.0,1,One year,Credit card
+TEL-1914,49,Female,22,53.72,3.5,972.0,0,One year,Bank transfer
+TEL-1298,31,Non-binary,14,80.9,384.05,84.0,0,Month-to-month,Bank transfer
+TEL-2138,20,Male,65,28.04,3.07,169.0,0,Month-to-month,Credit card
+TEL-1440,56,Non-binary,14,59.13,6.03,449.0,4,Two year,Bank transfer
+TEL-2569,65,Non-binary,72,18.56,1.48,179.0,1,One year,Mailed check
+TEL-1315,71,Female,49,89.57,362.68,52.0,0,One year,Electronic check
+TEL-1641,63,Non-binary,64,56.35,6.67,808.0,2,Month-to-month,Mailed check
+TEL-2016,62,Non-binary,14,25.54,1.61,97.0,0,Month-to-month,Mailed check
+TEL-2821,48,Male,18,63.94,26.48,309.0,10,One year,Bank transfer
+TEL-2005,34,Non-binary,31,20.75,3.45,159.0,2,One year,Credit card
+TEL-1847,30,Non-binary,46,53.63,3.25,872.0,0,Month-to-month,Credit card
+TEL-1617,72,Female,3,33.1,2.33,911.0,1,Two year,Bank transfer
+TEL-2593,43,Non-binary,61,26.69,2.71,148.0,0,One year,Credit card
+TEL-2884,43,Male,15,50.69,19.89,290.0,9,Month-to-month,Electronic check
+TEL-2036,56,Female,59,24.28,2.69,80.0,0,Month-to-month,Bank transfer
+TEL-2288,75,Non-binary,39,20.74,3.22,117.0,1,One year,Mailed check
+TEL-2736,72,Male,52,23.23,1.36,147.0,0,Month-to-month,Bank transfer
+TEL-2456,29,Female,6,23.52,1.9,86.0,1,Two year,Electronic check
+TEL-1232,47,Female,54,74.74,494.93,73.0,0,Month-to-month,Bank transfer
+TEL-2996,46,Non-binary,59,450.0,9.6,363.0,5,One year,Electronic check
+TEL-2333,67,Female,44,25.37,1.7,96.0,1,Two year,Mailed check
+TEL-2260,80,Male,62,20.46,2.44,76.0,0,Month-to-month,Bank transfer
+TEL-2049,34,Male,44,21.64,1.16,20.0,1,Month-to-month,Credit card
+TEL-2761,40,Female,22,28.16,2.56,6.0,0,One year,Electronic check
+TEL-2137,66,Non-binary,42,25.83,2.59,69.0,1,Month-to-month,Bank transfer
+TEL-2633,21,Male,63,28.85,1.63,95.0,0,Month-to-month,Electronic check
+TEL-2887,69,Female,63,70.53,22.31,476.0,6,Two year,Bank transfer
+TEL-1303,68,Male,59,85.79,425.07,77.0,0,Month-to-month,Electronic check
+TEL-1319,77,Non-binary,26,83.31,476.2,65.0,0,Month-to-month,Electronic check
+TEL-2362,58,Female,27,27.98,1.88,79.0,1,One year,Mailed check
+TEL-1840,28,Male,2,61.21,1.64,628.0,1,Two year,Bank transfer
+TEL-1083,22,Male,66,80.76,439.83,37.0,0,Month-to-month,Bank transfer
+TEL-2430,78,Male,23,29.77,0.86,162.0,0,Month-to-month,Bank transfer
+TEL-2589,83,Male,26,29.28,2.52,170.0,2,Month-to-month,Bank transfer
+TEL-1520,45,Non-binary,9,36.38,5.8,900.0,4,Two year,Bank transfer
+TEL-2360,62,Non-binary,51,27.85,0.06,152.0,0,Month-to-month,Credit card
+TEL-2793,83,Female,26,29.73,1.71,89.0,1,Month-to-month,Credit card
+TEL-1490,73,Male,72,38.72,3.62,853.0,0,Two year,Electronic check
+TEL-1557,18,Male,28,43.87,4.24,918.0,0,Month-to-month,Electronic check
+TEL-1503,36,Non-binary,13,37.94,5.7,714.0,2,Two year,Bank transfer
+TEL-2940,81,Female,63,72.0,25.91,295.0,11,Two year,Mailed check
+TEL-1257,63,Non-binary,48,82.43,464.92,32.0,1,Month-to-month,Bank transfer
+TEL-2195,42,Male,1,21.84,1.02,146.0,0,Two year,Electronic check
+TEL-1079,25,Male,51,73.78,519.97,14.0,1,Month-to-month,Mailed check
+TEL-2391,23,Female,51,22.21,4.11,103.0,1,Two year,Mailed check
+TEL-1571,21,Female,58,30.06,1.95,848.0,1,Month-to-month,Credit card
+TEL-1587,34,Non-binary,14,46.23,2.75,799.0,0,One year,Bank transfer
+TEL-1589,40,Male,34,40.25,7.94,796.0,0,Two year,Bank transfer
+TEL-2339,77,Female,12,22.98,2.86,75.0,0,Month-to-month,Electronic check
+TEL-1367,36,Male,40,79.39,376.72,64.0,1,Month-to-month,Bank transfer
+TEL-1835,53,Male,47,45.68,5.23,661.0,4,Month-to-month,Mailed check
+TEL-2977,63,Male,26,75.94,40.55,204.0,5,Two year,Electronic check
+TEL-2912,34,Male,42,63.29,29.05,44.0,8,Two year,Bank transfer
+TEL-1878,74,Female,55,45.67,5.59,950.0,2,One year,Credit card
+TEL-1150,19,Female,62,82.26,505.93,63.0,0,One year,Bank transfer
+TEL-2762,83,Female,29,35.8,1.25,47.0,0,One year,Credit card
+TEL-2830,77,Non-binary,26,65.61,5.34,306.0,6,Two year,Credit card
+TEL-2258,52,Male,29,20.95,2.03,122.0,0,Month-to-month,Electronic check
+TEL-1393,29,Female,62,100.89,368.83,59.0,1,One year,Mailed check
+TEL-2446,66,Female,45,26.48,2.8,105.0,1,Month-to-month,Bank transfer
+TEL-2745,25,Male,70,19.43,-0.46,36.0,0,One year,Credit card
+TEL-1650,65,Male,2,43.29,6.06,555.0,3,One year,Credit card
+TEL-2758,55,Non-binary,60,31.27,2.52,128.0,2,One year,Mailed check
+TEL-1816,83,Female,41,61.7,0.79,627.0,3,Month-to-month,Mailed check
+TEL-2133,47,Non-binary,19,25.21,1.19,161.0,0,Two year,Electronic check
+TEL-2756,50,Female,57,24.61,3.1,71.0,0,Two year,Bank transfer
+TEL-2501,45,Male,40,36.4,1.98,54.0,0,Month-to-month,Bank transfer
+TEL-2283,28,Female,25,26.77,1.39,82.0,1,Two year,Electronic check
+TEL-2021,81,Non-binary,36,20.31,1.77,136.0,0,Month-to-month,Bank transfer
+TEL-1795,70,Male,32,60.18,5.11,908.0,2,Month-to-month,Electronic check
+TEL-2173,22,Female,14,27.87,3.25,2.0,0,Month-to-month,Mailed check
+TEL-1292,53,Female,4,71.64,363.49,67.0,1,Two year,Electronic check
+TEL-1701,21,Male,69,49.89,3.93,846.0,3,Month-to-month,Credit card
+TEL-1345,33,Non-binary,20,73.02,536.11,53.0,1,Two year,Electronic check
+TEL-2905,77,Female,21,71.12,3.75,411.0,6,One year,Mailed check
+TEL-2619,36,Female,41,31.1,1.67,88.0,1,Month-to-month,Electronic check
+TEL-2804,31,Non-binary,34,64.99,17.46,425.0,5,One year,Electronic check
+TEL-2466,31,Male,18,20.16,3.47,93.0,0,One year,Electronic check
+TEL-1756,55,Male,8,49.64,2.89,856.0,4,One year,Bank transfer
+TEL-1860,40,Non-binary,30,43.5,6.18,606.0,3,Two year,Credit card
+TEL-1337,26,Female,48,86.88,469.9,33.0,1,Month-to-month,Electronic check
+TEL-1577,43,Non-binary,40,32.16,3.95,846.0,1,Two year,Bank transfer
+TEL-2882,69,Non-binary,71,58.98,53.01,303.0,9,Two year,Mailed check
+TEL-2257,81,Non-binary,21,25.76,1.12,113.0,0,One year,Mailed check
+TEL-2562,65,Non-binary,14,29.44,1.9,138.0,0,One year,Credit card
+TEL-1452,24,Male,28,31.98,4.84,827.0,0,Month-to-month,Credit card
+TEL-1507,64,Non-binary,40,57.36,1.98,712.0,3,One year,Bank transfer
+TEL-1178,36,Female,61,76.31,446.82,61.0,0,Month-to-month,Mailed check
+TEL-1200,26,Female,35,71.98,416.59,83.0,1,Month-to-month,Bank transfer
+TEL-1478,84,Non-binary,49,51.8,4.5,710.0,3,One year,Electronic check
+TEL-2266,81,Non-binary,18,20.99,2.38,8.0,1,Month-to-month,Bank transfer
+TEL-2015,27,Male,18,32.29,1.04,16.0,0,One year,Credit card
+TEL-1897,66,Male,62,64.41,6.15,705.0,1,One year,Mailed check
+TEL-1974,37,Female,38,39.05,5.37,882.0,5,Month-to-month,Credit card
+TEL-2533,40,Female,60,18.27,3.26,27.0,3,Month-to-month,Mailed check
+TEL-1097,64,Non-binary,8,69.45,424.99,32.0,1,One year,Electronic check
+TEL-1016,75,Female,32,83.85,455.14,56.0,0,Two year,Bank transfer
+TEL-2682,49,Non-binary,51,23.5,2.9,89.0,0,Month-to-month,Mailed check
+TEL-2640,59,Female,70,30.61,2.37,144.0,0,Two year,Electronic check
+TEL-1419,47,Male,13,31.37,6.08,769.0,0,Two year,Mailed check
+TEL-1573,82,Non-binary,28,43.06,6.98,991.0,2,Two year,Bank transfer
+TEL-2872,82,Male,32,55.15,23.88,311.0,5,One year,Credit card
+TEL-1640,29,Non-binary,61,49.74,9.88,333.0,2,One year,Bank transfer
+TEL-2710,77,Female,62,24.63,2.85,99.0,1,One year,Electronic check
+TEL-2845,24,Non-binary,34,35.57,-7.3,341.0,13,Two year,Credit card
+TEL-2081,49,Female,20,26.92,2.83,134.0,1,Two year,Mailed check
+TEL-1399,51,Male,44,92.4,384.86,45.0,0,Two year,Credit card
+TEL-2691,35,Female,34,21.29,2.91,168.0,1,One year,Electronic check
+TEL-2319,81,Male,51,32.45,0.65,125.0,0,Two year,Electronic check
+TEL-2532,67,Male,56,23.46,2.46,76.0,2,Two year,Mailed check
+TEL-2515,43,Female,4,18.99,1.72,127.0,1,Two year,Credit card
+TEL-1790,80,Male,4,35.49,7.21,581.0,1,Month-to-month,Credit card
+TEL-2568,58,Female,51,25.97,2.33,99.0,0,Month-to-month,Bank transfer
+TEL-2345,34,Non-binary,43,24.07,3.21,102.0,1,Month-to-month,Electronic check
+TEL-1172,20,Non-binary,62,92.47,425.4,17.0,2,One year,Electronic check
+TEL-2259,47,Non-binary,33,27.92,2.03,47.0,0,One year,Mailed check
+TEL-2027,53,Female,33,29.18,1.15,134.0,0,One year,Mailed check
+TEL-1979,37,Female,42,37.36,3.31,802.0,3,Month-to-month,Electronic check
+TEL-2017,34,Non-binary,34,17.65,3.33,144.0,0,One year,Credit card
+TEL-2955,29,Male,1,70.72,30.0,387.0,7,Month-to-month,Credit card
+TEL-1248,81,Non-binary,61,114.36,535.8,44.0,1,Two year,Credit card
+TEL-1455,57,Female,38,51.39,3.61,895.0,2,One year,Credit card
+TEL-1889,60,Non-binary,69,50.22,6.26,875.0,2,One year,Credit card
+TEL-1740,67,Male,13,30.04,1.91,1064.0,2,Month-to-month,Electronic check
+TEL-2035,76,Female,16,27.16,1.9,126.0,1,Month-to-month,Bank transfer
+TEL-2201,28,Male,4,25.34,1.26,120.0,0,One year,Electronic check
+TEL-1373,19,Non-binary,64,85.34,401.18,55.0,3,Two year,Electronic check
+TEL-2543,46,Non-binary,20,19.82,1.19,145.0,1,Two year,Credit card
+TEL-1032,24,Male,33,77.66,439.74,104.0,2,Month-to-month,Credit card
+TEL-2394,25,Male,56,26.59,1.53,120.0,0,Month-to-month,Bank transfer
+TEL-2367,34,Male,67,27.8,2.77,72.0,1,One year,Electronic check
+TEL-1103,26,Female,49,99.78,504.95,56.0,0,One year,Bank transfer
+TEL-2970,42,Male,33,47.76,19.38,322.0,2,One year,Bank transfer
+TEL-2962,49,Female,29,53.8,20.6,267.0,5,Month-to-month,Credit card
+TEL-2006,54,Female,57,24.26,2.43,104.0,0,One year,Electronic check
+TEL-1397,25,Female,40,84.32,408.2,24.0,0,Month-to-month,Mailed check
+TEL-1017,39,Non-binary,42,90.67,457.47,53.0,1,One year,Electronic check
+TEL-2268,29,Male,7,23.7,1.41,87.0,0,Month-to-month,Electronic check
+TEL-1998,46,Non-binary,66,49.5,3.88,752.0,2,Month-to-month,Electronic check
+TEL-2687,19,Non-binary,66,33.77,4.3,62.0,1,One year,Bank transfer
+TEL-2085,40,Non-binary,58,34.27,2.34,145.0,0,Two year,Electronic check
+TEL-1301,49,Non-binary,50,72.37,517.26,32.0,1,One year,Bank transfer
+TEL-2063,76,Female,13,25.78,2.52,75.0,1,One year,Mailed check
+TEL-2098,48,Male,69,18.79,1.14,48.0,2,Month-to-month,Bank transfer
+TEL-1786,49,Female,67,38.78,5.69,924.0,2,One year,Mailed check
+TEL-1451,34,Male,67,48.69,6.56,856.0,2,Month-to-month,Credit card
+TEL-2986,38,Female,26,52.94,23.0,203.0,3,One year,Mailed check
+TEL-2707,58,Female,55,23.1,0.72,42.0,0,Two year,Bank transfer
+TEL-1376,29,Non-binary,60,86.68,519.55,35.0,0,One year,Bank transfer
+TEL-2493,18,Female,31,30.54,1.74,156.0,0,Two year,Mailed check
+TEL-1514,20,Male,57,46.85,4.16,1148.0,2,Two year,Bank transfer
+TEL-1553,76,Male,17,42.8,5.74,824.0,2,Month-to-month,Mailed check
+TEL-2167,80,Male,57,22.07,3.63,31.0,1,Two year,Credit card
+TEL-2512,19,Male,18,24.95,0.33,45.0,0,One year,Electronic check
+TEL-1527,45,Female,27,49.77,6.58,626.0,1,Two year,Electronic check
+TEL-1748,57,Male,16,48.79,5.02,798.0,0,Month-to-month,Bank transfer
+TEL-2033,28,Non-binary,67,20.9,0.87,43.0,0,Two year,Bank transfer
+TEL-2117,59,Male,43,15.21,2.38,97.0,0,One year,Credit card
+TEL-2694,56,Male,38,28.15,1.68,90.0,0,Two year,Credit card
+TEL-1839,37,Male,4,31.72,9.39,774.0,2,One year,Credit card
+TEL-2040,39,Male,70,20.37,1.61,30.0,2,Month-to-month,Credit card
+TEL-1809,53,Female,69,45.79,3.33,847.0,4,Two year,Bank transfer
+TEL-1772,31,Non-binary,45,40.99,7.6,888.0,2,Month-to-month,Credit card
+TEL-1092,79,Female,57,84.79,433.67,37.0,0,Two year,Mailed check
+TEL-2991,39,Female,66,94.84,1500.0,339.0,8,Two year,Electronic check
+TEL-2348,65,Male,43,28.7,2.41,92.0,1,Two year,Bank transfer
+TEL-2667,77,Non-binary,35,23.17,2.07,74.0,0,Two year,Credit card
+TEL-2579,82,Female,25,25.66,3.01,119.0,1,Month-to-month,Electronic check
+TEL-2039,41,Female,21,32.07,2.35,50.0,1,Month-to-month,Credit card
+TEL-1459,44,Non-binary,57,34.59,5.07,666.0,0,Two year,Mailed check
+TEL-1063,79,Non-binary,65,88.83,447.0,38.0,1,One year,Credit card
+TEL-1927,55,Non-binary,61,39.05,5.67,724.0,2,Two year,Credit card
+TEL-2551,34,Male,64,36.06,1.27,153.0,0,Month-to-month,Credit card
+TEL-1475,56,Male,13,45.25,3.11,707.0,3,Month-to-month,Electronic check
+TEL-2726,19,Female,68,28.89,0.52,139.0,0,Two year,Electronic check
+TEL-2239,48,Male,53,15.32,1.93,110.0,0,One year,Mailed check
+TEL-2235,24,Female,66,20.07,2.1,4.0,0,One year,Credit card
+TEL-2924,34,Non-binary,19,46.55,25.49,355.0,5,Two year,Bank transfer
+TEL-1515,33,Male,52,38.29,-1.43,744.0,1,One year,Credit card
+TEL-1277,34,Female,61,70.17,506.41,67.0,2,Month-to-month,Electronic check
+TEL-1370,21,Female,56,82.25,430.81,51.0,0,Two year,Mailed check
+TEL-1255,54,Female,25,90.06,493.24,42.0,1,Month-to-month,Credit card
+TEL-2026,70,Female,56,27.96,1.93,130.0,0,One year,Bank transfer
+TEL-1234,68,Male,48,86.07,482.98,49.0,2,Month-to-month,Electronic check
+TEL-2772,52,Male,56,26.53,0.26,125.0,0,Two year,Mailed check
+TEL-1139,68,Male,71,90.19,374.05,32.0,2,One year,Credit card
+TEL-2190,73,Female,57,26.19,0.25,153.0,0,One year,Electronic check
+TEL-2661,66,Male,8,37.14,1.65,56.0,1,Month-to-month,Mailed check
+TEL-2753,38,Non-binary,47,22.61,1.72,160.0,0,One year,Bank transfer
+TEL-2022,19,Female,45,34.43,2.28,99.0,1,One year,Mailed check
+TEL-1792,42,Male,68,44.82,7.42,1198.0,0,Month-to-month,Bank transfer
+TEL-1563,70,Female,43,42.46,5.09,842.0,4,Month-to-month,Credit card
+TEL-2263,54,Male,52,28.08,2.97,91.0,1,One year,Bank transfer
+TEL-1355,46,Female,50,82.45,452.15,39.0,1,One year,Mailed check
+TEL-1299,32,Female,50,92.83,451.01,35.0,2,Month-to-month,Mailed check
+TEL-1555,66,Male,19,45.16,2.39,877.0,0,One year,Mailed check
+TEL-1161,61,Non-binary,40,92.29,432.32,18.0,0,Two year,Electronic check
+TEL-2157,73,Non-binary,54,19.18,1.56,90.0,0,Month-to-month,Bank transfer
+TEL-2678,65,Male,69,21.55,1.22,24.0,1,Two year,Credit card
+TEL-1465,25,Female,49,45.81,6.88,809.0,3,One year,Bank transfer
+TEL-2841,26,Non-binary,26,54.74,11.35,205.0,6,One year,Bank transfer
+TEL-1325,69,Non-binary,8,81.87,439.14,55.0,2,Two year,Electronic check
+TEL-2604,32,Non-binary,71,21.05,3.01,89.0,1,Two year,Credit card
+TEL-2825,80,Female,23,72.93,23.66,544.0,6,One year,Credit card
+TEL-2174,22,Non-binary,35,27.66,2.69,118.0,1,Month-to-month,Electronic check
+TEL-2436,75,Male,42,22.61,2.93,130.0,0,Month-to-month,Mailed check
+TEL-1351,43,Non-binary,42,87.18,438.47,80.0,0,One year,Bank transfer
+TEL-2933,24,Non-binary,66,67.17,19.77,355.0,3,Month-to-month,Mailed check
+TEL-2209,65,Female,8,27.99,1.14,67.0,3,Month-to-month,Bank transfer
+TEL-1185,28,Male,7,64.25,448.69,92.0,1,Month-to-month,Credit card
+TEL-2728,47,Male,71,24.41,-0.17,131.0,1,Month-to-month,Credit card
+TEL-2836,19,Non-binary,61,49.07,34.15,498.0,2,Month-to-month,Electronic check
+TEL-2154,78,Female,46,17.91,4.1,96.0,0,Two year,Bank transfer
+TEL-2911,66,Female,18,83.01,16.49,282.0,7,Month-to-month,Mailed check
+TEL-2250,56,Male,30,22.89,1.13,54.0,2,One year,Mailed check
+TEL-1229,65,Male,35,93.27,461.03,67.0,1,One year,Electronic check
+TEL-2059,68,Non-binary,54,21.34,1.97,155.0,0,One year,Mailed check
+TEL-1409,66,Male,22,39.42,5.91,900.0,1,Month-to-month,Bank transfer
+TEL-2229,70,Non-binary,48,31.66,1.64,129.0,0,One year,Electronic check
+TEL-2670,36,Non-binary,43,25.95,1.95,183.0,0,Month-to-month,Bank transfer
+TEL-1742,22,Non-binary,58,37.77,8.15,728.0,5,Month-to-month,Credit card
+TEL-1554,44,Male,6,36.36,2.43,668.0,2,Month-to-month,Bank transfer
+TEL-1627,49,Female,5,53.98,5.63,633.0,1,One year,Bank transfer
+TEL-2427,20,Non-binary,18,22.71,0.06,49.0,1,Month-to-month,Bank transfer
+TEL-1778,43,Non-binary,23,51.62,4.76,712.0,3,Month-to-month,Electronic check
+TEL-1136,26,Female,44,84.6,481.88,75.0,1,Two year,Bank transfer
+TEL-1858,58,Non-binary,28,37.02,5.17,557.0,0,Two year,Mailed check
+TEL-1876,26,Female,37,46.96,8.42,410.0,3,Two year,Mailed check
+TEL-2938,22,Non-binary,49,61.26,-1.96,266.0,6,One year,Electronic check
+TEL-2752,47,Non-binary,24,29.08,2.2,75.0,0,Two year,Electronic check
+TEL-1950,68,Non-binary,65,41.62,3.28,807.0,1,Month-to-month,Credit card
+TEL-2380,39,Male,47,21.05,1.98,12.0,0,One year,Electronic check
+TEL-1072,62,Female,16,96.22,466.0,32.0,0,Month-to-month,Credit card
+TEL-2755,49,Female,63,36.15,0.99,74.0,2,Month-to-month,Bank transfer
+TEL-2942,55,Male,49,74.39,35.15,244.0,3,Two year,Bank transfer
+TEL-2325,44,Non-binary,9,26.41,0.86,97.0,2,Two year,Electronic check
+TEL-2552,43,Male,69,29.53,0.72,101.0,0,Two year,Electronic check
+TEL-1261,49,Male,28,97.03,399.6,16.0,2,Month-to-month,Bank transfer
+TEL-1052,71,Female,17,97.88,411.44,53.0,0,One year,Bank transfer
+TEL-2690,24,Male,22,23.57,2.47,65.0,1,One year,Credit card
+TEL-2087,24,Male,1,27.98,2.17,168.0,0,Month-to-month,Credit card
+TEL-1893,41,Female,19,44.47,0.98,807.0,2,One year,Bank transfer
+TEL-1109,21,Female,67,108.25,487.26,83.0,1,Two year,Bank transfer
+TEL-1000,69,Non-binary,30,98.78,578.6,59.0,0,One year,Mailed check
+TEL-2368,63,Female,26,28.04,1.25,145.0,1,One year,Electronic check
+TEL-1689,58,Non-binary,35,53.79,7.23,469.0,1,One year,Credit card
+TEL-1470,53,Non-binary,52,40.89,6.19,882.0,4,Month-to-month,Bank transfer
+TEL-2214,75,Non-binary,27,22.14,3.55,102.0,2,One year,Bank transfer
+TEL-1967,36,Female,66,41.29,2.87,585.0,1,One year,Mailed check
+TEL-2658,27,Male,25,24.29,2.26,119.0,0,One year,Electronic check
+TEL-1502,53,Male,13,27.42,6.41,837.0,1,Month-to-month,Credit card
+TEL-2491,31,Female,48,17.65,1.67,59.0,0,One year,Bank transfer
+TEL-2689,52,Male,64,25.82,3.54,99.0,2,One year,Mailed check
+TEL-2053,59,Non-binary,44,31.17,2.79,39.0,0,Two year,Mailed check
+TEL-2160,28,Female,49,17.29,3.09,31.0,0,Two year,Electronic check
+TEL-2890,59,Non-binary,43,62.41,20.04,211.0,4,Two year,Bank transfer
+TEL-2969,72,Male,71,85.62,11.2,368.0,7,Month-to-month,Electronic check
+TEL-1346,78,Female,53,95.84,411.65,35.0,1,One year,Bank transfer
+TEL-1642,51,Non-binary,5,56.67,3.71,996.0,2,One year,Credit card
+TEL-2212,62,Female,50,12.78,0.56,144.0,0,Month-to-month,Credit card
+TEL-2236,22,Non-binary,12,20.91,2.25,154.0,1,Month-to-month,Credit card
+TEL-2377,47,Non-binary,20,25.22,-0.32,108.0,0,Month-to-month,Mailed check
+TEL-2578,32,Female,36,24.45,1.69,107.0,0,Two year,Bank transfer
+TEL-1607,27,Male,47,47.11,4.94,795.0,4,Two year,Mailed check
+TEL-2324,32,Female,67,23.76,3.38,24.0,0,Month-to-month,Electronic check
+TEL-2677,39,Non-binary,69,15.64,1.58,25.0,0,Month-to-month,Electronic check
+TEL-1658,73,Male,63,57.97,4.53,636.0,3,Two year,Mailed check
+TEL-1182,57,Male,21,83.16,448.54,41.0,0,One year,Mailed check
+TEL-2082,27,Female,46,20.55,2.71,94.0,0,Two year,Credit card
+TEL-2438,41,Non-binary,50,22.05,3.42,155.0,0,Month-to-month,Credit card
+TEL-1798,68,Non-binary,22,54.49,3.35,790.0,3,One year,Bank transfer
+TEL-1676,34,Female,21,47.82,0.89,826.0,1,One year,Bank transfer
+TEL-2072,25,Female,69,23.55,3.4,154.0,0,Month-to-month,Electronic check
+TEL-1749,19,Female,62,50.57,2.04,839.0,1,One year,Mailed check
+TEL-1264,35,Female,59,83.98,489.32,69.0,2,Month-to-month,Credit card
+TEL-1099,18,Non-binary,6,86.01,531.84,30.0,2,One year,Electronic check
+TEL-1159,19,Female,59,85.5,575.05,59.0,0,One year,Electronic check
+TEL-2402,39,Female,52,16.54,3.28,64.0,1,Two year,Bank transfer
+TEL-2979,49,Female,14,58.3,27.41,379.0,2,One year,Credit card
+TEL-2042,50,Male,16,27.41,2.23,120.0,0,Month-to-month,Credit card
+TEL-1107,80,Non-binary,20,74.31,451.84,20.0,1,Two year,Bank transfer
+TEL-1741,27,Female,70,37.66,7.65,984.0,0,Month-to-month,Mailed check
+TEL-1569,68,Female,32,58.17,6.27,736.0,2,Two year,Credit card
+TEL-2459,57,Female,45,21.27,2.4,114.0,0,One year,Bank transfer
+TEL-2773,39,Female,22,36.05,1.79,149.0,0,One year,Mailed check
+TEL-1086,24,Male,15,81.65,504.51,43.0,2,Two year,Mailed check
+TEL-2285,23,Male,55,34.68,0.56,107.0,2,Month-to-month,Mailed check
+TEL-1256,41,Female,20,74.44,457.57,60.0,1,Two year,Mailed check
+TEL-1414,54,Non-binary,17,54.35,4.41,680.0,2,One year,Mailed check
+TEL-2470,58,Male,1,27.09,2.05,95.0,0,Month-to-month,Electronic check
+TEL-2118,51,Non-binary,28,25.74,0.2,103.0,0,One year,Bank transfer
+TEL-1880,58,Male,20,50.07,4.82,778.0,2,Month-to-month,Credit card
+TEL-1629,78,Non-binary,47,41.01,6.92,699.0,0,Two year,Mailed check
+TEL-1533,50,Non-binary,11,31.79,7.96,826.0,2,Month-to-month,Bank transfer
+TEL-2295,32,Male,22,20.74,1.45,178.0,0,One year,Credit card
+TEL-2550,47,Non-binary,58,21.1,3.97,122.0,1,Month-to-month,Credit card
+TEL-1626,44,Male,21,36.43,3.72,1125.0,0,Two year,Electronic check
+TEL-1827,25,Male,42,39.13,6.86,866.0,2,Two year,Credit card
+TEL-2870,56,Female,56,79.62,29.54,347.0,5,Two year,Electronic check
+TEL-2526,67,Female,13,24.58,2.15,102.0,0,Month-to-month,Mailed check
+TEL-2020,63,Male,70,27.62,1.81,64.0,0,One year,Electronic check
+TEL-1145,79,Male,16,80.64,416.92,53.0,0,One year,Credit card
+TEL-2997,69,Male,46,10.0,16.72,341.0,3,Month-to-month,Electronic check
+TEL-2547,82,Female,13,26.97,1.44,111.0,1,Month-to-month,Electronic check
+TEL-1144,69,Non-binary,17,71.19,412.7,75.0,1,One year,Credit card
+TEL-1486,20,Female,58,50.62,2.98,1016.0,2,Month-to-month,Bank transfer
+TEL-1487,79,Female,72,47.81,5.72,864.0,3,Month-to-month,Mailed check
+TEL-1622,73,Female,15,52.96,6.9,777.0,5,One year,Electronic check
+TEL-2556,50,Female,16,23.99,1.53,124.0,0,One year,Electronic check
+TEL-2058,61,Male,17,22.3,1.31,91.0,0,Two year,Mailed check
+TEL-2309,36,Male,35,25.46,1.3,135.0,0,Two year,Mailed check
+TEL-1327,30,Male,40,90.54,419.81,57.0,1,One year,Mailed check
+TEL-1851,22,Female,43,50.17,3.04,780.0,2,Two year,Bank transfer
+TEL-1349,39,Non-binary,17,84.91,389.26,34.0,2,Two year,Mailed check
+TEL-1948,71,Female,50,34.99,6.02,752.0,3,Month-to-month,Bank transfer
+TEL-1542,27,Female,37,51.37,3.91,909.0,3,Month-to-month,Credit card
+TEL-1447,52,Non-binary,59,41.62,5.32,810.0,1,One year,Electronic check
+TEL-2002,58,Female,24,21.12,2.29,105.0,0,One year,Mailed check
+TEL-1606,21,Male,26,47.4,2.09,605.0,1,One year,Mailed check
+TEL-2517,18,Female,61,15.15,2.42,106.0,0,Two year,Mailed check
+TEL-1523,25,Female,12,44.95,6.3,659.0,1,Month-to-month,Electronic check
+TEL-2294,56,Non-binary,45,35.26,1.4,156.0,1,Month-to-month,Electronic check
+TEL-1407,41,Female,56,54.59,4.32,598.0,3,Month-to-month,Credit card
+TEL-1506,35,Non-binary,55,58.53,6.65,794.0,0,Month-to-month,Electronic check
+TEL-1894,42,Male,34,48.47,4.62,1045.0,1,One year,Credit card
+TEL-1853,48,Non-binary,63,44.08,5.74,632.0,1,Month-to-month,Bank transfer
+TEL-1548,35,Male,49,50.72,4.46,792.0,1,Two year,Electronic check
+TEL-1088,51,Non-binary,11,92.44,351.63,39.0,2,Two year,Mailed check
+TEL-2810,23,Male,2,90.51,22.03,297.0,5,One year,Electronic check
+TEL-2473,31,Male,49,33.69,2.04,84.0,0,One year,Credit card
+TEL-2655,43,Female,71,28.76,1.28,113.0,0,Two year,Bank transfer
+TEL-1906,80,Female,20,58.49,5.89,709.0,4,One year,Mailed check
+TEL-2622,44,Male,50,22.7,0.9,102.0,0,Month-to-month,Credit card
+TEL-1084,58,Female,41,81.95,448.17,75.0,0,Two year,Mailed check
+TEL-2627,33,Male,5,27.84,-0.68,66.0,0,One year,Electronic check
+TEL-1659,31,Male,64,58.07,7.95,516.0,1,Two year,Electronic check
+TEL-1244,65,Male,69,102.85,433.98,55.0,0,Two year,Electronic check
+TEL-2139,62,Male,72,21.5,2.61,104.0,1,One year,Mailed check
+TEL-2742,34,Male,51,23.36,4.02,91.0,0,One year,Mailed check
+TEL-1660,45,Male,61,44.55,3.25,976.0,2,Two year,Electronic check
+TEL-2704,53,Non-binary,32,14.42,-0.08,132.0,0,Month-to-month,Credit card
+TEL-2240,40,Female,71,26.7,1.8,19.0,0,Two year,Electronic check
+TEL-1730,64,Male,48,39.4,6.15,1028.0,4,One year,Mailed check
+TEL-1059,79,Female,7,108.94,419.35,42.0,3,One year,Electronic check
+TEL-1575,51,Male,42,34.35,7.39,763.0,1,Two year,Electronic check
+TEL-2888,46,Female,25,67.91,3.41,218.0,8,One year,Bank transfer
+TEL-1636,39,Male,40,43.72,4.36,934.0,0,Month-to-month,Electronic check
+TEL-2664,67,Female,56,21.98,1.58,74.0,1,Month-to-month,Mailed check
+TEL-2714,61,Female,56,21.53,3.65,107.0,3,One year,Bank transfer
+TEL-1273,40,Female,25,89.24,496.93,33.0,1,Month-to-month,Mailed check
+TEL-1176,36,Male,38,90.18,441.37,36.0,1,One year,Credit card
+TEL-1377,67,Male,10,96.62,382.2,33.0,0,Two year,Electronic check
+TEL-1964,50,Female,67,49.95,3.58,800.0,4,Month-to-month,Credit card
+TEL-1604,22,Male,53,45.89,6.29,806.0,3,Two year,Electronic check
+TEL-1269,63,Female,50,84.87,362.85,42.0,0,Two year,Credit card
+TEL-2007,42,Non-binary,66,22.96,0.92,162.0,1,One year,Mailed check
+TEL-1718,74,Female,13,34.88,7.03,1017.0,2,Month-to-month,Electronic check
+TEL-2975,49,Female,52,53.73,15.05,398.0,5,One year,Bank transfer
+TEL-2769,43,Non-binary,17,29.01,2.15,109.0,0,Two year,Bank transfer
+TEL-1468,62,Non-binary,69,50.93,5.8,930.0,2,Month-to-month,Credit card
+TEL-2981,29,Male,49,57.48,23.1,393.0,7,Month-to-month,Electronic check
+TEL-1938,51,Non-binary,16,44.66,2.75,657.0,2,One year,Credit card
+TEL-1270,41,Male,4,79.0,419.62,50.0,0,Two year,Mailed check
+TEL-2487,48,Male,45,31.5,1.69,34.0,0,Month-to-month,Bank transfer
+TEL-1483,78,Male,15,43.57,7.36,739.0,2,Two year,Mailed check
+TEL-1585,22,Female,56,40.27,5.98,938.0,1,Month-to-month,Electronic check
+TEL-1829,46,Male,16,50.14,3.92,527.0,4,Two year,Credit card
+TEL-2960,33,Male,58,60.14,9.96,447.0,8,Two year,Bank transfer
+TEL-1076,25,Female,56,88.42,535.23,62.0,0,Month-to-month,Credit card
+TEL-2662,43,Male,54,24.37,2.05,104.0,0,One year,Bank transfer
+TEL-2900,77,Non-binary,68,64.59,11.85,344.0,2,One year,Bank transfer
+TEL-1518,33,Non-binary,1,41.71,5.17,511.0,2,Month-to-month,Mailed check
+TEL-1995,21,Male,20,57.18,7.19,691.0,1,Month-to-month,Mailed check
+TEL-2831,40,Female,36,75.23,38.89,501.0,7,Two year,Bank transfer
+TEL-1324,57,Non-binary,20,82.91,448.73,38.0,1,One year,Credit card
+TEL-2513,54,Female,2,21.74,2.71,55.0,1,Month-to-month,Bank transfer
+TEL-2815,42,Non-binary,22,36.61,11.66,192.0,3,Two year,Credit card
+TEL-1365,69,Non-binary,3,89.28,400.37,49.0,2,Two year,Mailed check
+TEL-2937,22,Non-binary,33,72.81,27.14,511.0,3,One year,Credit card
+TEL-2889,55,Male,48,67.53,5.76,273.0,12,One year,Mailed check
+TEL-2409,29,Non-binary,22,27.9,1.51,154.0,0,One year,Credit card
+TEL-1631,36,Female,18,44.97,4.32,937.0,4,Month-to-month,Bank transfer
+TEL-2654,26,Non-binary,62,25.45,1.95,69.0,1,Month-to-month,Mailed check
+TEL-1094,61,Non-binary,51,73.21,525.77,37.0,1,One year,Mailed check
+TEL-2162,42,Male,11,29.92,1.5,125.0,0,Month-to-month,Mailed check
+TEL-1904,66,Female,70,43.61,7.51,711.0,3,Two year,Credit card
+TEL-2029,46,Non-binary,36,26.74,2.72,103.0,0,Two year,Electronic check
+TEL-1089,50,Female,53,82.95,448.94,38.0,1,Month-to-month,Credit card
+TEL-1657,64,Male,72,47.54,3.06,804.0,5,Two year,Bank transfer
+TEL-2535,55,Male,40,25.02,0.67,22.0,1,One year,Credit card
+TEL-2213,79,Female,43,24.98,2.1,96.0,1,Two year,Mailed check
+TEL-2936,75,Male,17,71.58,12.2,233.0,9,One year,Bank transfer
+TEL-1100,22,Female,57,85.41,440.83,18.0,1,One year,Credit card
+TEL-2060,29,Non-binary,62,17.18,1.13,155.0,3,Two year,Mailed check
+TEL-1843,40,Male,27,44.93,6.97,769.0,3,One year,Electronic check
+TEL-1690,23,Non-binary,14,45.24,0.9,1076.0,3,One year,Bank transfer
+TEL-2660,41,Male,14,16.93,0.75,77.0,0,Month-to-month,Credit card
+TEL-1036,21,Non-binary,40,85.09,411.79,54.0,0,Month-to-month,Bank transfer
+TEL-2576,18,Non-binary,10,31.36,2.31,59.0,0,One year,Electronic check
+TEL-2399,21,Female,33,27.71,2.28,148.0,0,Two year,Bank transfer
+TEL-1371,33,Female,23,62.99,460.11,43.0,3,Two year,Bank transfer
+TEL-1472,36,Female,31,38.7,2.96,865.0,2,One year,Credit card
+TEL-1227,34,Male,16,92.71,498.52,39.0,0,One year,Credit card
+TEL-1883,42,Male,63,35.32,2.28,758.0,1,Two year,Credit card
+TEL-2182,67,Female,53,23.52,2.77,41.0,1,One year,Bank transfer
+TEL-1565,70,Non-binary,58,42.49,5.62,381.0,3,One year,Bank transfer
+TEL-2115,83,Non-binary,26,23.89,3.26,121.0,0,Month-to-month,Bank transfer
+TEL-1539,64,Female,56,41.75,3.09,768.0,0,One year,Mailed check
+TEL-2624,45,Male,37,19.09,3.08,126.0,2,Month-to-month,Bank transfer
+TEL-1888,34,Non-binary,18,53.15,1.21,637.0,1,Two year,Electronic check
+TEL-2976,68,Female,68,49.17,8.16,323.0,4,Two year,Bank transfer
+TEL-1916,46,Non-binary,68,44.44,5.6,955.0,4,One year,Mailed check
+TEL-2573,36,Male,45,32.14,0.91,42.0,0,One year,Bank transfer
+TEL-1382,68,Female,13,66.93,424.07,52.0,0,Month-to-month,Credit card
+TEL-2866,38,Non-binary,63,61.86,14.05,334.0,2,Month-to-month,Credit card
+TEL-2012,57,Male,24,29.12,-1.45,129.0,0,Month-to-month,Electronic check
+TEL-1583,82,Female,9,45.14,5.31,992.0,4,Month-to-month,Electronic check
+TEL-1262,50,Male,69,86.8,433.01,66.0,2,Two year,Bank transfer
+TEL-2468,54,Female,35,32.84,1.35,129.0,0,Month-to-month,Mailed check
+TEL-1980,22,Male,40,51.9,0.97,824.0,4,One year,Bank transfer
+TEL-2119,47,Male,9,23.33,2.1,70.0,0,Month-to-month,Bank transfer
+TEL-2729,25,Female,18,30.16,2.71,131.0,0,Two year,Bank transfer
+TEL-1535,30,Non-binary,17,44.06,2.27,839.0,0,Two year,Credit card
+TEL-1838,44,Male,60,32.01,3.0,1064.0,1,Two year,Bank transfer
+TEL-1021,77,Non-binary,28,116.13,486.65,45.0,0,Month-to-month,Electronic check
+TEL-2289,43,Female,28,19.65,3.74,77.0,0,Two year,Bank transfer
+TEL-1825,32,Female,64,58.39,3.03,849.0,0,Two year,Bank transfer
+TEL-2783,47,Female,37,17.87,1.27,86.0,0,Month-to-month,Mailed check
+TEL-1344,18,Female,8,87.23,428.31,48.0,0,Month-to-month,Electronic check
+TEL-1203,20,Non-binary,46,85.16,450.78,60.0,0,Month-to-month,Electronic check
+TEL-1302,80,Male,33,77.24,467.99,23.0,0,Two year,Electronic check
+TEL-1963,24,Non-binary,12,63.18,4.03,963.0,2,Month-to-month,Electronic check
+TEL-2904,75,Male,58,69.95,16.28,231.0,5,Two year,Mailed check
+TEL-2591,26,Non-binary,3,23.42,1.62,11.0,0,Month-to-month,Mailed check
+TEL-1885,19,Male,2,44.67,7.6,1114.0,2,Two year,Bank transfer
+TEL-1275,44,Female,32,79.61,454.15,70.0,1,Month-to-month,Bank transfer
+TEL-1010,55,Non-binary,66,82.79,517.55,48.0,1,Two year,Mailed check
+TEL-1383,60,Female,36,82.25,492.66,19.0,2,Two year,Electronic check
+TEL-1793,34,Male,41,38.75,1.49,978.0,6,Month-to-month,Mailed check
+TEL-1146,75,Female,3,82.42,487.67,63.0,1,One year,Electronic check
+TEL-1285,67,Female,41,77.21,403.88,64.0,2,One year,Bank transfer
+TEL-1702,79,Female,58,52.0,6.88,846.0,6,One year,Bank transfer
+TEL-2353,81,Non-binary,43,21.99,1.33,82.0,1,Month-to-month,Bank transfer
+TEL-1406,27,Male,53,53.95,6.69,1047.0,3,Month-to-month,Credit card
+TEL-1592,68,Female,26,46.84,2.02,902.0,3,Two year,Mailed check
+TEL-1734,55,Non-binary,17,44.65,2.97,736.0,1,Two year,Mailed check
+TEL-1500,64,Female,17,38.11,3.92,962.0,5,Month-to-month,Bank transfer
+TEL-2759,31,Female,62,31.26,1.47,70.0,0,Two year,Electronic check
+TEL-2919,60,Non-binary,20,51.3,14.04,214.0,4,Two year,Electronic check
+TEL-1715,23,Male,4,36.14,6.81,672.0,1,Month-to-month,Bank transfer
+TEL-2874,70,Female,62,85.38,15.9,397.0,3,Two year,Bank transfer
+TEL-1501,38,Non-binary,30,51.76,0.67,801.0,1,Two year,Credit card
+TEL-2920,18,Male,47,44.66,29.32,189.0,6,Two year,Electronic check
+TEL-1464,55,Male,59,48.55,3.54,834.0,1,Month-to-month,Credit card
+TEL-2675,50,Female,39,17.52,0.77,86.0,0,One year,Mailed check
+TEL-2047,83,Female,32,29.99,2.9,42.0,0,Two year,Mailed check
+TEL-2131,73,Non-binary,38,27.57,3.06,112.0,1,Month-to-month,Credit card
+TEL-1547,82,Male,11,46.85,6.18,578.0,1,Two year,Mailed check
+TEL-2383,63,Non-binary,19,21.41,2.92,180.0,1,One year,Bank transfer
+TEL-2931,69,Non-binary,53,44.2,31.11,385.0,10,Two year,Credit card
+TEL-1581,67,Male,38,39.82,3.21,550.0,1,Month-to-month,Bank transfer
+TEL-2813,25,Male,12,50.74,34.28,368.0,9,Month-to-month,Electronic check
+TEL-2281,24,Non-binary,6,30.46,1.83,127.0,1,Month-to-month,Bank transfer
+TEL-2218,57,Female,29,23.2,2.41,55.0,0,Month-to-month,Electronic check
+TEL-1868,80,Non-binary,67,37.52,6.53,897.0,3,Month-to-month,Credit card
+TEL-2671,53,Female,17,26.04,1.42,168.0,0,Month-to-month,Electronic check
+TEL-1443,75,Female,39,39.23,3.97,603.0,0,Month-to-month,Credit card
+TEL-2396,79,Non-binary,55,14.99,3.9,155.0,0,Month-to-month,Bank transfer
+TEL-2299,19,Male,42,25.67,2.05,117.0,1,One year,Bank transfer
+TEL-1313,59,Female,66,94.1,441.59,49.0,1,One year,Electronic check
+TEL-1534,46,Non-binary,43,49.74,4.73,870.0,1,Month-to-month,Electronic check
+TEL-2649,62,Female,61,21.18,2.65,90.0,1,One year,Credit card
+TEL-2215,84,Male,32,25.73,2.26,148.0,0,Month-to-month,Mailed check
+TEL-1246,21,Female,25,82.75,403.0,100.0,0,Two year,Bank transfer
+TEL-2279,53,Male,66,27.0,2.53,97.0,1,Month-to-month,Bank transfer
+TEL-1683,84,Male,17,34.05,8.34,611.0,3,Two year,Electronic check
+TEL-1361,50,Non-binary,10,76.98,520.6,39.0,0,Month-to-month,Credit card
+TEL-2542,25,Male,50,17.63,1.76,81.0,0,Month-to-month,Bank transfer
+TEL-2778,66,Female,44,24.64,2.33,131.0,0,One year,Electronic check
+TEL-2126,46,Female,11,16.81,2.25,79.0,0,Two year,Mailed check
+TEL-1673,45,Non-binary,63,42.57,4.19,688.0,4,One year,Electronic check
+TEL-2651,30,Non-binary,13,28.7,-0.59,91.0,1,Month-to-month,Mailed check
+TEL-2722,75,Non-binary,23,21.16,2.79,77.0,1,Month-to-month,Mailed check
+TEL-2546,51,Non-binary,25,26.77,2.06,131.0,0,Two year,Bank transfer
+TEL-2558,36,Female,15,27.5,2.88,116.0,0,Two year,Bank transfer
+TEL-2106,72,Non-binary,13,24.84,1.94,108.0,0,One year,Mailed check
+TEL-1850,60,Female,13,55.1,4.86,840.0,0,Two year,Electronic check
+TEL-1782,35,Female,15,40.17,3.05,917.0,0,Month-to-month,Bank transfer
+TEL-1664,76,Female,34,53.37,6.21,851.0,2,One year,Mailed check
+TEL-1375,41,Non-binary,56,88.75,388.34,32.0,1,Two year,Electronic check
+TEL-2151,29,Female,43,22.97,0.83,92.0,1,Two year,Credit card
+TEL-1710,53,Non-binary,6,37.53,4.6,819.0,1,Two year,Electronic check
+TEL-1898,46,Female,22,48.84,3.87,979.0,1,Month-to-month,Bank transfer
+TEL-2483,53,Non-binary,34,17.15,1.53,93.0,0,One year,Bank transfer
+TEL-1485,18,Female,24,54.68,1.2,781.0,3,One year,Bank transfer
+TEL-2650,64,Male,32,20.15,1.96,103.0,1,Month-to-month,Electronic check
+TEL-1495,61,Female,39,57.45,2.78,666.0,1,Month-to-month,Mailed check
+TEL-2170,58,Female,54,21.71,2.45,115.0,1,Month-to-month,Bank transfer
+TEL-1570,62,Male,60,53.06,7.31,700.0,3,Two year,Mailed check
+TEL-2485,40,Non-binary,18,20.03,1.71,128.0,1,One year,Mailed check
+TEL-1026,79,Non-binary,15,67.04,476.72,42.0,0,Two year,Bank transfer
+TEL-1122,79,Female,49,77.33,340.28,51.0,1,One year,Bank transfer
+TEL-1800,84,Male,22,39.89,1.18,922.0,2,Month-to-month,Bank transfer
+TEL-1041,19,Male,13,105.42,351.2,54.0,1,Month-to-month,Credit card
+TEL-1945,74,Male,4,47.23,7.23,801.0,4,Two year,Electronic check
+TEL-1247,52,Male,68,75.71,473.83,44.0,0,Two year,Credit card
+TEL-2789,31,Female,16,23.46,2.04,186.0,0,Month-to-month,Electronic check
+TEL-2057,20,Non-binary,31,17.63,1.98,158.0,0,Month-to-month,Mailed check
+TEL-2902,46,Non-binary,50,52.5,29.94,212.0,7,One year,Credit card
+TEL-1708,48,Male,5,42.92,3.88,869.0,2,One year,Credit card
+TEL-1989,31,Non-binary,32,42.71,4.41,524.0,0,Two year,Credit card
+TEL-2582,36,Non-binary,18,27.81,1.72,84.0,0,One year,Bank transfer
+TEL-1895,69,Non-binary,13,28.96,5.32,690.0,2,One year,Credit card
+TEL-1400,24,Male,60,45.09,8.96,930.0,2,One year,Electronic check
+TEL-2478,52,Female,16,26.66,1.21,139.0,0,Month-to-month,Mailed check
+TEL-1356,64,Female,71,87.56,501.14,87.0,0,Month-to-month,Credit card
+TEL-2708,30,Male,60,28.04,1.37,41.0,0,Month-to-month,Bank transfer
+TEL-2784,47,Non-binary,65,23.51,2.31,118.0,0,One year,Credit card
+TEL-2868,27,Female,51,68.45,21.58,225.0,10,One year,Bank transfer
+TEL-2527,46,Male,12,24.01,3.47,51.0,2,One year,Bank transfer
+TEL-2321,41,Female,45,25.61,1.83,23.0,0,Two year,Electronic check
+TEL-2448,53,Male,20,33.8,2.71,110.0,0,One year,Electronic check
+TEL-2794,19,Male,65,24.41,3.28,126.0,1,Month-to-month,Credit card
+TEL-2625,52,Female,59,24.01,1.54,75.0,0,One year,Bank transfer
+TEL-2055,56,Male,27,21.52,2.46,56.0,0,Two year,Electronic check
+TEL-2921,68,Non-binary,9,61.27,39.67,112.0,6,Two year,Credit card
+TEL-1332,36,Non-binary,62,77.41,411.33,61.0,1,Month-to-month,Credit card
+TEL-1219,50,Non-binary,12,80.71,362.86,53.0,1,Month-to-month,Electronic check
+TEL-1531,80,Female,42,39.32,5.12,780.0,0,One year,Bank transfer
+TEL-1134,20,Non-binary,58,80.19,456.78,60.0,1,Two year,Electronic check
+TEL-1388,57,Male,22,83.1,455.36,82.0,2,One year,Mailed check
+TEL-1891,68,Female,30,46.35,7.64,982.0,1,Two year,Mailed check
+TEL-2045,79,Male,71,25.69,2.27,-50.0,1,One year,Electronic check
+TEL-2153,54,Male,37,22.76,2.64,142.0,0,Two year,Credit card
+TEL-2455,75,Female,41,23.71,2.24,72.0,1,Month-to-month,Electronic check
+TEL-2944,42,Female,26,52.41,27.7,87.0,3,One year,Electronic check
+TEL-1903,66,Male,38,51.95,9.81,1165.0,3,Month-to-month,Mailed check
+TEL-1670,55,Female,40,41.89,5.44,797.0,0,One year,Electronic check
+TEL-2607,63,Non-binary,29,29.43,1.81,184.0,1,Two year,Bank transfer
+TEL-1437,40,Male,13,44.29,7.87,635.0,4,One year,Electronic check
+TEL-2665,41,Male,61,17.16,2.93,133.0,2,Month-to-month,Bank transfer
+TEL-2538,69,Non-binary,29,19.8,2.34,144.0,1,Month-to-month,Bank transfer
+TEL-2070,29,Non-binary,66,21.46,1.86,50.0,0,Month-to-month,Mailed check
+TEL-1870,72,Non-binary,47,54.52,5.96,569.0,1,Two year,Credit card
+TEL-2034,53,Non-binary,23,21.5,2.24,57.0,0,Month-to-month,Credit card
+TEL-2297,46,Non-binary,69,31.17,1.7,78.0,0,Month-to-month,Credit card
+TEL-2985,30,Male,13,76.83,21.42,282.0,4,One year,Electronic check
+TEL-1717,79,Non-binary,14,43.28,6.77,792.0,3,One year,Mailed check
+TEL-2566,80,Non-binary,49,19.31,0.82,91.0,1,Month-to-month,Mailed check
+TEL-2308,23,Female,29,22.33,3.0,123.0,0,Month-to-month,Credit card
+TEL-2774,60,Non-binary,67,22.36,1.87,98.0,0,Two year,Credit card
+TEL-1213,83,Female,8,102.31,527.02,42.0,2,One year,Credit card
+TEL-1278,50,Non-binary,18,76.82,406.21,57.0,0,Month-to-month,Credit card
+TEL-2673,64,Non-binary,2,16.23,1.59,137.0,0,One year,Credit card
+TEL-2822,37,Male,6,71.42,33.85,23.0,8,Two year,Electronic check
+TEL-1812,74,Male,25,29.15,5.9,783.0,4,One year,Electronic check
+TEL-2450,51,Non-binary,28,15.28,2.0,91.0,0,Two year,Electronic check
+TEL-1568,18,Non-binary,58,50.42,0.47,1202.0,1,Two year,Electronic check
+TEL-1449,26,Male,38,59.61,5.06,657.0,6,Month-to-month,Credit card
+TEL-1908,66,Non-binary,32,44.35,5.61,917.0,1,Month-to-month,Credit card
+TEL-2025,68,Female,61,33.68,3.04,184.0,1,One year,Bank transfer
+TEL-1378,52,Male,39,79.6,440.21,64.0,1,Month-to-month,Electronic check
+TEL-2595,83,Male,48,27.29,1.63,86.0,1,One year,Mailed check
+TEL-1212,35,Non-binary,2,75.82,509.31,59.0,1,Two year,Mailed check
+TEL-2056,52,Female,43,30.48,1.68,139.0,1,Two year,Credit card
+TEL-1236,25,Non-binary,38,83.25,501.93,54.0,0,One year,Bank transfer
+TEL-2452,23,Male,66,20.24,1.19,109.0,2,Month-to-month,Mailed check
+TEL-2598,42,Male,56,27.51,0.01,65.0,1,Month-to-month,Mailed check
+TEL-1477,56,Non-binary,42,45.05,6.08,860.0,3,Two year,Electronic check
+TEL-1357,79,Non-binary,58,96.93,440.48,51.0,1,One year,Mailed check
+TEL-1231,39,Non-binary,21,79.94,431.07,18.0,1,Two year,Mailed check
+TEL-2711,19,Male,34,25.36,3.6,60.0,0,One year,Electronic check
+TEL-2983,35,Male,44,60.91,14.56,273.0,9,One year,Bank transfer
+TEL-1189,48,Female,23,94.74,484.5,53.0,1,One year,Electronic check
+TEL-1593,55,Female,20,45.99,3.7,898.0,3,One year,Electronic check
+TEL-2242,27,Female,58,24.44,2.02,144.0,1,Month-to-month,Mailed check
+TEL-1852,54,Male,17,48.23,6.57,917.0,1,Month-to-month,Mailed check
+TEL-1661,19,Male,54,47.02,8.09,718.0,1,Two year,Electronic check
+TEL-1394,63,Non-binary,69,72.58,544.42,32.0,1,Two year,Electronic check
+TEL-2275,31,Female,11,18.58,3.21,185.0,1,Two year,Mailed check
+TEL-2930,28,Female,49,66.63,15.03,505.0,12,One year,Mailed check
+TEL-1811,55,Non-binary,30,58.92,5.25,973.0,3,Two year,Mailed check
+TEL-1188,40,Female,4,92.95,451.57,77.0,1,Two year,Mailed check
+TEL-2674,66,Non-binary,4,16.69,2.35,135.0,0,Two year,Credit card
+TEL-2453,56,Female,25,21.59,2.48,82.0,0,Two year,Credit card
+TEL-2746,20,Female,20,22.61,1.46,104.0,1,One year,Mailed check
+TEL-1724,61,Non-binary,35,34.75,3.54,738.0,4,Month-to-month,Credit card
+TEL-1546,50,Male,49,41.72,4.63,726.0,0,One year,Bank transfer
+TEL-1391,46,Female,11,81.96,446.0,47.0,1,One year,Electronic check
+TEL-1271,49,Male,42,69.41,528.41,81.0,1,Month-to-month,Credit card
+TEL-1152,73,Non-binary,42,86.5,441.04,74.0,3,One year,Credit card
+TEL-2388,84,Non-binary,45,23.53,2.5,132.0,1,One year,Credit card
+TEL-2505,66,Non-binary,4,24.74,2.79,106.0,0,Two year,Bank transfer
+TEL-2490,84,Non-binary,70,25.93,0.28,23.0,0,Two year,Mailed check
+TEL-1416,72,Female,15,31.88,3.76,584.0,2,One year,Credit card
+TEL-1233,55,Male,30,85.62,451.88,33.0,2,Month-to-month,Bank transfer
+TEL-2270,34,Female,38,25.8,3.56,111.0,0,Two year,Credit card
+TEL-1969,46,Female,16,44.86,5.62,934.0,0,One year,Bank transfer
+TEL-2617,38,Male,71,19.45,1.96,156.0,1,One year,Credit card
+TEL-2519,76,Male,67,30.29,3.42,147.0,0,One year,Electronic check
+TEL-1461,22,Non-binary,32,51.69,7.61,729.0,2,Two year,Bank transfer
+TEL-2907,45,Male,55,64.97,39.42,335.0,8,Month-to-month,Credit card
+TEL-1930,21,Non-binary,32,48.96,6.82,1057.0,1,Month-to-month,Credit card
+TEL-1907,78,Male,9,42.36,5.6,705.0,4,One year,Electronic check
+TEL-1497,49,Male,61,35.44,4.89,778.0,0,Month-to-month,Credit card
+TEL-2141,47,Non-binary,52,23.81,0.59,223.0,1,One year,Electronic check
+TEL-2408,29,Non-binary,54,22.8,2.46,73.0,1,One year,Credit card
+TEL-1976,19,Non-binary,25,34.64,7.53,687.0,0,Two year,Credit card
+TEL-2863,72,Male,30,53.94,10.59,418.0,11,Two year,Bank transfer
+TEL-1755,41,Non-binary,3,41.93,5.26,815.0,0,Two year,Electronic check
+TEL-1196,65,Non-binary,63,80.85,432.8,64.0,0,One year,Credit card
+TEL-1694,76,Non-binary,54,48.89,4.16,513.0,2,Two year,Credit card
